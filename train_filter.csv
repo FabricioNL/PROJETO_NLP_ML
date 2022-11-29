@@ -1,0 +1,3055 @@
+id,anchor,target,context,score
+6bdd1d05ffa3401e,abatement,emission abatement,H04,0.5
+a937ae580ea4bd97,achieve authentication,achieve access,H04,0.75
+ea154b802bebc48a,achieve authentication,achieve authentication accuracy,H04,0.5
+24eda11bf0665917,achieve authentication,achieve authorization,H04,0.75
+14c027729175aedd,achieve authentication,achieve goal,H04,0.0
+6553f33ff35f0e58,achieve authentication,achieve goals,H04,0.0
+76a67059397b6ab4,achieve authentication,achieve local authentication,H04,0.5
+b1f6c5153065d1f4,achieve authentication,achieve mutual authentication,H04,0.5
+8f503153606f57ba,achieve authentication,achieve success,H04,0.0
+c48fe27988cb335a,achieve authentication,achieve target,H04,0.0
+0d40fb13a68069f1,achieve authentication,achieve the authentication requirement,H04,0.75
+7a33ea9b3475af14,achieve authentication,achieve verification,H04,0.75
+d2088cdd8be8761b,achieve authentication,biometric,H04,0.25
+804ab9af5a8550f6,achieve authentication,denial of authorization,H04,0.25
+a9517b7094b76f0c,achieve authentication,denied access,H04,0.25
+86a215a06817e866,achieve authentication,encryption,H04,0.5
+63ae5e20e8e310dd,achieve authentication,failed authorization request,H04,0.25
+67dbbc523e25a8b1,achieve authentication,login,H04,0.25
+1a76d7a9dadc8deb,achieve authentication,multi factor authentication,H04,0.5
+2ad713aa54d461ba,achieve authentication,signature,H04,0.25
+35546bdc044efe91,achieve authentication,target achieved,H04,0.0
+ae669f9980698f21,achieve authentication,vehicle verification,H04,0.0
+e8aa282521dc2bb6,adaptive linear,adapting,H04,0.25
+c7981eb2712b238c,adaptive linear,adapting linear,H04,1.0
+1f741731b5547b0d,adaptive linear,adaptive,H04,0.25
+848eb589b62260ec,adaptive linear,adaptive filter,H04,0.25
+e504ef7f72d131ae,adaptive linear,adaptive immunity,H04,0.0
+36e747730166a75d,adaptive linear,adaptive linear combiner,H04,0.5
+17888f3cc14fd0a3,adaptive linear,adaptive linear digital model,H04,0.5
+eda3e53cd65e28d5,adaptive linear,adaptive linear equalization,H04,0.5
+6a2f0308f283cc4c,adaptive linear,adaptive linear filter,H04,0.5
+39b96c6464d8f4e0,adaptive linear,adaptive nature,H04,0.5
+8923194a407e1d8e,adaptive linear,adaptive radiation,H04,0.0
+37027c63c5b480b2,adaptive linear,automatic linear,H04,0.75
+8718dc337665a636,adaptive linear,dynamic linear,H04,0.75
+b0796c5c5ac33580,adaptive linear,equalizer,H04,0.25
+bb4fe1d01682b78b,adaptive linear,linear adaptive,H04,0.75
+5f5da774cd33d157,adaptive linear,linear contrast enhancement,H04,0.25
+c1bf58bac605ae4a,adaptive linear,linear graph,H04,0.0
+ad13855715768d00,adaptive linear,linear model,H04,0.0
+0ea918472a29edd3,adaptive linear,linear pair of angles,H04,0.0
+a98f4d7e3588b09d,adaptive linear,linearly adaptive,H04,0.75
+321811ec93942a8d,adaptive linear,mp tc,H04,0.25
+4ea0d228a94ac406,adaptive linear,network,H04,0.25
+e2722f3fab6a4d61,adaptive linear,non adaptive speckle filtering,H04,0.25
+932587f50163c70d,adaptive linear,non linear model,H04,0.25
+f28652e82a866499,adaptive linear,recursion estimator,H04,0.25
+3f502328d7d933e3,apply to requests,apply acknowledgement,H04,0.25
+03feadb4d6942b49,apply to requests,apply for license,H04,0.0
+5a1c4586d47225a4,apply to requests,apply glue,H04,0.0
+87e17c96e820f04d,apply to requests,apply http request,H04,0.5
+14b42f89180cc1b0,apply to requests,apply request,H04,1.0
+cd5f66ccdacfff8d,apply to requests,apply request message,H04,0.25
+99d105ef372366ae,apply to requests,apply to both requests,H04,0.75
+56b03ab7b1efe0c3,apply to requests,apply to both requests and responses,H04,0.75
+e27b530dfcddce52,apply to requests,apply to command,H04,0.5
+63e590ae5cdfb834,apply to requests,electronic ordering systems,H04,0.25
+93d5299e9ea05403,apply to requests,filtering rules,H04,0.5
+9ae65d4d1b0ff37c,apply to requests,friend request,H04,0.0
+e00c0da285f53e17,apply to requests,personalized ordering model,H04,0.25
+f35ab2c6d74d8e6a,apply to requests,polite request,H04,0.0
+7b9038032f1a0f5c,apply to requests,re ordering unit,H04,0.25
+eebbed12f31039a4,apply to requests,request apparatus,H04,0.25
+583531649a497759,apply to requests,request leave,H04,0.0
+b4634bfc24c614ef,apply to requests,request letter,H04,0.0
+f3a42c6a8b9e20c7,apply to requests,request reply protocol,H04,0.5
+a04d9e8fb63f13fb,apply to requests,respond to requests,H04,0.25
+f901d5dc87525f5c,apply to requests,sampling rate,H04,0.5
+8d2ad485e0fa3d4e,arcuate means,adjustment means,H04,0.25
+c29aaee33fa661f2,arcuate means,arc shape,H04,0.5
+4a70ea718bff9c82,arcuate means,arcuate ligament,H04,0.0
+ed6648c9c664022b,arcuate means,arcuate receiving means,H04,0.75
+84dd259f393baf16,arcuate means,arcuate surface,H04,0.75
+b6fb95f5803567fe,arcuate means,circular ring sector,H04,0.25
+749f8ac923643a80,arcuate means,concave lens,H04,0.0
+b634a32b86f69dfe,arcuate means,concave mean,H04,0.5
+84d023882c7a3a94,arcuate means,curve fitting,H04,0.0
+c878a2f4b7d06ef0,arcuate means,curve mean,H04,0.75
+370fdf2ced26e0fe,arcuate means,document arcuate means,H04,0.25
+2b716cb386164c2e,arcuate means,document support,H04,0.5
+f6b298aa4d3ff780,arcuate means,imparting an arcuate shape,H04,0.5
+19f05d1679dbebb1,arcuate means,light,H04,0.25
+65cf454ce967d35b,arcuate means,light source,H04,0.25
+cf7e19a410922693,arcuate means,linear content,H04,0.25
+c56a4d1d1ef48250,arcuate means,linear light,H04,0.25
+8e5c08e795bb6799,arcuate means,linear light source,H04,0.25
+14b5d45624eba562,arcuate means,linear source,H04,0.25
+88880063ce960a01,arcuate means,means of communication,H04,0.0
+c5c4601d41b168ea,arcuate means,means of transport,H04,0.0
+33b732a9f2dce696,arcuate means,non linear distortion energy,H04,0.25
+9c6bf42b394356a4,arcuate means,outer circular circumference,H04,0.25
+2fc47716226444fe,arcuate means,segment tree,H04,0.0
+f16d08d377911a50,arcuate means,semi cylindrical profile,H04,0.25
+96dead50daa9ec58,arcuate means,source,H04,0.25
+12ddefcc49a10d8b,arcuate means,tone mapping curve,H04,0.25
+bca7625e08080981,average power ratio reduction,average annual score,H04,0.0
+5fb7b080ac7caa37,average power ratio reduction,average current drain,H04,0.25
+032f5d45c02097d3,average power ratio reduction,average expected payback,H04,0.25
+79fe8ac8ff17f37c,average power ratio reduction,average marks,H04,0.0
+e86d818a6cdf605c,average power ratio reduction,average medical data level,H04,0.25
+a6cd8aa69a563b79,average power ratio reduction,average power reduction,H04,0.75
+e1e4deff434ec66a,average power ratio reduction,average power suppression,H04,0.5
+5a0861c371f30379,average power ratio reduction,average ratio reduction,H04,0.5
+6e48181637e1432d,average power ratio reduction,average ratio suppression,H04,0.5
+cfa4d686838e63da,average power ratio reduction,average voltage ratio reduction,H04,0.5
+ab377ba22e97343e,average power ratio reduction,average weight,H04,0.0
+febfd5df122b2834,average power ratio reduction,gross profit ratio,H04,0.0
+44417f62c42da8f4,average power ratio reduction,peak power reduction,H04,0.5
+98458994d5be4ea5,average power ratio reduction,peak power suppression,H04,0.5
+138fdd63c8aa4b5a,average power ratio reduction,peak ratio reduction,H04,0.25
+d1c455d312118e6d,average power ratio reduction,peak ratio suppression,H04,0.25
+cdd89c4a83656a94,average power ratio reduction,peak reducing signal,H04,0.5
+cf980e6749160126,average power ratio reduction,power difference,H04,0.25
+ce9d3db9c5952680,average power ratio reduction,power optimisation,H04,0.25
+270dfffb00c9fafb,average power ratio reduction,power outage,H04,0.0
+5c4f9b96c4896e9c,average power ratio reduction,power ratio,H04,0.5
+4c7822ed2727f8e6,average power ratio reduction,power sharing,H04,0.25
+19efb6734e31154c,average power ratio reduction,ratio spread,H04,0.0
+968814afb88a9c61,average power ratio reduction,reducing average power,H04,0.5
+d003f73ea6fb8576,average power ratio reduction,reducing ratio of power range,H04,0.75
+4df1cc155ce5e715,average power ratio reduction,two stage index modulation,H04,0.5
+3827b0d844933938,bandedge,color,G02,0.0
+134167fd2f4fe2a8,bandedge,main peak,G02,0.5
+672782d450fcb539,bandedge,maximum,G02,0.25
+5b8ccd72297ccf61,bandedge,maximum peak,G02,0.5
+88dc23f49ec264f7,bandedge,peak,G02,0.5
+5165ca65b713c658,bandedge,simultaneous,G02,0.0
+98e4ab015483b2bc,bandedge,wavelength,G02,0.25
+0f56aa5226f5f641,based interpolation,based on a true story,H04,0.0
+2f28397c899e27d9,based interpolation,chemical based,H04,0.0
+aef1add4124d5b31,based interpolation,computation,H04,0.25
+c2285def6a32997a,based interpolation,distance based interpolation,H04,0.5
+2ef976f1f9c657e6,based interpolation,electronic interpolation,H04,0.5
+8db38c70090d103c,based interpolation,equation,H04,0.0
+7e6a9a7f12598e30,based interpolation,estimator,H04,0.25
+d083bac63f9d4a07,based interpolation,extrapolation techniques,H04,0.25
+42051ea4d9b73fbb,based interpolation,function,H04,0.0
+239c1c9f8e84ee27,based interpolation,interpolated points,H04,0.5
+3276a89ffa547dcd,based interpolation,interpolation,H04,0.5
+6507dafbb028d24e,based interpolation,interpolation based,H04,1.0
+3aa9ec1ee691882a,based interpolation,inverse distance weighting interpolation,H04,0.5
+5ea3cf788731e516,based interpolation,known good component,H04,0.25
+4f46b8468e9d7a25,based interpolation,linear equation,H04,0.0
+8ff33fed8f841b39,based interpolation,linear interpolation,H04,0.5
+7ab90877749af2b7,based interpolation,linear pair,H04,0.0
+140c2d17a45361e7,based interpolation,multivariate interpolation,H04,0.5
+86537b23e9760afc,based interpolation,numeric analysis,H04,0.5
+04968efc33076f9d,based interpolation,organic based,H04,0.0
+7d3c49b0c5fda9d2,based interpolation,resampling function,H04,0.25
+10f3abc3e194c0e8,based interpolation,signal interpolation,H04,0.5
+040c962bdd1fd0b1,based interpolation,statistical extrapolation,H04,0.25
+7fe0f2dd16fc84b6,based interpolation,traffic signal,H04,0.0
+d45a1fdfb3452b13,based method,artificial intelligence based method,H04,0.5
+62837a7691c7431b,based method,bank,H04,0.0
+820d4d5c1a08e3d1,based method,bank capable,H04,0.0
+8ce4185023c4c5d0,based method,bank method,H04,0.0
+a007483a16279154,based method,bank methods,H04,0.0
+843ea0bf870cb4f5,based method,based on communication,H04,0.25
+c6b16dff420ff1ad,based method,based step,H04,0.75
+5d383465ecefbb75,based method,calculation method,H04,0.5
+16b2e9d54ba3c873,based method,chocolate based,H04,0.0
+71904eac386a12e1,based method,circuit based method,H04,0.5
+e39a438ec24eb6b5,based method,circuit capable,H04,0.0
+4788be4ec3bffa1f,based method,circuit method,H04,0.25
+cb5a33e139179ac9,based method,compared to not using the method,H04,0.25
+ddae558152bc6038,based method,cream based,H04,0.0
+96cfc9df1d2e60c2,based method,federated learning based method,H04,0.5
+2aab58422ee8b10f,based method,implemented,H04,0.5
+bb24a692b8dd141d,based method,implemented system,H04,0.5
+75c9498ef343fb75,based method,internet based method,H04,0.5
+e368055508954e66,based method,methods,H04,0.5
+f59c7b16a00f71e4,based method,not based on,H04,0.25
+8caef3705761ee2e,based method,ocean based,H04,0.0
+7e14cf50d75c850d,based method,power switching method,H04,0.25
+3dc7ad4ef5b3ecfa,based method,process based,H04,0.75
+4474b9fde21110f4,based method,program,H04,0.0
+da9cd881e309f626,based method,program system,H04,0.25
+de993541deb12e43,based method,protocol based,H04,0.25
+c1cd21f8fc3033fa,based method,provide computer based method,H04,0.5
+e7f36fae87ad95d5,based method,segmentation based method,H04,0.5
+d4738d796531b471,based method,substitution method,H04,0.0
+a2007218cefc150f,based method,unitary method,H04,0.0
+593574457f410719,based method,water based,H04,0.0
+d916769c7e663033,based method,without using any method,H04,0.25
+ac3770d08940d927,blooming drains,anti blooming gates,H04,0.25
+20ec01171b022a8e,blooming drains,anti blooming structure,H04,0.25
+53897ad418dd7222,blooming drains,anti blooming transistor,H04,0.25
+9141113678afbcf8,blooming drains,blood drains,H04,0.0
+9a5671fdab45f25b,blooming drains,blooming,H04,0.0
+3ee00ad21e6307a6,blooming drains,blooming barrier region,H04,0.75
+4f759f9063e94f40,blooming drains,blooming barriers,H04,0.75
+d49c517bd7a46469,blooming drains,blooming drain region,H04,0.75
+3edefdfb24283fe8,blooming drains,blooming flower,H04,0.0
+907e3816ceed06f9,blooming drains,blooming high doped region,H04,0.5
+b3f157e44588663d,blooming drains,blooming pink flowers,H04,0.0
+3cd14338c9976027,blooming drains,blooming season,H04,0.0
+592ce7eeb02f253a,blooming drains,blooming transistor,H04,0.5
+6da1c865d2fe2f5c,blooming drains,charge coupled device multiplexer,H04,0.5
+de52e49ab8a0d393,blooming drains,digital blooming drains,H04,0.5
+b06fe30863079d94,blooming drains,directing excess charge,H04,0.25
+caff7f07125375bf,blooming drains,gate valve,H04,0.0
+e50e9407db006bb2,blooming drains,gate vector,H04,0.0
+73c132f3bf1e86cb,blooming drains,lateral blooming drains,H04,0.5
+a45199e1d8eabc8e,blooming drains,preventing blooming,H04,0.25
+ad322eba1991a0de,blooming drains,source drain extensions,H04,0.25
+7564d80857d4c0a0,blooming drains,type barrier layer,H04,0.25
+26a9366bd9e70b05,blooming drains,undepleted region,H04,0.5
+a3625b389bbbed5a,blooming drains,waste water drains,H04,0.0
+85f7a379f36536fd,broadband information,analog channel information,H04,0.25
+9881557797d4e9ae,broadband information,architecture,H04,0.0
+9129888f067c1735,broadband information,band aid,H04,0.0
+8ef4e7ab5f2d03e3,broadband information,bandwidth information,H04,0.75
+81cf0008955c7b20,broadband information,broad band information,H04,1.0
+9d5607e35b66059b,broadband information,broadband,H04,0.5
+b42f9a7203745f04,broadband information,broadband communication,H04,0.5
+9511212782bbadfd,broadband information,broadband signals,H04,0.75
+0e27e6e2515f0605,broadband information,citizen information,H04,0.0
+4e3605088677334b,broadband information,coaxial cable,H04,0.25
+a24eb0599c3ed581,broadband information,configuration,H04,0.25
+a70051d9de9a61f7,broadband information,conventional broadband communication,H04,0.5
+38d59c5220e0ab28,broadband information,conventional broadband information,H04,0.75
+8ee1388d2b616258,broadband information,conventional information,H04,0.25
+940c5f5988492d6e,broadband information,dial up connection,H04,0.25
+0d5a03da218be480,broadband information,fisher information,H04,0.0
+3fa96a277b851334,broadband information,high speed internet data,H04,0.5
+8e5f004c079b6b50,broadband information,high speed internet information data,H04,0.75
+f3dffc63a2daf0b0,broadband information,media,H04,0.25
+a88e5301e72665b9,broadband information,narrowband information,H04,0.25
+786133e23e5ac95c,broadband information,network,H04,0.5
+65594cda7f8dca96,broadband information,storage resources information,H04,0.25
+a95544dc2b1bfc6c,broadband information,twisted pair,H04,0.25
+5f2ce840c4e355c1,broadband information,typical broadband communication,H04,0.5
+3f2775914d180c48,broadband information,typical broadband information,H04,0.75
+7356d623bd34667d,broadband information,typical information,H04,0.0
+3eede17c5e63f484,broadband information,vehicle information,H04,0.0
+a7bd3a022b13d87c,broadband information,wide angle lens,H04,0.0
+bca592d468a97f4c,broadband information,wide band communication,H04,0.5
+19055ac65254c4eb,broadband information,wide band frequency information,H04,0.75
+826d7b10f928ca1f,broadband information,wide bandwidth data,H04,0.75
+552bbcc3dc1c91fb,broadband information,wide monitor,H04,0.0
+bc62fa04b5f68a18,broadband information,wifi information,H04,0.5
+95e9a2c5de8364d7,browsers,application format,H04,0.0
+d94b38df4276fab1,browsers,applications,H04,0.5
+ec9e6482acdefe87,browsers,applications executing,H04,0.5
+6a3ada3ac2873ea8,browsers,applications running,H04,0.5
+84ae1b1fd13ada9a,browsers,brochure design,H04,0.0
+748c7721daf6e93d,browsers,brochure templates,H04,0.0
+24d72ff65701b09b,browsers,browser,H04,1.0
+5a872bb23fc379b6,browsers,browsers executing,H04,0.75
+13d81f4cfcc73245,browsers,browsers running,H04,0.75
+e16739cdc3860be3,browsers,browsers types,H04,0.5
+e1c8f7c6da8d87a6,browsers,browsing center,H04,0.0
+bdbed5eeaa66abe5,browsers,cloud desktop browsers,H04,0.5
+5a0bd912ec6ccfe1,browsers,cloud queue,H04,0.25
+864e47868658c844,browsers,internet,H04,0.25
+858a43c2601e33e4,browsers,internet service provider,H04,0.5
+46ed26edc392d2d3,browsers,ip address,H04,0.25
+7fe0f57ee63fa917,browsers,loan application,H04,0.0
+49d9c22bcd1da40f,browsers,mobile browsers,H04,0.5
+86a5210603868a8e,browsers,multiple browsers,H04,0.75
+7b51035bd1015ab6,browsers,point cloud,H04,0.25
+617b14e357937a76,browsers,resources,H04,0.25
+8f567d5868f6f452,browsers,use browsers,H04,0.5
+491fa56fbe958884,browsers,visual graphic codes,H04,0.25
+0b133198d2e2aa11,browsers,voice browsers,H04,0.5
+4c21095872d8c2dc,browsers,web applications,H04,0.5
+d54841f48856aebe,browsers,web browser programs,H04,0.5
+a3d83cd4ad2c5911,browsers,web browsers,H04,0.75
+29b110570609b3e4,browsers,web camera,H04,0.0
+5c57a4951f7d59ca,browsers,web sites,H04,0.5
+be03410f81e3dac9,cable securing,cable,G02,0.25
+3471b2a15e904323,cable securing,cable attaching unit,G02,0.5
+7cc035d035af4a76,cable securing,cable gland,G02,0.0
+7e43d80eab7ca5de,cable securing,cable light,G02,0.0
+c9d80bd70344949c,cable securing,cable losing,G02,0.25
+a6ae346e43c81237,cable securing,cable safety,G02,0.5
+45aff094e2be588b,cable securing,cable securement,G02,1.0
+40b63b35e5a382d5,cable securing,cable securing device,G02,0.75
+6ee8841d5bc7f740,cable securing,cable securing mechanism,G02,0.75
+58bcd723890ffef7,cable securing,cable tv,G02,0.0
+125cc52bebb3b04d,cable securing,clamping,G02,0.5
+8b8d54c3b736c8be,cable securing,conductor securing,G02,0.75
+f4c5c6d739982bfa,cable securing,electrical,G02,0.25
+d5f0b9ecb1a4d7d9,cable securing,fastening wire,G02,0.5
+8b61aeb830c55f00,cable securing,retaining cap,G02,0.5
+6dfa3a8bfc18707c,cable securing,secure device,G02,0.0
+39df8b0e6d0b3d64,cable securing,secure time,G02,0.0
+6f191c1edd89898e,cable securing,securing,G02,0.5
+22e7ffb6cf7a1cb9,cable securing,securing a cable,G02,1.0
+13f4b1132edbe67e,cable securing,unit folder,G02,0.0
+fb42841b5aa5b67b,cable securing,unprotected executable file,G02,0.25
+e1ced86d93e89814,cable securing,unprotected network,G02,0.25
+6b28fcc1f3d9786b,cable securing,unprotected virtual machine,G02,0.25
+24594837a84d7f0d,calling card,automated calling card,H04,0.5
+452beca2601a4974,calling card,automatic dialing card,H04,0.25
+99611f44405d6b44,calling card,birthday card,H04,0.0
+c5b48eecd6fdf51e,calling card,calling card number,H04,0.75
+28e4fa4d6deca62f,calling card,calling console,H04,0.25
+d3f5bc85ee3edf3e,calling card,calling console number,H04,0.5
+6284c1d4593be2a0,calling card,calling free number,H04,0.5
+f02d830aee843f82,calling card,calling help,H04,0.0
+95954d8be84b1c22,calling card,calling number,H04,0.75
+22475b03b97199be,calling card,calling telephone,H04,0.25
+31fe781c286f3e27,calling card,card reading module,H04,0.25
+f9a74b09cd14afcc,calling card,debit card,H04,0.25
+999875a31f487048,calling card,greeting card,H04,0.0
+ce68428fdf970446,calling card,long distance access number,H04,0.5
+ad8420585d9b9113,calling card,mobile console,H04,0.0
+51559e2cdcfe8e88,calling card,phone,H04,0.25
+3a0b0a4f5debb5b7,calling card,prepaid calling card,H04,0.5
+1cdf8ed7df4fbfb0,calling card,prepaid calling cards,H04,0.5
+342b2e38f43ea529,calling card,prepaid phone,H04,0.25
+4c1e5f390c7ecef2,calling card,purchasing card,H04,0.0
+fe84e68d63f9f51f,calling card,quick call,H04,0.25
+73dc120c52057f18,calling card,shopping card,H04,0.0
+d0a7663e96e5c712,calling card,telephone,H04,0.25
+1f8a6b77a440a36b,calling card,telephone calling card,H04,0.75
+248286d5c5cabed2,calling card,telephone charge card,H04,0.75
+26f470e9c6f92e8f,calling card,telephone number,H04,0.5
+88018f1a40b6bce1,calling card,toll card number,H04,0.5
+121e18ed7d45f2cf,calling card,toll free number,H04,0.25
+436abdae21d4c21f,cathode layer,anode layer,G02,0.25
+effc4dbc6c96ae3b,cathode layer,cathode,G02,0.5
+c0f48579d1a6fc90,cathode layer,cathode active layer,G02,0.5
+699e99634011126a,cathode layer,cathode active material,G02,0.5
+eb3d583543f140a7,cathode layer,cathode conductive layer,G02,0.5
+a7fff273b9b93d40,cathode layer,cathode conductive material,G02,0.5
+25b14e8e71554079,cathode layer,cathode electrode,G02,0.5
+aad60c776c371d05,cathode layer,cathode film,G02,0.75
+387f18f873931e44,cathode layer,cathode film layer,G02,0.75
+dfc816109d041aec,cathode layer,cathode film material,G02,0.5
+60a6aa4b28409456,cathode layer,cathode material,G02,0.5
+8d6a49c3e650935b,cathode layer,cathode substrate,G02,0.75
+ae106b698c90f354,cathode layer,conductive layer,G02,0.5
+b98369d4e68b7539,cathode layer,conductive material,G02,0.5
+3f1e947c14e0cab8,cathode layer,electrode layer,G02,0.5
+dde113e63c567070,cathode layer,electrode material,G02,0.5
+ac9641b1777b2068,cathode layer,electrolyte,G02,0.25
+2e7b982a87a578c2,cathode layer,intermediate electrode,G02,0.5
+4e29ade49d6faaca,cathode layer,intermediate layer,G02,0.5
+956e0a5ad2ffd43e,cathode layer,layer,G02,0.5
+47dca1caef184d57,cathode layer,substrate,G02,0.5
+60554667432ed9af,cathode layer,substrate layer,G02,0.5
+02b5f10c83215765,cathode layer,thin active layer,G02,0.25
+46fec931114df63e,cathode layer,thin active material,G02,0.5
+705605e4428078f6,cathode layer,thin film,G02,0.25
+14e7b7f1a679cf0c,cathode layer,thin film layer,G02,0.5
+6b28404a78d4dad9,cathode layer,thin film material,G02,0.25
+b447b723809e8dd3,cathode layer,thin layer,G02,0.5
+154b9aa33a6e90f8,cervical support,base,G02,0.5
+2f21c68a35efcbb5,channel vectors,channel,H04,0.5
+29a69e2c540f3b49,channel vectors,channel coefficient vector,H04,0.75
+1882107e3202e8f7,channel vectors,channel covariance matrix,H04,0.5
+3c8e8b15d2721b27,channel vectors,channel of vectors,H04,0.0
+370da741c14a107a,channel vectors,channel response matrices,H04,0.5
+aae3bccb711b3afd,channel vectors,channel vector,H04,1.0
+ff7aef2cf3b54d3b,channel vectors,channel weight vector,H04,0.5
+b1d0c256e7bc2af5,channel vectors,channels,H04,0.5
+5d9e69bd63e69979,channel vectors,channels of vectors,H04,0.0
+bdad9f8491eb3690,channel vectors,channels vector,H04,1.0
+55deed59fd57c2dd,channel vectors,channels vectors,H04,1.0
+0c666de9de58f917,channel vectors,complex channel gains,H04,0.25
+5b394b05b6bd4d31,channel vectors,directionless switch,H04,0.25
+b6dd1137f1f76d5b,channel vectors,open areas,H04,0.25
+ae935f33fafdd638,channel vectors,predictive motion vector,H04,0.25
+62611fbfe8c29455,channel vectors,receive communications channel,H04,0.5
+be78a7110cc1c62b,channel vectors,reception vectors,H04,0.5
+c0c081f0e833d655,channel vectors,respective channel,H04,0.5
+b1906bb093d1366d,channel vectors,respective channel vectors,H04,0.75
+33aa2122871caebd,channel vectors,respective vector,H04,0.5
+bda5bfdbafa22513,channel vectors,signals,H04,0.25
+e5342ce61d0477d3,channel vectors,steering vectors,H04,0.5
+fc4b21f75b5f2053,channel vectors,symbols vector,H04,0.25
+77b9ef9827d60840,channel vectors,transmission channels,H04,0.5
+f786502b63b68f2a,channel vectors,transmission vectors,H04,0.5
+26877e4a1f63ada6,channel vectors,transmit weight vectors,H04,0.25
+48d08aed556f4b74,channel vectors,vector,H04,0.5
+c252b6a97c28d13f,channel vectors,vector art,H04,0.0
+3751f974d83a8d43,channel vectors,vector channel,H04,0.5
+492dfae10e7ba230,channel vectors,vector graphics,H04,0.0
+8b8a9763e116685b,channel vectors,vector illustrator,H04,0.0
+26d25ddbdf497eb4,channel vectors,vector quantity,H04,0.0
+0fe59b2198f92347,channel vectors,vectors,H04,0.5
+12dba5e40f26b076,channel vectors,weather channel,H04,0.0
+a3b1f11159a80d6d,clear buffer,accumulated count,G02,0.25
+9c996282d91b8b44,clear buffer,buffer,G02,0.5
+15138731c18557dc,clear buffer,buffer free,G02,0.5
+acc6fbab37ebd5d7,clear buffer,calculation device,G02,0.25
+b1bc6bd8509f6b2c,clear buffer,charge a battery,G02,0.25
+314cb9fdb57e3b58,clear buffer,clear,G02,0.5
+33652d948761f506,clear buffer,clear base,G02,0.5
+5febe87c47030476,clear buffer,clear cache,G02,0.75
+315483d0c06a5adf,clear buffer,clear dirt,G02,0.0
+2c1415da89091901,clear buffer,clear skies,G02,0.0
+d26ced331bc7266f,clear buffer,clear window,G02,0.0
+a5d2ef7abf04b99f,clear buffer,clearing the buffer,G02,0.75
+aa64285e881c9656,clear buffer,coating,G02,0.25
+8a5cd26a3fdb6175,clear buffer,data,G02,0.25
+2d4daf33c1ac6e2d,clear buffer,default buffer,G02,0.5
+948c00931cdfa1d8,clear buffer,default system,G02,0.0
+788249cbd84c9e39,clear buffer,erase buffer,G02,0.75
+5e312da39731b052,clear buffer,filling a fuel tank,G02,0.25
+12ef5bf0bb236656,clear buffer,flush buffer,G02,0.75
+4fc8eafbceceb0dc,clear buffer,free device,G02,0.0
+14d8c5c461e8e9e7,clear buffer,free fire,G02,0.0
+ebce2c67ed23c856,clear buffer,functional,G02,0.0
+657e275c48395ea7,clear buffer,no buffer,G02,0.5
+ac7d01e806d49a99,clear buffer,non clear buffer,G02,0.25
+9e3eca9780ed955c,clear buffer,polymer,G02,0.0
+44c60f90a138e30a,clear buffer,transparent,G02,0.5
+12d76dafe4a27993,clear buffer,transparent base,G02,0.25
+b79118d7d07067c8,clear buffer,transparent buffer,G02,0.75
+26828552e5f6ecb5,collator,arithmetic circuit,H04,0.25
+c35888d5b7d66e67,collator,arithmetic device,H04,0.25
+916ce7e1d6f09aa6,collator,collating apparatus,H04,0.75
+5ebc670997b9c61b,collator,collating device,H04,0.75
+c4ef1b4f79424269,collator,collation apparatus,H04,0.75
+d74b6dafbfac6e78,collator,demodulator,H04,0.0
+c0cc8906d5440ac7,collator,microcomputer,H04,0.0
+a521f209beb88d98,collator,receiver,H04,0.5
+a58c0a9a1d62fc3f,collator,simulation device,H04,0.25
+ecc6188cf9e84967,color difference signal,bg color difference signal,H04,0.5
+171d9a2f4db4923e,color difference signal,brightness signal,H04,0.25
+300a3584c8ebd57d,color difference signal,chrominance,H04,0.5
+bfed615597dee3ec,color difference signal,chrominance signal,H04,0.5
+d6cd5ae82bb98b83,color difference signal,chrominance signal component,H04,0.75
+e60aad7760617399,color difference signal,chrominance signals,H04,0.5
+f22e2524c06ed0eb,color difference signal,color chrominance signal,H04,0.75
+ef621ebad6691dd8,color difference signal,color chrominance signals,H04,0.75
+b68ce5976d0187e7,color difference signal,color difference line,H04,0.5
+4e069ae57725b554,color difference signal,color difference signals,H04,1.0
+73ae5c080fa7e605,color difference signal,color pen,H04,0.0
+aa6294d9ba1196d2,color difference signal,color pencil,H04,0.0
+ff9761de7e7ecb80,color difference signal,color ratio signal,H04,0.75
+4982303a938d59f3,color difference signal,color signal,H04,0.5
+b84da4feefaa99d8,color difference signal,color signal light from source,H04,0.5
+c9571a83acfaaad6,color difference signal,color signals,H04,0.5
+eddec9178e4197b7,color difference signal,color vector,H04,0.0
+daa85fa907a8775d,color difference signal,color video signal,H04,0.25
+cd70905a4361fd33,color difference signal,color wheel,H04,0.0
+38ae408e0204dc98,color difference signal,current difference signal,H04,0.25
+18317f6f93d28cdc,color difference signal,data,H04,0.25
+4d73d3b442cb1d8a,color difference signal,data signal,H04,0.25
+51c391efb65653b2,color difference signal,difference in code,H04,0.0
+2552ab8ec80d3195,color difference signal,difference output signal,H04,0.25
+3f4f3b9ac8c11e90,color difference signal,different color value,H04,0.75
+7b7bd41091fc155f,color difference signal,form difference signal,H04,0.25
+6ef9fd286e0faa56,color difference signal,frequency difference signal,H04,0.25
+42b91b24583fb2bd,color difference signal,image pickup apparatus,H04,0.25
+bedea32095c82135,color difference signal,luminance data,H04,0.25
+0cfec673046f552c,color difference signal,luminance signal,H04,0.5
+af36696a5392d93c,color difference signal,phase difference signal,H04,0.25
+007c89f0ab46ac45,color difference signal,random color,H04,0.0
+25dd8a1e9411f34a,color difference signal,rg chrominance signal,H04,0.5
+8b50d4f280c7c0e7,color difference signal,rg chrominance signals,H04,0.5
+cec2bd74fdb4136c,color difference signal,rg difference signal,H04,0.5
+8b16303a726b46c3,color difference signal,rg difference signals,H04,0.5
+ff51133a484e1e77,color difference signal,video signals,H04,0.25
+70dfa6b68d2bf585,combination function,code combination function,H04,0.5
+da459ec19995eb40,combination function,combination,H04,0.5
+77aff957b2740473,combination function,combination function generation,H04,0.75
+096e3286a252d059,combination function,combination functional,H04,1.0
+3651492759bfc348,combination function,combination reaction,H04,0.0
+5cc0a157dddfcf26,combination function,combinational circuit,H04,0.5
+0e095b2cd8aab695,combination function,combinational logic function,H04,0.5
+32be3d25851faa94,combination function,combining algorithm,H04,0.75
+3bc33d97d6dc4148,combination function,combining engine,H04,0.0
+cd9cbd33a8b72a35,combination function,combining function,H04,1.0
+51bf03ed704abd82,combination function,control function,H04,0.25
+8cfa557239458f58,combination function,digital combination lock,H04,0.25
+01d3812369b8731c,combination function,domain combination function,H04,0.5
+99b6da9ba9372f19,combination function,electronic combination,H04,0.25
+77eab9a94130cbc3,combination function,function,H04,0.5
+5ec9a423c7564df1,combination function,function in combination,H04,0.75
+106182f547649933,combination function,function module,H04,0.25
+83ee72c4a395263f,combination function,function of bile,H04,0.0
+08f987ac3e74637b,combination function,function of liver,H04,0.0
+c1566694573e355c,combination function,functional group,H04,0.0
+73f6a5f3cc85d4f8,combination function,logic function,H04,0.25
+9497474ee56e37f8,combination function,non linear combining function,H04,0.5
+5d9fbf030fb6fa3d,combination function,processing,H04,0.25
+248cc14550da6498,combination function,rare combination,H04,0.0
+8c4bf7f612fb6daf,combination function,service function,H04,0.25
+73e39b952d5a274a,combination function,setting a combination function,H04,0.5
+12bdfeaf9cace21c,combination function,transport,H04,0.0
+d53e10f31b883455,combination function,transport protocol,H04,0.0
+ccba2d949c6b5ddb,combination function,transporter,H04,0.0
+ff8ec238e86babbc,combination function,transporter protocol,H04,0.0
+a1c7421c5014393d,combination function,type,H04,0.0
+f5f80d6731ab2661,combine with optical elements,3d element,G02,0.0
+6ae18aea59a62100,combine with optical elements,associate with optical signal,G02,0.5
+9d44f9e061bff796,combine with optical elements,borescopes,G02,0.25
+1d0d5a59139e934d,combine with optical elements,combine elements,G02,0.5
+087f3e56421560ed,combine with optical elements,combine harvester,G02,0.0
+b9d3b49bf93adca9,combine with optical elements,combine with elements,G02,0.5
+5c1e7ffafef1696c,combine with optical elements,combine with optical components,G02,0.75
+2112c5cfd1a047af,combine with optical elements,combine with optical elements of the headlight,G02,0.75
+233aec70b751124d,combine with optical elements,combine with optical signal,G02,0.5
+1dba1fd0d56569cb,combine with optical elements,combine with polarizer,G02,0.5
+f429c6d6d2410b41,combine with optical elements,element photos,G02,0.0
+20ff2e7eb543018d,combine with optical elements,element table,G02,0.0
+89bc14151ee77fba,combine with optical elements,fiberscopes,G02,0.25
+897a9be9c12679b6,combine with optical elements,lens element,G02,0.5
+1e816c65f66033f3,combine with optical elements,light separating unit,G02,0.5
+c00d6e73078c07cf,combine with optical elements,observe with optical microscope,G02,0.0
+556a9be8c29e081b,combine with optical elements,opaque layer,G02,0.25
+ee196dcaaa744987,combine with optical elements,opaque matrix material layer,G02,0.25
+d066ab6e620b4e3b,combine with optical elements,optical component combination,G02,0.5
+255eedd96bdc0b4f,combine with optical elements,optical fiber,G02,0.5
+644e7aeef3806a47,combine with optical elements,photovoltaic elements,G02,0.5
+1bbdf10d89f16f9d,combine with optical elements,provide with optical system,G02,0.5
+6bb80062c155aa2d,combine with optical elements,spects,G02,0.25
+5e3428295c68c1b6,combine with optical elements,with regards,G02,0.0
+fd09eebd25c9108d,combine with optical elements,with regrets,G02,0.0
+ae4fbd4e656842f1,combine with optical elements,zero visibility,G02,0.25
+a72ddb758d5bc7fd,committee,recommendation,H04,0.0
+6cbe81ea97d81f42,committee,standard,H04,0.0
+5411da35462a86ee,committee,stm networks,H04,0.25
+2f4e0017eb051167,committee,stm systems,H04,0.25
+bd8575d1bb189e9b,committee,transmission networks,H04,0.25
+10b627081cfe9c93,committee,transmission systems,H04,0.25
+e8f095f69d0c0d3f,connected means,components,G02,0.5
+0ed88e54cb7fab4a,connected means,connected devices,G02,0.0
+df26b0657367ab5b,connected means,connected in series,G02,0.5
+092d5bb1d5d6de0d,connected means,connected things,G02,0.5
+cbaf2458b27351f3,connected means,connected to nodes,G02,0.5
+1a7dcaffd75ce99b,connected means,connected transistors,G02,0.5
+b6085bb22f4fc31e,connected means,connected without internet,G02,0.0
+437d0fc05b476078,connected means,connecting electronic devices,G02,0.5
+252b7f05be6b1ff7,connected means,connecting means,G02,1.0
+bc57c6e1037bb36d,connected means,connecting portion,G02,0.5
+305f4962f7151d8f,connected means,connection means,G02,1.0
+2b6ae51322724e9d,connected means,connection portion,G02,0.5
+ba21a1964fdd811c,connected means,connector,G02,0.5
+93e7661323de78c1,connected means,coupled means,G02,0.75
+362d59d77df9e726,connected means,coupled transistors,G02,0.5
+74da715cf29fe45d,connected means,current circuit elements,G02,0.5
+94cf8a2df633c4ea,connected means,current circuit means,G02,0.5
+fad31680006773ba,connected means,current means,G02,0.5
+b3a3b27f6d0ef007,connected means,current means elements,G02,0.5
+8e47066b885bbf82,connected means,device driver,G02,0.0
+9e7423afd2581a65,connected means,disconnected means,G02,0.25
+91dd339711b7da10,connected means,disconnector base,G02,0.25
+2cb023832ae8358e,connected means,disconnector pole,G02,0.25
+45df465737b9f16d,connected means,distribution box,G02,0.25
+eae7422c989d33d7,connected means,element chart,G02,0.0
+3614ac083fa06253,connected means,grounding switch,G02,0.25
+68a42af8ecbac4e0,connected means,joined means,G02,0.75
+03790097bd2f3312,connected means,linked together device,G02,0.5
+5a52fe8fe9e50d29,connected means,means connected,G02,0.5
+cf18e305b75e1038,connected means,means connecting,G02,0.75
+4b748e68f97b7c2b,connected means,means of livelihood,G02,0.0
+07fa989f145cbd39,connected means,pin,G02,0.5
+8a0df7b615031476,connected means,portion break,G02,0.0
+e3f4286092835925,connected means,rectifying elements,G02,0.5
+00af91320b7e817f,connected means,rectifying means,G02,0.5
+c8937dc427523444,connected means,switching elements,G02,0.5
+3df1abbd0296bacd,connected means,switching means,G02,0.5
+8afc226eb821f2c1,connected means,terminal connected,G02,0.5
+79a187be9c3b0ffd,connected means,transformer,G02,0.25
+721ec2b6948243bc,connected means,transistors,G02,0.5
+33d96a04e08e8fb6,connected means,voltage circuit elements,G02,0.5
+a481cc44193f49d1,connected means,voltage circuit means,G02,0.5
+fcca8a8082abd72f,connected means,voltage means,G02,0.5
+7eca354875202d2d,connected means,voltage means elements,G02,0.5
+7485e6162c0b9318,content analysis,analysis,H04,0.5
+3174aa4e3f4c5a50,content analysis,analysis of content,H04,1.0
+08b26aee34b551ca,content analysis,analysis result data,H04,0.25
+048f8d996c405c3e,content analysis,attack,H04,0.25
+4476200fe2842ab1,content analysis,business impact analysis,H04,0.0
+6771dd0586b608ab,content analysis,code analysis,H04,0.5
+b09e88c4284dd32f,content analysis,code attack,H04,0.0
+378139dac4492b85,content analysis,code detection,H04,0.5
+6bf53788e365e123,content analysis,content analysis attack,H04,0.75
+e4cd934d597ec54c,content analysis,content analysis engine,H04,0.5
+de03225ba09af119,content analysis,content analysis software,H04,0.5
+f6c28de00c4ad779,content analysis,content analysis test,H04,0.75
+826bcd37c215dc31,content analysis,content attack,H04,0.25
+080a6c27c4146d32,content analysis,content classifier,H04,0.5
+7fc046d5b9a94b8c,content analysis,content design,H04,0.0
+e497a7e0edabe3ca,content analysis,content detection attack,H04,0.5
+31a37299970f23f6,content analysis,content detection test,H04,0.5
+aded1c57b988aaf0,content analysis,content extraction,H04,0.5
+429e6bf5fc662d16,content analysis,content feeling,H04,0.0
+32a11a4fba5ed086,content analysis,content writing,H04,0.0
+23d31a21bd0284be,content analysis,data analysis,H04,0.25
+83667b3dd8163e84,content analysis,data collection,H04,0.25
+f393f24c51ac32d9,content analysis,delivering content,H04,0.25
+097b4cec78191901,content analysis,detection,H04,0.25
+8fa5196deb65f033,content analysis,fixed content server,H04,0.25
+35d921e776f88ba2,content analysis,keyword analysis,H04,0.25
+4784f656764e6e96,content analysis,metadata analysis,H04,0.5
+943b48aaa733ea38,content analysis,proposed,H04,0.0
+bf7e40f3983fa888,content analysis,swot analysis,H04,0.0
+dd9ecf98aa1b60db,content analysis,video content analysis,H04,0.5
+04a5519624a4850b,decompressor,audio decompressor,H04,0.5
+e9b293f0aecfcfbb,decompressor,automatic decompressor,H04,0.5
+2c7b7b14b3b45bf4,decompressor,compression unit,H04,0.25
+f125e5ca4b39bd4f,decompressor,compressor,H04,0.25
+45437f2c2d54f33b,decompressor,computer terminal,H04,0.0
+067094bccebd96d8,decompressor,conditioning unit,H04,0.25
+022a72f777cb7f91,decompressor,decoder,H04,0.5
+f5c981b224a735fd,decompressor,decomposed leaves,H04,0.0
+f0f195af6ba495e8,decompressor,decompress,H04,1.0
+4705e7a22d5f3d10,decompressor,decompression algorithm,H04,0.5
+79fa63df986c9ecb,decompressor,decompression unit,H04,0.75
+615dc77bf9f62bcd,decompressor,decompressor device,H04,0.75
+10c04d13d89d9a85,decompressor,decryption,H04,0.25
+0814cd3077360785,decompressor,embedded decompressor,H04,0.5
+9b20e46d2439513d,decompressor,encryption,H04,0.25
+f44c6090a627806d,decompressor,encryption mechanism,H04,0.25
+24e3f525d463ed1b,decompressor,expander,H04,0.75
+16fbdaca997d19d4,decompressor,genetic algorithm,H04,0.0
+a6d9566d6e889f38,decompressor,header decompression,H04,0.5
+95b5b253708afb5f,decompressor,header file,H04,0.0
+b9206dbd8231e048,decompressor,health unit,H04,0.0
+af78174a33480eac,decompressor,physical pressure reducer,H04,0.75
+77577baef07a960c,decompressor,press type switch,H04,0.0
+c83189853e158139,deflect light,coherent rays,H04,0.25
+07b234c8a993cd1d,deflect light,configured to deflect light,H04,0.75
+7fd378580269bb48,deflect light,converge angle,H04,0.25
+9690907ef0e3a674,deflect light,converge optical path,H04,0.25
+1402d294e27cdcce,deflect light,daylight,H04,0.0
+031c07afc63deb5f,deflect light,deflect light beam,H04,0.5
+e76df410e8ec7bb3,deflect light,deflect the light ray,H04,0.5
+f09832adce54073b,deflect light,deflecting torque,H04,0.0
+1d7652d598109ebc,deflect light,deviate light,H04,0.75
+92f3f077f2ba1328,deflect light,disperse light,H04,0.5
+a24134b16f56af3f,deflect light,diverge communication data,H04,0.25
+e57c145b959c5683,deflect light,divert light beam,H04,0.5
+e8101ef025233f7a,deflect light,incoming lights,H04,0.25
+7efb1f749dfa72fa,deflect light,light color,H04,0.0
+86fc9d5cfbdc50d2,deflect light,light green,H04,0.0
+166bdb678686dfef,deflect light,light grey,H04,0.0
+2da64b55490948d1,deflect light,lighthouse,H04,0.0
+85c1e7a898ec6aa8,deflect light,lights rays,H04,0.25
+aa705e6564576901,deflect light,redirect light,H04,0.75
+ac583752b272a110,deflect light,reflect beams,H04,0.5
+0c56db7af195b977,deflect light,reflect light rays,H04,0.5
+a5502ad68ba42981,deteriorated,deteriorated condition,H04,0.75
+63ddc75cbac100a6,determine from analysis,analysis of variance,H04,0.0
+ad2d671dea1791d8,determine from analysis,calculation from analysis,H04,0.75
+3327440dd46d06c7,determine from analysis,circuit analysis,H04,0.25
+0a25df1597100ac7,determine from analysis,communication analysis,H04,0.25
+e39a7d1b79da814c,determine from analysis,detect from analysis,H04,0.75
+1f66ced0ce744590,determine from analysis,determination from analysis,H04,1.0
+7eb016c0f879b372,determine from analysis,determine a basis,H04,0.0
+0ba716e65b4813c3,determine from analysis,determine by analysis,H04,0.75
+ca839aef902b88ad,determine from analysis,determine by analyzing,H04,1.0
+bb622822729e3e1b,determine from analysis,determine by chromatographic analysis,H04,0.5
+cfb2b6b50b29eb5a,determine from analysis,determine by gc analysis,H04,0.5
+3ffc55686f1bc20e,determine from analysis,determine by image analysis,H04,0.5
+12e896f2ca473211,determine from analysis,determine from statistical analysis,H04,0.5
+5a29ebba74561d4f,determine from analysis,determine using analysis,H04,0.75
+23daef9dea85eef9,determine from analysis,determined from evaluation,H04,0.75
+08c7f62d79779ec1,determine from analysis,examine,H04,0.25
+a109e7179d33c7da,determine from analysis,food analysis,H04,0.0
+e91e44f3e70c559c,determine from analysis,identifying by analysis,H04,0.75
+1994d63baf03a2e1,determine from analysis,inattentive judgment device,H04,0.25
+f05a66cb6cb839d0,determine from analysis,inattentiveness determining device,H04,0.25
+4ae5266593205c08,determine from analysis,regression analysis,H04,0.0
+8367cdb1376fd55d,determine from analysis,steric hindrance,H04,0.25
+9d6d9cb5ab0e05e5,determine from analysis,swot analysis,H04,0.0
+e26c2caafa08fd34,determine from analysis,theft detection,H04,0.0
+5714e14e5de4d710,different circumferential positions,axial directions,G02,0.5
+ee5a138d0759c6c4,different circumferential positions,circumferential area,G02,0.0
+610ebf91694c8cdc,different circumferential positions,circumferential positions,G02,0.5
+7bbf468375ff4d0d,different circumferential positions,convex surface,G02,0.25
+231be4409967b383,different circumferential positions,different circumferential,G02,0.25
+e0ccb356d6e42a0f,different circumferential positions,different horizontal positions,G02,0.5
+283417c56de3a0d6,different circumferential positions,different languages,G02,0.0
+4db7da4a2dffd8b7,different circumferential positions,different vertical locations,G02,0.5
+61fc7d113ce469d1,different circumferential positions,distal ends,G02,0.5
+6cec948e7ffb6160,different circumferential positions,distal sides,G02,0.5
+cfc1554d41c21627,different circumferential positions,distinct circumferential positions,G02,0.75
+70cc1ceeea68fde2,different circumferential positions,distributed at random positions,G02,0.25
+2aa4760c981d9ccf,different circumferential positions,equal intervals,G02,0.25
+0300049eddbaa9b8,different circumferential positions,equal positions,G02,0.25
+c6eecbcf6d2271c5,different circumferential positions,equi angular intervals,G02,0.5
+58e24383c9d73be9,different circumferential positions,flange,G02,0.25
+07650bcedd1b74ea,different circumferential positions,imaginary cylindrical surface,G02,0.5
+961835d8292e3dac,different circumferential positions,movable member,G02,0.5
+63f41cd9d0ae71a1,different circumferential positions,opposite distal ends,G02,0.5
+faa240e6756b7173,different circumferential positions,opposite distal sides,G02,0.5
+00a287661cf00b6b,different circumferential positions,opposite ends,G02,0.5
+a5e10afbef5e57ce,different circumferential positions,opposite sides,G02,0.5
+36b2893becaaf386,different circumferential positions,planar substrate surface,G02,0.25
+0e53d127c7f8786e,different circumferential positions,position absolute,G02,0.0
+d50b4719bec76b60,different circumferential positions,position exchange,G02,0.0
+a3386e9bfcf1ec2d,different circumferential positions,position sticky,G02,0.0
+70c20b173c92c8a8,different circumferential positions,predetermined,G02,0.25
+e171a0ec57bb34dd,different circumferential positions,predetermined intervals,G02,0.5
+4b3412d364c71dca,different circumferential positions,predetermined positions,G02,0.5
+2a3d15b3de1fa589,different circumferential positions,random positions,G02,0.25
+b01d8c0e6faee98b,different circumferential positions,respective ends,G02,0.25
+30bb65ed144d61d6,different circumferential positions,respective sides,G02,0.25
+bebe402021b9446f,different circumferential positions,same,G02,0.0
+d5de60e9a7c4b0fd,different circumferential positions,same circumferential positions,G02,0.25
+0844dad52f7ae543,different circumferential positions,same intervals,G02,0.25
+95fd69c2ff463ff2,different circumferential positions,stationary member,G02,0.5
+7e62899a563b7284,different circumferential positions,top positions,G02,0.0
+f0e3bfe213a51d8d,direct received light,convert received light,H04,0.25
+257914d63b9016a4,direct received light,direct contact,H04,0.0
+a0f552796a087738,direct received light,direct function,H04,0.0
+9abbe9b70257d239,direct received light,direct interference,H04,0.25
+0b71aeaec7c5ab13,direct received light,direct path,H04,0.0
+87d052e6a8c1486c,direct received light,direct received light beams,H04,0.75
+cf18e14532462d82,direct received light,directing light signal,H04,0.5
+5a5059ed245dc7b9,direct received light,directly receiving light,H04,1.0
+0948d3be11408ac9,direct received light,directly receiving light beam,H04,0.75
+06a2d296381a7d85,direct received light,illumination,H04,0.25
+55ed96ad4db31140,direct received light,laser,H04,0.25
+0a8ae2000640f87e,direct received light,light blue,H04,0.0
+d3f2ac7fc4fa005b,direct received light,light dispersion,H04,0.25
+b77faddcde01d351,direct received light,received award,H04,0.0
+7abf3bd00f066f4f,direct received light,received beam of light,H04,1.0
+b51c04e83f804c58,direct received light,received light,H04,0.5
+c62aae2361ec3cdd,direct received light,received light beam,H04,0.5
+c307fc960f006a2b,direct received light,received light signal,H04,0.5
+08acb8f6dede6ee4,direct received light,received lighting,H04,0.5
+32be228ed4dc62c6,direct received light,received radio wave,H04,0.25
+df9cb4fbf765fdfc,direct received light,receiving direct sunlight,H04,0.5
+ebb71767fa01c850,direct received light,receiving goods,H04,0.0
+d8d58d75afbe1ace,direct received light,receiving light ray,H04,0.75
+97cadc2a1c1f3232,direct received light,torchlight,H04,0.25
+34cc964f34e4969b,display different pictures,convolutional neural networks,G02,0.25
+faa877452f5a6645,display different pictures,different days,G02,0.0
+47ed6a02173f7e4e,display different pictures,different display,G02,0.5
+cea0a1ee205e0d77,display different pictures,different display panel,G02,0.5
+c22bdc770701ba37,display different pictures,different electrodes,G02,0.0
+50fb945c215c7474,display different pictures,different modes,G02,0.0
+19e14edcd30dd210,display different pictures,display 3 dimensional image,G02,0.5
+1d8f07621132dac2,display different pictures,display different images,G02,0.75
+c2d3643af9db7374,display different pictures,display grid,G02,0.0
+20333ceea5d7f11e,display different pictures,display moving pictures,G02,0.5
+a9067e85ac9eea8a,display different pictures,display pictures,G02,0.5
+f1b0feca246a0824,display different pictures,display same pictures,G02,0.25
+6446f51e77f44c61,display different pictures,double screen stereo imaging,G02,0.5
+83394e47e3c4f2d7,display different pictures,dual pictures,G02,0.5
+61cbded73c64f56d,display different pictures,family picture,G02,0.0
+c2668b05337c1788,display different pictures,image,G02,0.25
+e6534d5442b7a2dc,display different pictures,items on display,G02,0.0
+e03364bb3733f802,display different pictures,multihead display different pictures,G02,0.75
+35f7bd1418ba4d3a,display different pictures,pictorial image,G02,0.5
+05e2f0524af52d6f,display different pictures,present different images,G02,0.75
+214fa1179ef7dc9b,display different pictures,projector,G02,0.25
+a6a96c8965366882,display different pictures,provisional single image,G02,0.25
+feeaa263f824c0f6,display different pictures,show different picture,G02,0.75
+fae813f076f9267a,display different pictures,single image generation,G02,0.25
+53c754cfec13c6a6,display different pictures,symbol presentation,G02,0.5
+ccce2d33030297c5,display different pictures,curved display apparatus,H04,0.25
+4733d1401b70dade,display different pictures,different colors,H04,0.0
+2ddaab1fec4b69a5,display different pictures,different display,H04,0.25
+4eab68ff046b114c,display different pictures,different fonts,H04,0.0
+8966d11973734872,display different pictures,different musical instruments,H04,0.0
+243d43ae07d8adf6,display different pictures,display control unit,H04,0.25
+4bf583bbcaa9187d,display different pictures,display different frames,H04,0.75
+29053359560100ca,display different pictures,display different images,H04,0.75
+bb37031b8ade5d23,display different pictures,display different photos,H04,0.75
+6411f59c56dce418,display different pictures,display distinct images,H04,0.75
+5e6c05fdbf578b08,display different pictures,display moving pictures,H04,0.5
+19b79112e62c8f96,display different pictures,display multiple pictures,H04,0.5
+11a8b8d6409ee44f,display different pictures,display pictures,H04,0.5
+d5a8e84d264572aa,display different pictures,display pixel electrodes,H04,0.25
+85933b1f6e203b9d,display different pictures,display varied images,H04,0.75
+d56fe9d42e27b3ee,display different pictures,display varied pictures,H04,0.75
+1b8e4e3eda701df7,display different pictures,display various images,H04,0.75
+2a59b729a9bc444e,display different pictures,image quality,H04,0.25
+b1bb37abcdc24184,display different pictures,jewelry display,H04,0.0
+c097835b2f636d26,display different pictures,light emitting display,H04,0.25
+0fb6c6074c1a94f4,display different pictures,picture plant,H04,0.0
+0cf101bfecf76852,display different pictures,pretty pictures,H04,0.0
+73b1e08d071956f8,display different pictures,sequence of different image,H04,0.25
+c41e75c9522e8065,display different pictures,showing different photos,H04,0.75
+050b0d0c84d232a0,duplex device,alarm device,H04,0.0
+53092dea36730c6c,duplex device,antipodal demodulator,H04,0.25
+74b5e5cce2012a21,duplex device,antipodal finline structures,H04,0.25
+d42e696726926b83,duplex device,antipodal slot antenna,H04,0.25
+5c50f57587785de7,duplex device,bandwidth,H04,0.25
+487c380eabe2c782,duplex device,bandwidth receiver,H04,0.25
+662a3ea699884caf,duplex device,bandwidth set,H04,0.5
+8e4a74110348a277,duplex device,bandwidth system,H04,0.25
+9a8be678b174a3a1,duplex device,codebook,H04,0.0
+336d60886290a2f9,duplex device,duplex,H04,0.25
+4b1e9d6f203a3f33,duplex device,duplex apartment,H04,0.0
+fee45fa5e790d893,duplex device,duplex client,H04,0.5
+3c83fec725672b97,duplex device,duplex communication,H04,0.5
+0b1d2a2ad673d7bb,duplex device,duplex floor,H04,0.25
+e293baef60b79712,duplex device,duplex floor control,H04,0.0
+937d6ed9c04389e6,duplex device,duplex house,H04,0.0
+cc94b88518587e7c,duplex device,duplex mf,H04,0.25
+7bc18ae0f7c65d22,duplex device,duplex mf control,H04,0.25
+13187edbd051f7c3,duplex device,duplex receiver,H04,0.5
+3e3caea0c399c032,duplex device,duplex set,H04,0.5
+a26f6a589fd3854d,duplex device,duplex switch,H04,0.75
+0a7df76ba7e9a3c4,duplex device,duplex switching,H04,0.5
+5f5b2b8b29491277,duplex device,duplex system,H04,0.75
+f72131aa6262f2fb,duplex device,duplex talker,H04,0.5
+001862743a04f44e,duplex device,duplexer device,H04,1.0
+ce7ca900e70ed818,duplex device,fancy device,H04,0.0
+f2de3a02e1db46eb,duplex device,floor,H04,0.0
+16dd1572b6e1f7dd,duplex device,floor control,H04,0.0
+398e77fcc5f029cb,duplex device,full duplex,H04,0.5
+14690a045a06f2e1,duplex device,full duplex network,H04,0.5
+89e3583603576989,duplex device,half duplex device,H04,0.5
+2570f9029f12e55c,duplex device,hospital devices,H04,0.0
+a02d40df25a57723,duplex device,multiplex devices,H04,0.5
+9571185c724b0faa,duplex device,pc device,H04,0.0
+baafdeef6b5a5365,duplex device,route switch,H04,0.25
+335c83ea0a894f22,duplex device,sip,H04,0.25
+26754a8e958a26d1,duplex device,sip device,H04,0.25
+66608e8d0ed4fb0c,duplex device,sip pc,H04,0.25
+5a65fe9653c148a0,duplex device,terminating devices,H04,0.25
+8d378fdfc1c9eb76,duplex device,transmission lines,H04,0.25
+687baf867333f6d0,ecn,accessible communication network,H04,0.5
+6b1da678150d68af,ecn,communication signal,H04,0.25
+57259b8e242d8001,ecn,computer network,H04,0.5
+562581b7c06fd9c6,ecn,congestion episode,H04,0.5
+e7e855a2df9fb84f,ecn,ear nose throat,H04,0.0
+ae958dac97334d43,ecn,edge compute nodes,H04,0.75
+04f10c9193e905fa,ecn,electronic communication network,H04,0.75
+d9f7fd5a9f9defcb,ecn,electronic component news,H04,0.0
+fe686c3afae86375,ecn,emergency communication,H04,0.0
+44068fb59f066f35,ecn,european cricket network,H04,0.0
+34913629e174e7e5,ecn,explicit congestion notification,H04,0.75
+b66f7cac93c9010c,ecn,food network,H04,0.0
+462217726dc716d3,ecn,global data,H04,0.25
+ad1429159ea4a25b,ecn,information processing,H04,0.25
+b45fb22c6585d0da,ecn,information transmission,H04,0.25
+eca5b62b35971f0c,ecn,message processing,H04,0.25
+e0b801d4c2a2caa5,ecn,message transmission,H04,0.25
+07e9dcee0ca4b71e,ecn,multi user computer,H04,0.25
+da2d4d524014614e,ecn,packet drop rate,H04,0.5
+9259b2b988bfa526,ecn,sheet stopping function,H04,0.25
+14876a6351582e56,ecn,signaling,H04,0.25
+19dd85b608a061a3,ecn,soft,H04,0.0
+9cde40b8b3091b4e,ecn,stopping operation,H04,0.25
+ef92c58ec515df59,ecn,stopping the print job,H04,0.25
+3cf948ed358a42a1,ecn,transmission,H04,0.25
+3b1e2666f152bc07,ecn,wide area computer network,H04,0.5
+a8fa985c5f1f34a6,ecn,widescreen monitor,H04,0.0
+7fb6fed94bd61178,el display,el emitting,G02,0.5
+e511f19c213d32a9,el display,el forming,G02,0.5
+88897db6f92098cd,el display,el light display,G02,0.75
+e437249e021daea7,el display,el light emitting,G02,0.5
+e310994679de56d1,el display,electroluminescent,G02,0.5
+df70fa088b257c0c,el display,electroluminescent display,G02,0.75
+5a96f361027c42a0,el display,electroluminescent emitting,G02,0.5
+915e7f0c2a1ba86d,el display,electronic,G02,0.25
+cd86ec9acbc000a8,el display,electronic el display,G02,0.75
+0162a8cda2f8fc01,el display,electronic el emitting,G02,0.5
+ec80c6915f6fb8bd,el display,electronic image display,G02,0.5
+2fc0cf8586ede65e,el display,electronic image emitting,G02,0.5
+7aa5908a77a7ec24,el display,illumination,G02,0.25
+c33997e5202e2560,el display,image display,G02,0.5
+ee5a373905881c29,el display,image forming,G02,0.5
+0a90b6974912fd0c,el display,light display,G02,0.5
+71766e04957ed12e,el display,light el,G02,0.0
+e91c6f7b0ad58086,el display,light emitting,G02,0.5
+5cc4064dc3f896cb,el display,ole,G02,0.5
+be7ef200d7cd596e,el display,organic el display,G02,0.5
+ff9b47d8df8d4ade,el display,organic el emitting,G02,0.5
+a189e250c77a1b1c,el display,organic image display,G02,0.5
+f83b76a50b414af9,el display,organic image emitting,G02,0.5
+145ded883a226943,el display,artwork display,H04,0.0
+f07ac7fdefbf08b6,el display,cathode ray tube,H04,0.25
+2ee348d9f3bcf4bf,el display,display device,H04,0.25
+fed85de5308afed4,el display,door panel,H04,0.0
+578af5f140131d7d,el display,el crystal display,H04,0.5
+6e3ca94f0a167da5,el display,el display panel,H04,0.5
+d88f46042b0e4477,el display,el dorado,H04,0.0
+87267adf7e4e4a64,el display,el emitting,H04,0.5
+14017f80b6a194b2,el display,el light display,H04,0.75
+b3b954d5cb59edd0,el display,electro display,H04,0.25
+c3b8f487a36f3690,el display,electro luminescent display,H04,0.75
+8433d03287aa1ff3,el display,electroluminescent,H04,0.5
+2fdfa167859eb7c5,el display,electroluminescent display,H04,0.75
+76c8e20c9209f2ac,el display,electroluminescent panel,H04,0.75
+d6cbe45274efe10a,el display,electroluminescent screen,H04,0.75
+6d12fb376af06770,el display,fireworks display,H04,0.0
+04160242c9b01f1a,el display,fluorescent screen,H04,0.25
+b64deb1e80936ba6,el display,illuminable,H04,0.25
+ce52715785c24444,el display,lcd device,H04,0.25
+bea7a81b11dcc342,el display,led,H04,0.5
+96706f38cf992026,el display,light crystal display,H04,0.5
+08423cd427a24310,el display,light crystal emitting,H04,0.5
+d13a27c9349de644,el display,light display,H04,0.5
+59d710e6fdee42c8,el display,light emitting,H04,0.25
+a0865a4f574ea50f,el display,organic compounds,H04,0.0
+189df275ef171bcc,el display,organic el display,H04,0.5
+afdf31991ba43ef4,el display,panel data,H04,0.0
+916a43ef10a5a6a7,el display,phosphor screen,H04,0.25
+2b1a304e65599c9c,el display,self emission device,H04,0.25
+4ac9e2e84c59cfc7,el display,self emission display,H04,0.5
+cf85199b7d8e42d2,el display,thin film electroluminescent display,H04,0.5
+d0ec0a6b83c7e3ee,electromagnetic radiation source,absorbing the wavelength,G02,0.25
+a500e0078f8ca815,electromagnetic radiation source,black material layer,G02,0.25
+7489518ed9e3a511,electromagnetic radiation source,broadband light sources,G02,0.5
+96bf4403882a1be5,electromagnetic radiation source,control boundary element,G02,0.5
+ff81d7c73298498d,electromagnetic radiation source,device manager,G02,0.0
+fbe1ba0703adb99a,electromagnetic radiation source,electromagnetic lights source,G02,0.75
+9b39a401a984391d,electromagnetic radiation source,emitter,G02,0.25
+53f4d07376ee2a28,electromagnetic radiation source,excitation component,G02,0.5
+55d972726a621a1a,electromagnetic radiation source,excitation component source,G02,0.5
+ed436112ff1b0293,electromagnetic radiation source,excitation element,G02,0.5
+b8effd40df8e25f8,electromagnetic radiation source,excitation light device,G02,0.5
+ebaa4fe2beeae968,electromagnetic radiation source,excitation light source,G02,0.5
+2eda715f29afe4a7,electromagnetic radiation source,excitation radiation device,G02,0.5
+78a81bdd14a1ba2c,electromagnetic radiation source,excitation radiation source,G02,0.5
+52566b275019793f,electromagnetic radiation source,excitation source,G02,0.5
+99b2db9c5ce79038,electromagnetic radiation source,illuminant,G02,0.5
+3543621cf1ce8c77,electromagnetic radiation source,illumination element,G02,0.25
+633c09fb002f2634,electromagnetic radiation source,illumination source,G02,0.5
+ad849c0c80e41aac,electromagnetic radiation source,laser,G02,0.25
+e1c249da22bb1b70,electromagnetic radiation source,laser radiation source,G02,0.5
+f548cd35826a5eb6,electromagnetic radiation source,led,G02,0.25
+dd78094a405eb227,electromagnetic radiation source,microwaves,G02,0.5
+92f349031e7ea15c,electromagnetic radiation source,non electromagnetic radiation,G02,0.25
+7cf1c2aa6bdfd03c,electromagnetic radiation source,optical component,G02,0.25
+dbb03db5f396bbdd,electromagnetic radiation source,optical component source,G02,0.5
+d63ad74461720937,electromagnetic radiation source,optical device,G02,0.25
+c8248ff7fe72753b,electromagnetic radiation source,optical element,G02,0.25
+16a0d36b4e73af66,electromagnetic radiation source,optical light device,G02,0.5
+818bc5ee34027f2e,electromagnetic radiation source,optical light source,G02,0.5
+b04e092838dd0df3,electromagnetic radiation source,optical radiation device,G02,0.5
+36b9e8e49188fe6f,electromagnetic radiation source,optical radiation source,G02,0.5
+0ccf0d71b69d980e,electromagnetic radiation source,optical source,G02,0.5
+35391782af6a4de6,electromagnetic radiation source,radiant energy source,G02,0.5
+6e9524dde5323f25,electromagnetic radiation source,radiation generating device,G02,0.5
+437311a7aa2dda77,electromagnetic radiation source,radiation hazard,G02,0.0
+ab07eceebf6041a8,electromagnetic radiation source,radiation source,G02,0.5
+62cad5552f5d3b62,electromagnetic radiation source,radio waves,G02,0.5
+8a204e14f23aa308,electromagnetic radiation source,source documents,G02,0.0
+dd1963a9a0e8720b,electromagnetic radiation source,source terminal,G02,0.0
+02a315f500b313a3,electromagnetic radiation source,source tree,G02,0.0
+df597c8cbfa11d61,electromagnetic radiation source,water source,G02,0.0
+7b351ba680f9ed16,electromagnetic radiation source,x ray machine,G02,0.25
+d7f5a188d9e7516e,encode form,binary converter,H04,0.25
+253b493b50daf762,encode form,coding form,H04,0.75
+8e1f617964df08bf,encode form,data decryption unit,H04,0.25
+eb70449aaae94078,encode form,declaration form,H04,0.0
+93bae37dfb88f90a,encode form,decode form,H04,0.25
+4250b7d502c88d36,encode form,decryption code,H04,0.25
+c28579d3034e2c93,encode form,decryption key,H04,0.25
+91c5dd9c0f000784,encode form,encode form video bit stream,H04,0.5
+6851a48429b9f08b,encode form,encode in form,H04,0.75
+d7f2d9c1ba1b0763,encode form,encoded form,H04,1.0
+c53af1f370f1e69a,encode form,gaseous form,H04,0.0
+71dd6812c0a72b76,encode form,head end encoder,H04,0.5
+1d1856b5b4f717bd,encode form,interframe encode form,H04,0.5
+ee009edbe02c7731,encode form,liquid form,H04,0.0
+76a711689e1f46d3,encode form,pre encoded form,H04,0.75
+0c6387e5f1c3402c,encode form,predetermined encode form,H04,0.5
+5c5cfc0736ace52e,encode form,simple design,H04,0.0
+4c1b0d19b7719470,encode form,simple encoder,H04,0.5
+4f3bfb4afda5c804,encode form,solid form,H04,0.0
+fcb420242b710453,encode form,structural form,H04,0.0
+4e456ff06dc58d6b,encode form,url encode,H04,0.25
+26aeff8305dabc81,fiber slack,cable length,H04,0.25
+f98fc48949371bc1,fiber slack,cable slack,H04,0.5
+cf9480dc58dc58ac,fiber slack,cotton fibre,H04,0.0
+62086d686e7cdff1,fiber slack,fiber cable,H04,0.25
+9113cf9d2c61b716,fiber slack,fiber cable management,H04,0.5
+63d16a3141b8b919,fiber slack,fiber foods,H04,0.0
+222ad57122eee8a9,fiber slack,fiber length,H04,0.5
+6a90b18b092c4965,fiber slack,fiber optic cable slack,H04,0.75
+f61484f6536bbe55,fiber slack,fiber optic system,H04,0.5
+9d56874281bea8b5,fiber slack,fiber slacks,H04,1.0
+b210ef767d523b0f,fiber slack,fibre board,H04,0.0
+c762dc226f6b6deb,fiber slack,fibre door,H04,0.0
+98c6b508cf765373,fiber slack,flexible slack,H04,0.25
+a653790b294bb01c,fiber slack,optical fiber,H04,0.5
+e120384cbb1cc090,fiber slack,optical slack,H04,0.75
+a62f22dcc04fe40f,fiber slack,slack,H04,0.5
+7499daa31f577a33,fiber slack,slack cable,H04,0.75
+3c15e18bd122f321,fiber slack,slack storage,H04,0.25
+89d175e269140979,fiber slack,slack variable,H04,0.0
+70da3bb8e222bdce,fiber slack,slack work,H04,0.0
+34dba249fd511eb0,fiber slack,spun yarn,H04,0.25
+b1966843be7c6b01,fiber slack,wireless communication,H04,0.25
+651168b27e74eb91,fiber slack,wireless lan,H04,0.25
+ddcd009371d5be8d,form as body,application form,G02,0.0
+6824eb37575c84ba,form as body,banded metallic plate,G02,0.5
+92e92befb268d8d7,form as body,body effect,G02,0.0
+50790eaa14e0eba8,form as body,body form,G02,0.5
+99f4e2705a7fa5ed,form as body,body parts,G02,0.0
+85a26107b165ddc4,form as body,body shop,G02,0.0
+4b1119dce640eebb,form as body,body types,G02,0.5
+17f3a04763bb4899,form as body,destroy body,G02,0.25
+92b8f410e0ddc438,form as body,form as body shaping,G02,0.75
+52cb640807924da1,form as body,form as disk,G02,0.5
+d57f211589eabbc0,form as body,form as plate,G02,0.5
+a37a4df2308f036e,form as body,form as single part,G02,0.5
+9df6755ee216b675,form as body,form filling,G02,0.0
+818e33143780a2ab,form as body,form less column,G02,0.25
+487d779a79358e2c,form as body,form notice,G02,0.0
+1947bb7de9f3326e,form as body,formation of object,G02,0.5
+fd0fc6412f313086,form as body,formless composite beam,G02,0.25
+d1857b0f44e7ae5f,form as body,formless material,G02,0.25
+2502b4b3fd36f09d,form as body,inner and outer surfaces,G02,0.25
+d0e12ccab8ce1f56,form as body,melts form as body,G02,0.75
+bc48e2b978420558,form as body,object,G02,0.25
+ae9f4ef63742dd58,form as body,outer housing formation,G02,0.5
+f2ba703b59ddfcc7,form as body,sealing form,G02,0.5
+0613297f079ff6a5,form as body,form as barrier,H04,0.5
+6709310e49b14808,form as body,form as single part,H04,0.5
+bdb03e6c8eaa69c4,ftir spectrometer,atr ftir,G02,0.5
+84bcf82e61ea612a,ftir spectrometer,atr ftir standard spectrogram,G02,0.75
+6d51b4b4d212b870,ftir spectrometer,component sale,G02,0.0
+bd91395e3cdb26c1,ftir spectrometer,detection,G02,0.25
+02468996ba1372d0,ftir spectrometer,emit infrared radiation,G02,0.5
+1e36a9daffe03c39,ftir spectrometer,fourier transform infrared spectrometer,G02,0.75
+194c1c6739d19f4b,ftir spectrometer,ft ir,G02,0.5
+990cda30042acbba,ftir spectrometer,ft ir spectrometer,G02,1.0
+d26781088f7ac96e,ftir spectrometer,ft spectrometer,G02,0.5
+7ec7f2ddc662d51c,ftir spectrometer,ftir,G02,0.5
+ab6bc36a0182b9c9,ftir spectrometer,ftir analysis,G02,0.5
+9ffc1788afdcd445,ftir spectrometer,ftir spectra,G02,0.25
+18d242531a0b554f,ftir spectrometer,ftir spectrometer instrumentation,G02,0.75
+25e4cca917401809,ftir spectrometer,high resolution spectral data collector,G02,0.5
+39d0838d8fae3aa1,ftir spectrometer,image analysis,G02,0.5
+a3e24574ff3cccd0,ftir spectrometer,image detection,G02,0.5
+3eabc21ac39aa874,ftir spectrometer,imaging,G02,0.25
+9bbd526e4787decb,ftir spectrometer,infrared ir,G02,0.5
+915e5a8374ecb070,ftir spectrometer,infrared spectrometer,G02,0.75
+36954938b5efa5e1,ftir spectrometer,instrument cluster,G02,0.0
+29c35dec9d164da4,ftir spectrometer,led,G02,0.25
+f8082c66dc65ca98,ftir spectrometer,measuring instrument,G02,0.5
+bf4fc6d568ca468d,ftir spectrometer,modulator,G02,0.5
+afd7de81de6ec69c,ftir spectrometer,optical ir,G02,0.5
+65f4ec36c7cc6802,ftir spectrometer,optical ir spectrometer,G02,0.5
+431eb5b4d613d584,ftir spectrometer,particles separate,G02,0.25
+b70db48e3d284776,ftir spectrometer,phase modulator,G02,0.5
+8041cbc926d1c62f,ftir spectrometer,real life dimensions,G02,0.25
+a1b842afb50e462d,ftir spectrometer,real life service,G02,0.25
+178fddbe8bee3c7c,ftir spectrometer,real world activities,G02,0.25
+6b3c88659c85d8af,ftir spectrometer,scientific instrument,G02,0.25
+193e2183f543e313,ftir spectrometer,separate lines,G02,0.0
+413e639fd559c2f3,ftir spectrometer,sld,G02,0.5
+237ce85c9638a15d,ftir spectrometer,spatial modulator,G02,0.5
+b91e3d36aeb08410,ftir spectrometer,spectral analysis,G02,0.5
+71d4e5967a8c6e02,ftir spectrometer,spectral components,G02,0.25
+3e27b0aed024e02f,ftir spectrometer,spectral detection,G02,0.5
+13f4440b34966bf0,ftir spectrometer,spectrometer,G02,0.5
+bcc3bd221224baea,ftir spectrometer,spectrometer availability,G02,0.0
+0328a4d057cbeb90,ftir spectrometer,spectrometer dealer,G02,0.0
+245d260f8c8cf8d2,ftir spectrometer,spectrometer price,G02,0.0
+bdeee01fbcc8f97f,ftir spectrometer,spectroscopy,G02,0.5
+b7ff2bca85285fac,generate in layer,destroy in layer,G02,0.25
+202131e5cfd6fbf5,generate in layer,generate at layer,G02,0.75
+5203a36c501f1b7c,generate in layer,generate by layer,G02,1.0
+d3a5c40d75f3aeec,generate in layer,generate energy,G02,0.0
+b1547c280d42938b,generate in layer,generate in active layer,G02,0.5
+5bc364d9eb98c7bf,generate in layer,generate in layer,G02,1.0
+1487d710e4f11f4a,generate in layer,generate in layer material,G02,0.75
+2138d543291a1d82,generate in layer,generate in substrate,G02,0.75
+77e1f47329326a6e,generate in layer,generate in wafer,G02,0.75
+e625cb28e637f428,generate in layer,generate layer,G02,1.0
+0f446201fed9b75b,generate in layer,generate sound,G02,0.0
+41c9336caf76f8f7,generate in layer,layer by layer manufacturing,G02,0.75
+feaba70099238129,generate in layer,layer generation,G02,0.5
+3eedce64d5e6e696,generate in layer,layered formation,G02,0.5
+43b44b02da3fd25d,generate in layer,layers of atmosphere,G02,0.0
+3e842a89bc1ecf9b,generate in layer,network,G02,0.25
+7718697b01a96ecc,generate in layer,produce in layer,G02,0.75
+e5086da040f7e90c,generate in layer,rails without layers,G02,0.25
+7083dd1524dc7be2,generate in layer,sandwich layer,G02,0.0
+9b7a403de7ed2948,generate in layer,semiconductor,G02,0.25
+c50eeb88ed0f98c5,generate in layer,silicon wafer without layers,G02,0.25
+f2532b2611976648,generate in layer,skin layer,G02,0.0
+453de2d2828c0336,generate in layer,thermosphere layer,G02,0.0
+3d4b1d27c3c3fe68,generate in layer,without contours,G02,0.25
+54e4ac49031b753d,gutters,body parts,G02,0.0
+35c1f582e5502f80,gutters,clean water sump,G02,0.25
+f0f69664f039d126,gutters,clean water tank,G02,0.25
+d97f1d977a682489,gutters,electro optic medium,G02,0.5
+afd1378847fa9afb,gutters,gaps,G02,0.75
+688e08ebf9f2a9f1,gutters,gutter,G02,1.0
+126136cc214b1679,gutters,gutter crutches,G02,0.0
+0bcef53c89d28426,gutters,gutter frame,G02,0.0
+c818d49b6ea87fd2,gutters,gutters bootstrap 4,G02,0.0
+c76a423f96c5522e,gutters,led,G02,0.25
+bf4cfe20b9f6c470,gutters,location frame,G02,0.25
+4f1e0858e90bc7ff,gutters,optics body,G02,0.25
+11d834a599e39cf7,gutters,place value,G02,0.0
+0f5bc9a1f610165a,gutters,potable water inlet,G02,0.25
+c1fe4516703ca120,gutters,railway gaps track,G02,0.0
+66e73e22f7f6310c,gutters,rainwater sewer,G02,0.5
+2496386a56efe9a2,gutters,remove from gutters,G02,0.5
+57fa406629f0c6c3,gutters,separation place,G02,0.75
+7f0a22c4c1591bda,gutters,sewage channel,G02,0.5
+acfd70e16c8aefc3,gutters,transparent gutter,G02,0.5
+6a2dda4b42cbf02d,gutters,waste water conduit,G02,0.5
+45692c6e16b7c381,hardware blocks,addressable control space,H04,0.5
+ab201797cacbc36f,hardware blocks,arithmetic units,H04,0.5
+e710357fcb3b04d1,hardware blocks,blockchain,H04,0.0
+ed21c4cb253db3a6,hardware blocks,building blocks,H04,0.0
+dc556f7ef77a7949,hardware blocks,circuitry,H04,0.25
+1ea4d8deb8eb1027,hardware blocks,components,H04,0.25
+91328df2ece36f73,hardware blocks,firmware block,H04,0.25
+6a401e4913d33c41,hardware blocks,hardware design block,H04,0.5
+bc599542a5af810d,hardware blocks,hardware engine,H04,0.0
+53e7b10c7b898f41,hardware blocks,hardware machine,H04,0.25
+fe4af4e87e6a0d38,hardware blocks,hardware modem,H04,0.25
+9c2b878349c11687,hardware blocks,hardware store,H04,0.0
+572924443cc261ae,hardware blocks,hardware system,H04,0.5
+e25948480e908f59,hardware blocks,hardware unit,H04,0.75
+c3db512637be073d,hardware blocks,instructions,H04,0.5
+abb29dcabf9b6415,hardware blocks,jd detection process,H04,0.0
+241241969d3d2e31,hardware blocks,joint detection process,H04,0.0
+3189b67011bc5aef,hardware blocks,lego blocks,H04,0.0
+2d24863333180572,hardware blocks,pipeline,H04,0.25
+17a9f1005fcbcde1,hardware blocks,plurality of hardware blocks,H04,1.0
+55ec1a146b836d9f,hardware blocks,processor,H04,0.5
+10e2912c5b0b33cf,hardware blocks,programmable logic device,H04,0.5
+501594434230e5ca,hardware blocks,receive chain,H04,0.0
+e1a8c61e6ea6f186,hardware blocks,receive circuitry,H04,0.25
+590463e7475e46a3,hardware blocks,receiver chain,H04,0.0
+2e3f7af9c6f43e4d,hardware blocks,receiver circuitry,H04,0.25
+0a77d329561707b2,hardware blocks,software blocks,H04,0.25
+95024f5dfcf84114,hardware blocks,software program,H04,0.25
+0593193d0e7f6bba,hardware blocks,state,H04,0.5
+ed646519b27e8b6f,hardware blocks,system block,H04,0.5
+4705f5ca02d6dd9b,hardware blocks,system memory,H04,0.25
+233ce51eb9272692,hear aid parameters,aid enzyme,H04,0.0
+727a335d48c4a71d,hear aid parameters,aid parameters,H04,0.25
+96195a25d45f9752,hear aid parameters,amplifier,H04,0.25
+8e885b1073fc4bcb,hear aid parameters,compensating module,H04,0.25
+87c4e97a9514fade,hear aid parameters,directional microphones,H04,0.5
+01423f81aa69b659,hear aid parameters,first aid,H04,0.0
+e5e82404620903fe,hear aid parameters,hear aid,H04,0.5
+6efcd64b5a72a166,hear aid parameters,hear aid machine,H04,0.5
+3792820488d01427,hear aid parameters,hear music,H04,0.0
+7c65c8bea19cb7ea,hear aid parameters,hear parameters,H04,0.5
+3d5bfaf54242b4df,hear aid parameters,hearing aid parameters,H04,1.0
+24169479fce3c574,hear aid parameters,hearing aid profiles,H04,0.75
+6400e8293af91751,hear aid parameters,hearing assistance device,H04,0.5
+84ed88902e33147f,hear aid parameters,hearing device,H04,0.5
+c0f745f3eeb4c0f6,hear aid parameters,hearing disability,H04,0.25
+cede5f28957c912d,hear aid parameters,machine design,H04,0.0
+87c4ea16f4f4e42d,hear aid parameters,medical aid,H04,0.0
+e5777cd5ac472381,hear aid parameters,microphone,H04,0.25
+9804565e721491ce,hear aid parameters,monetary aid,H04,0.0
+fa4737909694ba91,hear aid parameters,noise reduction,H04,0.5
+d50f1f859cf21809,hear aid parameters,speaker,H04,0.25
+2491d92f9fac26db,hear aid parameters,vibrating alert system,H04,0.25
+efc2d64e1f6afc9f,hear aid parameters,wireless connectivity,H04,0.5
+3ad7755222495e16,hrb,bus tracking,H04,0.0
+b628a4a1268dedc5,hrb,computer resource bus,H04,0.5
+996f625b648e6b36,hrb,frequency hrb,H04,0.5
+f18518f79665c429,hrb,hardware acceleration,H04,0.0
+b3795e834aa3c695,hrb,hardware resource bus,H04,0.75
+6d4dff9fdfcb0af6,hrb,hardware resource over a bus,H04,0.75
+4c1b20fef2d1594a,hrb,herb plants,H04,0.0
+07430e5268cf68d3,hrb,high rate bit,H04,0.75
+792af9ce7dfa9aeb,hrb,high risk borrower,H04,0.0
+7b8f92fee84ec258,hrb,hrb detectors,H04,0.5
+15604d5e97e28b10,hrb,hrb parameter,H04,0.5
+cf09ed9aaa98c154,hrb,human resources boosters,H04,0.0
+40c955e7a9597cb2,hrb,low rate backward channel,H04,0.25
+ab3f28a7f58e4347,hrb,low rate bit stream,H04,0.25
+d828f88a1d92bef6,hrb,low rate position sequence,H04,0.25
+9ce8d908f6120830,hrb,memory resource bus,H04,0.75
+2cf219cd042c85f8,hrb,memory space,H04,0.25
+0c1a6865c2769c6b,hrb,natural resources,H04,0.0
+62721a7e01ecb8c0,hrb,shared resource pool,H04,0.25
+ffb5b34fa960e947,hrb,virtual hardware,H04,0.25
+cc38b0252751e99e,image signal generation,amber signal,H04,0.0
+c67ebe5638dd40ff,image signal generation,bill generator,H04,0.0
+32cd21b342228ebb,image signal generation,color matrix processing,H04,0.25
+41ad930719e99c02,image signal generation,color process,H04,0.25
+1a9b861dff5e0525,image signal generation,color processing,H04,0.25
+ecfd949aefd97d76,image signal generation,color signal processing,H04,0.25
+66feba80e1120a69,image signal generation,converting image signal,H04,0.5
+d54508be2b2d0344,image signal generation,digital image processing,H04,0.5
+16c016d3fa37f0ba,image signal generation,generating,H04,0.25
+88b71963b9554ef1,image signal generation,generation,H04,0.25
+d659ea108cf941d0,image signal generation,hydrogen generation,H04,0.25
+03824ffe94ddbce1,image signal generation,image capturing sensor,H04,0.25
+7dd23849566e2550,image signal generation,image correction,H04,0.25
+2c56292f28378aad,image signal generation,image generating,H04,0.5
+1b7f092b86e8e3a3,image signal generation,image generation,H04,0.5
+c0d445387dc952fc,image signal generation,image process,H04,0.25
+2d9aa8deed858d85,image signal generation,image processing,H04,0.25
+fe328fb0ccc4bedb,image signal generation,image search,H04,0.0
+618cc643748bc1af,image signal generation,image signal generating,H04,1.0
+9eeab66be19bdd09,image signal generation,image signal generation system,H04,0.5
+52b61f4ab50ac576,image signal generation,image signal generator,H04,1.0
+34de975eedc7c572,image signal generation,image signal producing,H04,0.75
+e2452c0ae10f576c,image signal generation,image signal reproducing apparatus,H04,0.5
+3413277fd4fd3d6a,image signal generation,picture channel,H04,0.25
+6a3d09f8c35dd4a0,image signal generation,power generation,H04,0.25
+134fcee7401682d9,image signal generation,reverse image,H04,0.0
+4365b2846e9b4d65,image signal generation,rg matrix processing,H04,0.25
+038e2404fc9caaef,image signal generation,signal generating,H04,0.25
+1667d456df88d00a,image signal generation,signal generation,H04,0.25
+916c56f5df6a2a79,image signal generation,signal generator,H04,0.25
+8e061c3e9233fd62,image signal generation,signal processing,H04,0.25
+7963ee34949d32c0,image signal generation,siren signal,H04,0.0
+28c8e4fe65d599d1,image signal generation,three dimensional image signals,H04,0.25
+6e37cffe2244d878,image signal generation,video signal generator,H04,0.5
+98a752c61ba5cbe5,image signal generation,whistle signal,H04,0.0
+f50c5c945c6715d1,imaging axis,apparatus method,G02,0.0
+be090bec5ef793fd,imaging axis,arc,G02,0.25
+8bd1a4a9ddceb435,imaging axis,arm,G02,0.0
+c9984d0fa074f115,imaging axis,axial imaging,G02,0.75
+7f58c497e6e55657,imaging axis,axis,G02,0.5
+b0603826b5313d36,imaging axis,axis direction,G02,0.5
+7860f3e0156aaed0,imaging axis,axis lens path,G02,0.5
+99c37f7005a577eb,imaging axis,axis net,G02,0.0
+79a9f51987dd70a7,imaging axis,axis of direction,G02,0.0
+6f093225e5e95e92,imaging axis,axis of earth,G02,0.0
+28300faae81045eb,imaging axis,axis optical path,G02,0.5
+a270fcd4e87a60ee,imaging axis,camera axis,G02,0.5
+071384bce763994a,imaging axis,central axis,G02,0.5
+5420e2c1aa512b49,imaging axis,central member,G02,0.25
+8be78835126bd38e,imaging axis,certainity value,G02,0.25
+0729d791a35aae0d,imaging axis,degree of certainity,G02,0.25
+ae6d989f16b8b64b,imaging axis,earth axis tilt,G02,0.0
+643c472cd833c997,imaging axis,fan beam axis,G02,0.5
+e183aabe670cdd7f,imaging axis,flexible axis,G02,0.25
+bf22f29ecf544526,imaging axis,flexible member,G02,0.0
+568c994abcddeb8c,imaging axis,fluoroscopy method,G02,0.25
+c9f4b17fdba12548,imaging axis,image of axis,G02,0.0
+53817ce9cbcc28a1,imaging axis,imaging axis direction,G02,0.75
+773d59391eb5d5c9,imaging axis,imaging center,G02,0.0
+551305093937904c,imaging axis,imaging direction,G02,0.75
+20a45b67a785caf3,imaging axis,imaging of axis,G02,0.0
+f8bda41c64037216,imaging axis,microscope system,G02,0.25
+cb5bec9f4f6b0d95,imaging axis,multi axis imaging,G02,0.5
+1136b74cde7d4ec5,imaging axis,non imaging axis,G02,0.25
+9e222e225a7bdbc5,imaging axis,observation axis,G02,0.5
+e01e5af393d6cb3b,imaging axis,observation direction,G02,0.5
+66e3f4f1e4e477a9,imaging axis,opening,G02,0.0
+1612ce9219659f57,imaging axis,optic axis,G02,0.5
+0722d19889d39440,imaging axis,optic path,G02,0.5
+3a28dbc1e54c3bf5,imaging axis,optical axis,G02,0.5
+b5d5421df0bdfc0c,imaging axis,optical axis direction,G02,0.5
+8fa150e24752d622,imaging axis,optical direction,G02,0.5
+f27489f27e529db8,imaging axis,optical lens axis,G02,0.5
+e633f6faeef65b9d,imaging axis,optical lens path,G02,0.5
+c04e2ab28c0fc239,imaging axis,optical of axis,G02,0.0
+f6d8d8ece50ef025,imaging axis,optical of direction,G02,0.0
+fab4c7484c527793,imaging axis,optical path,G02,0.5
+eabbf44f7b56e181,imaging axis,orientation,G02,0.25
+61275049f49e3174,imaging axis,photographic apparatus,G02,0.5
+2f59b14aeef7b9d2,imaging axis,source system,G02,0.0
+6164eb171e85f950,imaging axis,threshold certainity,G02,0.25
+18f2703df5ecc09f,imaging axis,transverse planar image,G02,0.5
+9d28e12c93f3efd7,imaging axis,viewing axis,G02,0.5
+cdb94c91326471d8,ingress buffer,buffer,H04,0.5
+bf71bb1f5255722c,ingress buffer,buffer action,H04,0.0
+552d19c21ced5670,ingress buffer,buffer configuration,H04,0.5
+aca67dc74f87a60a,ingress buffer,buffer solution,H04,0.0
+90dab5a133253706,ingress buffer,buffer zone,H04,0.0
+bac9fca64d916553,ingress buffer,egress buffer,H04,0.25
+eb2eb9f6456e6771,ingress buffer,image buffer,H04,0.0
+60a326180c00fd1a,ingress buffer,incoming packet,H04,0.5
+1477c7f6392cfb58,ingress buffer,ingress buffer manager,H04,0.75
+a794c256a9977940,ingress buffer,ingress buffer size,H04,0.75
+96236de28845a77c,ingress buffer,ingress frame buffer,H04,0.5
+f568227ca315a2c8,ingress buffer,ingress frame memory,H04,0.5
+034569a6ecbe6fa8,ingress buffer,ingress memory,H04,0.5
+6ecd3170cfb6764d,ingress buffer,ingress protection rating,H04,0.0
+1e84214ab695d961,ingress buffer,ingress storage buffer,H04,0.75
+589bfee58ee59dad,ingress buffer,ingress storage memory,H04,0.75
+b581922d3235eada,ingress buffer,input,H04,0.25
+4097db9c59ac72e4,ingress buffer,input buffer,H04,0.75
+904b94fd3d27e5e4,ingress buffer,input fifo,H04,0.5
+bb951a96e78bb884,ingress buffer,internal buffer,H04,0.25
+c048fe87e4238a44,ingress buffer,internal frame buffer,H04,0.25
+8cc9a6228591b1cd,ingress buffer,internal frame memory,H04,0.25
+3d38134066794f76,ingress buffer,internal memory,H04,0.25
+533fd0ea436829ef,ingress buffer,internal storage buffer,H04,0.25
+42ca4cd55eb5a6f3,ingress buffer,internal storage memory,H04,0.25
+ca71e04c8773a6c2,ingress buffer,memory,H04,0.25
+d9534c62cddbd615,ingress buffer,output,H04,0.0
+7b4b8fabb9c45487,ingress buffer,output buffer,H04,0.25
+c2a35b91e08e805b,ingress buffer,output fifo,H04,0.25
+1f4e4251dd3c4465,ingress buffer,output information,H04,0.25
+54f56b101949ce34,ingress buffer,output storage module,H04,0.25
+795c4754cdc9c686,ingress buffer,packet metadata queue,H04,0.75
+6eded9d33113b77b,ingress buffer,register,H04,0.25
+942806129dcfd974,ingress buffer,shared buffer pool,H04,0.25
+1dca31bb41fc3ece,ingress buffer,spill buffer,H04,0.75
+7bff052ffe5b2f7f,ingress buffer,storage,H04,0.25
+680a9181063cae1a,ingress buffer,storage buffer,H04,0.5
+836bab992519be93,ingress buffer,storage memory,H04,0.25
+ef072a9cee857cfc,ingress buffer,traffic management,H04,0.5
+f167f66b258aaa34,instruction processing,card processing,H04,0.0
+490e2e0b4cef6225,instruction processing,chemical etching process,H04,0.25
+c38fd8c1cc0d9c8a,instruction processing,control,H04,0.25
+c27dada080aa5cb0,instruction processing,control process,H04,0.25
+703bee8a0cf1c423,instruction processing,control step,H04,0.0
+75e92367977db754,instruction processing,data processing instruction,H04,0.5
+4cf03be004eb7576,instruction processing,device information process,H04,0.5
+4ef9f25c710905ac,instruction processing,device information step,H04,0.25
+1b894eb26cf0b2e2,instruction processing,device instruction process,H04,0.5
+8020f2329767267d,instruction processing,device instruction step,H04,0.5
+35a0ec74f52895a6,instruction processing,execution unit,H04,0.25
+91c899ede2d8538e,instruction processing,food processing unit,H04,0.0
+8fb8a0fe441197d8,instruction processing,information transmission function,H04,0.25
+427604a106cca8de,instruction processing,information transmission step,H04,0.25
+73f5147c1ed9b603,instruction processing,information transmitting function,H04,0.25
+f25fa99fc6c3fe2f,instruction processing,information transmitting step,H04,0.25
+7a7e6ce1470a29f3,instruction processing,initialization step,H04,0.5
+17684f9fbfb2bb12,instruction processing,instruction,H04,0.25
+7f2b02f28f9cb2f5,instruction processing,instruction control,H04,0.5
+b926468533f5d6b7,instruction processing,instruction execution,H04,0.75
+abc11b09cca4808b,instruction processing,instruction information process,H04,0.5
+4976e7538016593d,instruction processing,instruction information step,H04,0.5
+7eeabdea4bb2023c,instruction processing,instruction manual,H04,0.0
+7b5f59bec688c981,instruction processing,instruction process,H04,1.0
+29a0d7865dadb7fe,instruction processing,instruction processing device,H04,0.75
+45fb67028c42a4b0,instruction processing,instruction processing module,H04,0.75
+1add29b2bdd519ea,instruction processing,instruction processing program,H04,0.75
+139cde0232a52059,instruction processing,instruction processing unit,H04,0.75
+fd09c0fd0a2353cb,instruction processing,instruction receiving,H04,0.5
+ad530b4b49995113,instruction processing,instruction reception processing,H04,0.5
+53dc1e44970bce10,instruction processing,instruction step,H04,0.5
+f4795d1f3be73ea6,instruction processing,instruction transmission function,H04,0.5
+fe7fe0c05f6377d9,instruction processing,instruction transmission step,H04,0.5
+29682f43d42c1193,instruction processing,instruction transmitting function,H04,0.5
+ed96d9264275bf0e,instruction processing,instruction transmitting step,H04,0.5
+64741fac6f344ddd,instruction processing,meat processing,H04,0.0
+27115b62bfaaef0e,instruction processing,operating instruction,H04,0.75
+31a2306883fcfc5f,instruction processing,pipeline instruction,H04,0.25
+e6f9a4629d6d97d9,instruction processing,process facility,H04,0.25
+f92ff283abb362b6,instruction processing,processing,H04,0.5
+de9d4529e9a9854d,instruction processing,processing instruction,H04,1.0
+9157d0a2db8e002c,instruction processing,processor,H04,0.25
+1fc1f1d0d40baf76,instruction processing,request instruction processing,H04,0.5
+5d40e01e4d3b0cb8,instruction processing,request instruction receiving,H04,0.5
+3fd016545add7c1b,instruction processing,request processing,H04,0.0
+a0385045bf2781d7,instruction processing,request receiving,H04,0.0
+7993239a258fc3d9,instruction processing,request reception processing,H04,0.0
+ac59df9bbb6505be,instruction processing,strict instruction,H04,0.0
+1e7c8aa0dd6c3cb4,instruction processing,though processing,H04,0.0
+757577e1c3d4290f,instruction processing,voice instruction processing,H04,0.5
+38f6f96d8f55a2e2,instruction processing,working chemical process,H04,0.25
+d98f89666159a175,intermediate speed,extremely slow speed,H04,0.5
+23c9c64e03cd9090,intermediate speed,high speed,H04,0.5
+e51a30cac1579a35,intermediate speed,intermediate rate,H04,0.25
+da8c2ef482887057,intermediate speed,intermediate slow,H04,0.25
+7a3afaf2b808d02e,intermediate speed,intermediate slow speed,H04,0.5
+2ea4ac50eaf71c67,intermediate speed,intermediate speed ratio,H04,0.5
+4113de5d87487897,intermediate speed,line,H04,0.0
+69cd080cfca33525,intermediate speed,line speed,H04,0.5
+f986ccea60dbfb73,intermediate speed,optimum,H04,0.25
+11f85608911d2d0f,intermediate speed,same,H04,0.0
+f7c0aeab494994b6,intermediate speed,slow speed,H04,0.5
+fa00fa6cf29573df,key arm,arm,H04,0.0
+d20bc1ce8ce8c8be,key arm,arm button,H04,0.25
+707cefd417be129b,key arm,arm chair,H04,0.0
+81742cc5d069201f,key arm,arm projection,H04,0.5
+70fbb4e5d5f60845,key arm,arm stock,H04,0.0
+c1431ad50b0e11de,key arm,automatic keying circuits,H04,0.5
+469da6f9e29dd055,key arm,closed key,H04,0.25
+a4fed7c6ec269de8,key arm,door key,H04,0.0
+77be388d18a1e183,key arm,formation,H04,0.0
+606d77604b4efa68,key arm,key,H04,0.25
+82212ada8e604a56,key arm,key data,H04,0.25
+65cfed07b41a4b4f,key arm,key groove,H04,0.5
+d2d6f7c34c39bb2c,key arm,key pad,H04,0.0
+a72f68b54bd41bdc,key arm,key pivots,H04,0.75
+861393d3b70b2be0,key arm,key plate,H04,0.25
+b505d450725e87f2,key arm,key structure,H04,0.5
+06322fd19d778e3d,key arm,keyboard,H04,0.0
+c24fbb217138bee5,key arm,knife edges,H04,0.5
+5d63568f4be00b9b,key arm,locker key,H04,0.0
+e12c35453182ab67,key arm,secret key,H04,0.25
+23248a7d9f07cef9,key arm,shared key,H04,0.25
+d8d252ae0bf3cb36,key arm,swinging key arm,H04,0.75
+7e4438808d39d7ac,key arm,telegraph keys,H04,0.5
+42081e98f844e263,key arm,weighted arm,H04,0.0
+7c8925c8f2c488af,killed,alive,G02,0.25
+2edcc448fc98d0b4,killed,application killed,G02,0.0
+5983089372dab08c,killed,cold and heat,G02,0.0
+65cc4811c8734396,killed,cold killing,G02,0.5
+86b5060a408b896c,killed,heat killed,G02,0.5
+60fc80e737171627,killed,heat killing,G02,0.5
+f4014d4d38bcd434,killed,heat spark,G02,0.0
+b6b4da2405b1c655,killed,inactivated,G02,0.75
+3b4a993c4969f2a6,killed,killed bacteria,G02,0.5
+e67111919051e34d,killed,killed cells,G02,0.5
+9679f869f5e8b21b,killed,killed defects,G02,0.5
+f36ecf2ba15032a5,killed,killed in combat,G02,0.0
+0c1213c7307e8ed6,killed,killed in war,G02,0.0
+fa31bee1e75d449f,killed,killed is a cancer cell,G02,0.5
+e29d1201c72d3401,killed,killing,G02,1.0
+2b09c7c9974eec53,killed,live broadcast videos,G02,0.25
+43d1c57a0d17d5ad,killed,live streaming,G02,0.25
+35860aeb364b366e,killed,live video packets,G02,0.25
+64bc1b02f22a1931,killed,shot,G02,0.25
+eab006230ae4e582,killed,victim killed in accident,G02,0.0
+da6d81600a0a04e5,killed,weapon,G02,0.25
+5040cff298ce59ed,killed,whole killed viral vaccines,G02,0.5
+b3ecc39abd4a2af9,lamination method,adhesive,G02,0.25
+99556e130ed67261,lamination method,adhesive member,G02,0.25
+8de5c29857d8554d,lamination method,basic method,G02,0.0
+a2c5c911b6004333,lamination method,cartridge casing,G02,0.25
+f857afd3880d45e6,lamination method,coating means,G02,0.75
+ac17f7e87dbc7561,lamination method,coating method,G02,0.75
+737d66a946589605,lamination method,dipping,G02,0.25
+4cfcfcc3a683f74f,lamination method,dispenser,G02,0.5
+d7a85728db53fe82,lamination method,dispenser method,G02,0.5
+fe7a45c2d1b2eeee,lamination method,flexible packaging,G02,0.25
+b79eb48315463936,lamination method,frame,G02,0.25
+9e3bf2975118af80,lamination method,frame member,G02,0.25
+f309437696228a11,lamination method,laminate method,G02,1.0
+241912c5565ac1b0,lamination method,laminating method,G02,1.0
+a8983547ab14e410,lamination method,lamination,G02,0.5
+c60249b2c95a7fa3,lamination method,lamination process,G02,0.75
+ba4fab88865bf033,lamination method,lamination shop,G02,0.0
+d74e2d7717adc615,lamination method,lamination technique,G02,0.5
+f74dabf1e37560fd,lamination method,laminator,G02,0.5
+86fe9af7f9f1030b,lamination method,manufacturing material in multiple layers,G02,0.5
+6f4956f36bdea1ee,lamination method,method acting,G02,0.0
+850dc06ddb341427,lamination method,method reference,G02,0.0
+9c87d77eaca8438f,lamination method,multilayer slide coating,G02,0.5
+480f20d8de5395fe,lamination method,plastic sheet,G02,0.25
+c6a85528bad51162,lamination method,printing,G02,0.5
+22ec12005bf5d848,lamination method,printing method,G02,0.5
+07a4affd80ea727b,lamination method,printing process,G02,0.5
+35b9908023765d05,lamination method,printing process method,G02,0.5
+96a3cb3712f7a895,lamination method,remove cover layer,G02,0.25
+6b409de6b67ffeb6,lamination method,remove cover material,G02,0.25
+0db53c0223c2fe61,lamination method,resin sheet,G02,0.5
+7c25119a9062845f,lamination method,sheet heating machine,G02,0.25
+6575264ad4c7387e,lamination method,sheet method,G02,0.0
+623c19e0b3413c7b,lamination method,spray method,G02,0.5
+7e139dec9006f003,lamination method,spray process,G02,0.5
+51a69495d1fd3fbd,lamination method,spray process method,G02,0.5
+2b595b30374c7daf,lamination method,stratification method,G02,0.75
+23113e2a55baefee,lamination method,tape,G02,0.5
+2e793973e85ae19b,lamination method,treatment method,G02,0.0
+88c59f0a5ba29c12,laser beam optical,barcode scanners,G02,0.25
+c126aa042283902d,laser beam optical,beam balamce,G02,0.0
+137bb9e62dc9f11e,laser beam optical,beam engine,G02,0.0
+735bbccfc0994aa8,laser beam optical,bean bag,G02,0.0
+6eea1abb0f73550c,laser beam optical,coating material,G02,0.25
+df34ade9f8fa0ee2,laser beam optical,cutting glass,G02,0.25
+628ee2b571dc2f86,laser beam optical,cylindrical light source,G02,0.5
+19b8725871bd8acd,laser beam optical,glass jar,G02,0.0
+9bed2ae6be0d9479,laser beam optical,laser,G02,0.5
+ced7ca31b3e579f6,laser beam optical,laser beam expander,G02,0.5
+281f1b5ec4d8f5b7,laser beam optical,laser beam homogenizer,G02,0.75
+2899a6738b399c8a,laser beam optical,laser beam integrator,G02,0.75
+645b2a0c04b8d0e3,laser beam optical,laser device,G02,0.5
+efa946b0f523bd8f,laser beam optical,laser light optic,G02,0.75
+2f0fe90cc561769d,laser beam optical,laser light source,G02,0.5
+df5beba774e44544,laser beam optical,laser optical,G02,0.5
+c05f2e7f815cb9e5,laser beam optical,laser optical system,G02,0.5
+6b39fdb01d72d610,laser beam optical,laser radiation optical,G02,0.75
+4f9f1f465e7c631a,laser beam optical,narrow beam of light,G02,0.5
+7d18aaaaf729387b,laser beam optical,optical amplification,G02,0.5
+9c58b79861d248b6,laser beam optical,optical density,G02,0.0
+0d9228dde094a367,laser beam optical,optical fiber laser,G02,0.5
+bca5b8b74d7b87a4,laser beam optical,optical laser,G02,0.75
+c59dd7499e2ae6b0,laser beam optical,optical sensor,G02,0.25
+3e9bbd26f179bb6b,laser beam optical,parallel beam,G02,0.0
+39e4501ac2c3a079,laser beam optical,polarization laser,G02,0.5
+bb36b645a0e67e32,laser beam optical,polarization laser optical,G02,0.5
+854a00b3cd7d6821,laser beam optical,polarization optic,G02,0.5
+514c72003dbd1fcf,laser beam optical,polarization optical,G02,0.5
+d4972487528b224a,laser beam optical,printing,G02,0.25
+96556536debc1291,laser beam optical,welding and cutting,G02,0.25
+df1783ea0305a61f,linear change,angular change,G02,0.25
+3a1677dc4d881172,linear change,change,G02,0.5
+72dd7d49ec779ad8,linear change,change of clothes,G02,0.0
+00993de7f6bd5092,linear change,climate change,G02,0.0
+0feed36cfcc59382,linear change,continuous change,G02,0.75
+180424679a55f33f,linear change,corresponding change,G02,0.5
+89311f4389b1b1b8,linear change,dimension box,G02,0.0
+5cc394c5a9e5d27e,linear change,incremental change,G02,0.25
+ab81ff19309f7477,linear change,linear development,G02,0.5
+489622e7fbb3c195,linear change,linear dimensional change,G02,0.5
+db80d0f2713251bf,linear change,linear fashion,G02,0.5
+9c69973d328dbf46,linear change,linear function,G02,0.5
+a345d80fe06b5b2e,linear change,linear optical,G02,0.25
+5455a61bb64f00b9,linear change,linear pair,G02,0.0
+6d66592c2e08a172,linear change,linear relation,G02,0.5
+5e209604192dc83e,linear change,linear variation,G02,0.75
+a641f2c474c6d315,linear change,linearity,G02,0.5
+7440bdb572f23eb4,linear change,non linear change,G02,0.25
+f9ca40980f053cdc,linear change,not a proportional relationship,G02,0.25
+41ba6944c3f534e3,linear change,optical system,G02,0.25
+803e694897e42710,linear change,permanent change,G02,0.0
+ac8923b84a46bbc8,linear change,progresses straight,G02,0.5
+b2f1836c822af41a,linear change,proportional change,G02,0.5
+0940d9c140ae17e7,linear change,shift,G02,0.5
+7402cce3e19ad757,linear change,small change,G02,0.5
+41285b53d0e5b87f,linear change,step change,G02,0.5
+15265869dd782496,linear change,uniform change,G02,0.75
+4dd33f1897005085,linear change,uniform variation,G02,0.5
+6e44a0f7139cd982,linear change,uniformity,G02,0.25
+853a829c1190313b,linear change,zero linear change,G02,0.25
+32c65aabb8da157e,linear change,zero uniform change,G02,0.25
+be8b944697a4dbf2,loudspeaker arrays,acoustic output speakers,H04,0.5
+a7d7b2e314e46e21,loudspeaker arrays,acoustic output transducers,H04,0.5
+6be67eea0806f0d3,loudspeaker arrays,acoustic signal,H04,0.25
+66a85cf496b7038b,loudspeaker arrays,acoustic transducers,H04,0.5
+f2d6fa6dac2a5b0e,loudspeaker arrays,acoustic transducers speakers,H04,0.5
+c0ccef945456eb57,loudspeaker arrays,array brackets,H04,0.0
+8205bc5464bb8154,loudspeaker arrays,array declaration,H04,0.0
+fa0853aca3e71e5c,loudspeaker arrays,array of bangles,H04,0.0
+9a7e7957cc193eee,loudspeaker arrays,array of speaker,H04,0.5
+463b73876709fc9e,loudspeaker arrays,array variable,H04,0.0
+7ab93b98e37051d2,loudspeaker arrays,arrays,H04,0.25
+691c4b3d02b325a9,loudspeaker arrays,diaphragm arrangement,H04,0.25
+48499a6a051c6ada,loudspeaker arrays,directional output speakers,H04,0.5
+b1aa13bffc1ca5af,loudspeaker arrays,directional output transducers,H04,0.5
+7798834c97083fde,loudspeaker arrays,directional transducers,H04,0.5
+175f6516ef438d35,loudspeaker arrays,directional transducers speakers,H04,0.5
+ac95475b23351195,loudspeaker arrays,loudspeaker line array,H04,0.75
+88ea912464c1488d,loudspeaker arrays,loudspeaker system,H04,0.5
+ff53325effea1911,loudspeaker arrays,loudspeakers,H04,0.75
+32bfb611777b8775,loudspeaker arrays,loudspeakers arrangement,H04,0.75
+eee9646c41291278,loudspeaker arrays,microphone,H04,0.25
+c2190e64f15b30e7,loudspeaker arrays,multiple loudspeaker,H04,0.75
+4a433b61628ee7db,loudspeaker arrays,number array,H04,0.0
+e43b4d2b7d208aad,loudspeaker arrays,plurality of loudspeakers arranged,H04,0.75
+b774c3c7f41ae2c0,loudspeaker arrays,series of loudspeakers,H04,0.75
+746bd2861cf02cb7,loudspeaker arrays,series of sound transducers,H04,0.5
+fa061ca0a5ea00e8,loudspeaker arrays,speaker transducers,H04,0.5
+33639544e91ef212,loudspeaker arrays,speaker types,H04,0.25
+f8180b2d5ad09183,loudspeaker arrays,speakers,H04,0.5
+5250683b0560b83f,loudspeaker arrays,speakers transducers,H04,0.5
+fcd49fe38f5eba4c,loudspeaker arrays,string array,H04,0.0
+c25c7d7311a752b1,loudspeaker arrays,transducers,H04,0.25
+032269c3f780171f,loudspeaker arrays,voice coil,H04,0.25
+b59038bcdd978dd1,material item,clothing material,H04,0.0
+b73d95bb8bf081ac,material item,component material,H04,0.5
+10babe2092a6449d,material item,composite material,H04,0.25
+6ba15d7fec941a0f,material item,content material item,H04,0.5
+7f8cf755ead52fcb,material item,electric goods,H04,0.25
+fb5723c1d095a4f3,material item,electric material,H04,0.25
+4e653806a73f89c2,material item,ferromagnetic mold material,H04,0.25
+fc2b4705879d5b21,material item,food item,H04,0.25
+bd88a8bfa48c0e4a,material item,food service material item,H04,0.5
+ef88f2ae2d03b336,material item,item,H04,0.25
+1ae2760a61e19e35,material item,item number,H04,0.0
+8e3d05068644d033,material item,item of material,H04,0.75
+a69ba054e17ad821,material item,items list,H04,0.25
+104b24da655d8c46,material item,marked signal,H04,0.0
+70f2b7b6f398e4e2,material item,marked version,H04,0.0
+9d18d631f1866c21,material item,material for electric parts,H04,0.5
+830fc003b715712c,material item,material items,H04,1.0
+d422a78acb40261a,material item,materials,H04,0.25
+e6496af70e6f2ff3,material item,materials item,H04,1.0
+e206fdd5e8424986,material item,materials items,H04,1.0
+63e5885bec22ff37,material item,organic material,H04,0.0
+aa767a1fdbf2a04e,material item,original,H04,0.0
+6b3e59058775b110,material item,original version,H04,0.0
+5f696f0ab101ace5,material item,recyclable material,H04,0.25
+b98502ca34dc6897,material item,semiconductor material,H04,0.5
+35967838b57934e1,material item,tyre material,H04,0.25
+7333cd29e093fd24,material item,video,H04,0.0
+18c05a49da1da8b1,material item,wire material,H04,0.25
+6d36b11cd64a6aa6,monocrystalline semiconductor,amorphous alloy material,G02,0.25
+e9cbfdab4106fb76,monocrystalline semiconductor,amorphous iron core,G02,0.25
+12ed2b5cc3d70a98,monocrystalline semiconductor,amorphous structure,G02,0.25
+9bb6110d91f50ded,monocrystalline semiconductor,electronics chip,G02,0.25
+c2d53bbb2c9cb912,monocrystalline semiconductor,intrinsic semiconductor,G02,0.75
+af5b3779b8adcebf,monocrystalline semiconductor,mono c si,G02,0.75
+8c1d00d68afa03f6,monocrystalline semiconductor,mono si,G02,0.75
+684a481119404e35,monocrystalline semiconductor,monocrystalline diamonds,G02,0.0
+e9576b3fb4c7a6e3,monocrystalline semiconductor,monocrystalline semiconductor layer,G02,0.75
+729e31ad2718fad4,monocrystalline semiconductor,monocrystalline semiconductor material,G02,0.5
+7ab2b0252b96239e,monocrystalline semiconductor,monocrystalline semiconductor materials,G02,0.75
+3763a1fab4443810,monocrystalline semiconductor,monocrystalline silicon,G02,0.5
+6da9c4f275f3e69e,monocrystalline semiconductor,monocrystalline silicon wafer,G02,0.5
+54254c6f0141c684,monocrystalline semiconductor,non monocrystalline semiconductor,G02,0.25
+ebd4116a2e4dc638,monocrystalline semiconductor,sci fi device,G02,0.0
+90708d78138811c3,monocrystalline semiconductor,semiconductor,G02,0.25
+6aedf90ab94cb6f4,monocrystalline semiconductor,semiconductor companies,G02,0.0
+d96b73d82830c2cb,monocrystalline semiconductor,semiconductor shortage,G02,0.0
+76ef117bfffce607,monocrystalline semiconductor,semiconductor stocks,G02,0.0
+d95966ee118cd720,monocrystalline semiconductor,silicon,G02,0.25
+407170b7ad6fb701,monocrystalline semiconductor,silicon heat shrink material,G02,0.0
+3d34d662e973f2cf,monocrystalline semiconductor,single crystal silicon semiconductor,G02,0.75
+45de5c64c7f8d821,monocrystalline semiconductor,copper crystal,H04,0.0
+01030b09fc5f6b86,monocrystalline semiconductor,crystal form,H04,0.0
+1dedaeb4421a612d,monocrystalline semiconductor,crystal jewellery,H04,0.0
+6724643ac69aa63b,monocrystalline semiconductor,crystal lattice,H04,0.25
+eb3a14e120f64640,monocrystalline semiconductor,crystal oscillator,H04,0.0
+a50250b5013ddcba,monocrystalline semiconductor,crystalline semiconductor substrate,H04,0.5
+fd852e1831227b36,monocrystalline semiconductor,many crystallites,H04,0.25
+40f9e9e59a6af22b,monocrystalline semiconductor,mono act,H04,0.0
+19adfb46521689ba,monocrystalline semiconductor,monocrystalline semiconductor wafer,H04,0.75
+bee5c28d9d0e7998,monocrystalline semiconductor,monocrystalline silicon,H04,0.5
+b8c2d3936bedf110,monocrystalline semiconductor,non monocrystalline semiconductor,H04,0.25
+e012921ca4be673f,monocrystalline semiconductor,polycrystalline semiconductor,H04,0.25
+6c2d1c279a5acf08,monocrystalline semiconductor,semi automatic machine,H04,0.0
+fed63d912cca895f,monocrystalline semiconductor,semi crystalline silicon,H04,0.25
+089cbff3aaef2489,monocrystalline semiconductor,silicon bulk substrate,H04,0.25
+0365e363b2a6fde8,monocrystalline semiconductor,single crystal,H04,0.5
+0a2b1ed32c0a74f3,monocrystalline semiconductor,single crystal semiconductor,H04,0.75
+de37603b5391a89c,monocrystalline semiconductor,single crystal semiconductor material,H04,0.75
+1bd038083008262f,monocrystalline semiconductor,single crystal silicon cells,H04,0.5
+863e9af84cb5e6af,monocrystalline semiconductor,solar photovoltaic cells,H04,0.5
+3f5bb6c8d3cfb37f,multiplexed data,big data,H04,0.0
+e3e8c0d20a26a330,multiplexed data,broadcast demultiplexer,H04,0.25
+f4db0911344875ab,multiplexed data,code,H04,0.0
+7328282d0c714b4f,multiplexed data,data,H04,0.25
+ba52f44a921ae1e1,multiplexed data,data entry,H04,0.0
+888944122693e304,multiplexed data,data handling,H04,0.0
+b1660eb8f52b0af7,multiplexed data,data science,H04,0.0
+67b97287b98a003a,multiplexed data,data warehousing,H04,0.0
+e0beb6c5a38d1562,multiplexed data,demodulated data,H04,0.25
+e65216b517843dc8,multiplexed data,demultiplexer,H04,0.25
+da43777068efa661,multiplexed data,demux processors,H04,0.25
+ca0da17034ddd3d9,multiplexed data,digital baseband data,H04,0.25
+2be98f9ce371c7e1,multiplexed data,digital baseband signal,H04,0.25
+798e8fb1826c7472,multiplexed data,digital data,H04,0.5
+4afe302d45f79f2e,multiplexed data,digital signal,H04,0.25
+ea69d02094ef6de3,multiplexed data,multiplex bit,H04,0.5
+52f64d480ae73dc7,multiplexed data,multiplex data,H04,1.0
+5d4f8588f757c16f,multiplexed data,multiplex data bit,H04,0.5
+cb35b9ca07fc31d8,multiplexed data,multiplex digital bit,H04,0.5
+fccaa89d213e3d6c,multiplexed data,multiplex digital data,H04,0.75
+84d981b917f2bbaf,multiplexed data,multiplexed,H04,0.25
+4385e0e5029deef7,multiplexed data,multiplexed bit,H04,0.5
+40752a15ae29428a,multiplexed data,multiplexed communication data,H04,0.5
+a406640594fbad08,multiplexed data,multiplexed communication signal,H04,0.5
+31dfac6575dadd0b,multiplexed data,multiplexed data bit,H04,0.5
+bfadece503a9acfe,multiplexed data,multiplexed data bus,H04,0.5
+34f2bc33d336ec90,multiplexed data,multiplexed data exchanges,H04,0.5
+9ae795703a13d62c,multiplexed data,multiplexed data generation,H04,0.5
+fad600d8e9e3e52b,multiplexed data,multiplexed data packet stream,H04,0.5
+95f919a5601ca45a,multiplexed data,multiplexed data stream,H04,0.5
+f198038a9aa21e8a,multiplexed data,multiplexed digital bit,H04,0.5
+cf5703c071de7bdc,multiplexed data,multiplexed digital data,H04,0.75
+9a35146b29aab60b,multiplexed data,multiplexed digital signal,H04,0.5
+94ee14814f77c8aa,multiplexed data,multiplexing unit,H04,0.5
+42ec2bdb1d3a2fec,multiplexed data,packet data,H04,0.25
+3d01bcadd49841cd,multiplexed data,signal,H04,0.25
+fce736d2409c36cb,multiplexed data,signal demultiplexer,H04,0.25
+582f1635c3ee6e6f,multiplexed data,tdm,H04,0.5
+21383604bfeaa5d3,multiplexed data,time multiplexed data,H04,0.5
+41ad0ec754a0de54,multiplexed data,transmission,H04,0.25
+1c46f73feb39d9ba,multiplexed data,transmission baseband data,H04,0.25
+7a6871d8957e9b7c,multiplexed data,transmission baseband signal,H04,0.25
+3941eb30a5e40164,multiplexed data,transmission code,H04,0.0
+05b15436841cc361,multiplexed data,transmission data,H04,0.25
+bfbfc0e2d2e4dcfe,multiplexed data,transmission digital data,H04,0.5
+06b7902340b38f41,multiplexed data,transmission digital signal,H04,0.25
+89adc47dde29fc6f,multiplexed data,transmission service multiplexer,H04,0.5
+6771b05ad6d074b4,multiplexed data,transmission signal,H04,0.25
+30ca1c4de9fb5a1a,network load information,acquire load information,H04,0.25
+d8b04ca5b5f3cb2e,network load information,associated load information,H04,0.25
+4f0c69fa022ead94,network load information,associated load os,H04,0.25
+7b7a9187d463d086,network load information,associated network information,H04,0.5
+3dd433b997b95208,network load information,associated network load information,H04,0.75
+47cd75de6a96a905,network load information,associated traffic information,H04,0.25
+dc0fd231899e197f,network load information,base,H04,0.0
+37ea374553971857,network load information,base information,H04,0.25
+a9ce99d3c662cb1d,network load information,base load,H04,0.25
+7d0f53e52833cbd4,network load information,base load information,H04,0.25
+b66404a97086075f,network load information,base on load information,H04,0.25
+6045012dcdb81890,network load information,base station,H04,0.25
+927b348bd9c84c86,network load information,base station information,H04,0.5
+c7dfbdb39c6a6d04,network load information,base station load,H04,0.5
+17d8dae72801c04a,network load information,base station load information,H04,0.5
+6c7da3ec00066f92,network load information,chemical reaction network,H04,0.0
+ee3c34aa7ed06159,network load information,congestion data,H04,0.25
+c129787fad226ad7,network load information,congestion information,H04,0.25
+91f0a56215526c27,network load information,congestion load information,H04,0.25
+9013a80dfb337d75,network load information,data packet,H04,0.25
+61a46855b4c4d100,network load information,friends network,H04,0.0
+e4d8d05e76879751,network load information,information of network load,H04,0.75
+a25c0cd16018bfb7,network load information,load,H04,0.25
+97ba8c392b65e03c,network load information,load information,H04,0.25
+43fd6992eb633c34,network load information,load network,H04,0.5
+40bd1c3e14ba9407,network load information,load of network traffic,H04,0.5
+d5eb40f244b7b46a,network load information,load status information,H04,0.25
+a0829b125332f4f1,network load information,load the vehicle,H04,0.0
+03b026059c368b80,network load information,mesh network load data,H04,0.5
+bf1a394d76945b75,network load information,mutual information,H04,0.0
+d5dbb1444faca2ac,network load information,network,H04,0.25
+67a5d16327f3d010,network load information,network congestion data,H04,0.75
+3dec94b7fb700cf5,network load information,network congestion information,H04,0.75
+5f0ef33de84182c3,network load information,network identification information,H04,0.25
+010b591433b78bd3,network load information,network information,H04,0.5
+ee737dd74dea4fc3,network load information,network least congestion information,H04,0.75
+f2703d6c2daf1b66,network load information,network load,H04,0.5
+e8d1858a655bcbf6,network load information,network load balancers,H04,0.5
+b63d869760d74250,network load information,network load balancing,H04,0.25
+f3dace6f8642012e,network load information,network load data,H04,0.75
+71776c0486a73b4a,network load information,network load os,H04,0.25
+52769af95f1d123f,network load information,network of information,H04,0.25
+0a33bab4378edc20,network load information,network of load,H04,0.25
+5c03be3063120124,network load information,network performance information,H04,0.5
+24b197b56b670c96,network load information,network routers,H04,0.25
+0013ca502bea2107,network load information,network station,H04,0.25
+5bbb439439f197e2,network load information,network station information,H04,0.5
+7d116f1e83194b64,network load information,network station load,H04,0.5
+b31d1f0f04752364,network load information,network station load information,H04,0.5
+d5af1f7e05324449,network load information,network topology information,H04,0.25
+a8cd13a4fb65589b,network load information,network traffic across servers,H04,0.5
+c12862dbdebc48c4,network load information,network traffic congestion data,H04,0.75
+e959f7f998eb5d94,network load information,network traffic congestion information,H04,0.75
+85da3f6250458daa,network load information,network traffic information,H04,0.75
+f7ce16c5c5dcf73c,network load information,network traffic load data,H04,0.75
+53260adc100f8343,network load information,network traffic load information,H04,0.75
+986410351f10cb29,network load information,network traffic os,H04,0.25
+b737b69b8af78ed3,network load information,network usage information,H04,0.5
+093317356cc02b0a,network load information,nlb,H04,0.25
+a49658486e8f7b91,network load information,number load,H04,0.0
+18b47b9f5cb7c7ca,network load information,number load information,H04,0.25
+a95a3850cbf1a57c,network load information,number of information,H04,0.0
+5cf706f609bf1636,network load information,private load balancers,H04,0.5
+76f10fee53f7bc56,network load information,receive load information,H04,0.25
+3565f02600516caa,network load information,secret information,H04,0.0
+b57b0c61ec37fc06,network load information,signaling load,H04,0.25
+d329d3eec8f6a427,network load information,statistical data,H04,0.0
+2664ec95efefcb92,network load information,statistical information,H04,0.0
+6056cb3e7ad7080c,network load information,system load information,H04,0.5
+228767bfb768358b,network load information,traffic congestion data,H04,0.25
+41a9746d09693954,network load information,traffic congestion information,H04,0.25
+502852f78d1201d0,network load information,upset load carriers,H04,0.25
+ae9f13e08e2d3ab8,network load information,upset load mode,H04,0.25
+c8876bf404f76df4,network load information,vehicle load,H04,0.0
+f8724f396b800f6f,neural stimulation,anti stimulant composition,H04,0.25
+71a5b6ad068d531f,neural stimulation,artificial neural network,H04,0.0
+466eccc3c7bac37f,neural stimulation,convolutional neural network,H04,0.0
+1c32c055a8d4c9c0,neural stimulation,de energize electronic components,H04,0.25
+625e0202be8790f5,neural stimulation,de energize the laser,H04,0.25
+8c7d208c7602ff4f,neural stimulation,deliver neural stimulation,H04,0.75
+a6c2ab570f800398,neural stimulation,electrical nerve stimulation,H04,0.75
+87664d83b5eb5961,neural stimulation,electrical stimulation,H04,0.75
+77f55e0ca2f985c2,neural stimulation,electrical therapy,H04,0.75
+d0d3e8a06e00b90a,neural stimulation,implant,H04,0.25
+cebe5aeacde29cb6,neural stimulation,implant control,H04,0.5
+e0a8e1e950106bab,neural stimulation,implantable control,H04,0.5
+9f0833059e08e87d,neural stimulation,medical,H04,0.25
+dddb4b80bf87a534,neural stimulation,medical stimulation,H04,0.5
+2034a6557e5282e0,neural stimulation,nerve stimulation,H04,1.0
+b47f34efc77c0064,neural stimulation,neural signal,H04,0.25
+85cf3a591c40b071,neural stimulation,neural stimulation device,H04,0.5
+533b2d385f9f4142,neural stimulation,neural stimulation parameters,H04,0.75
+86a6c2ead9756d9a,neural stimulation,neural stimulation signal,H04,0.5
+843784b10781b1af,neural stimulation,neural stimulation therapy,H04,0.5
+2e9a5d79196fd5a6,neural stimulation,neural stimulator,H04,0.5
+41ae9c67de2e8165,neural stimulation,neural stimuli,H04,0.75
+e9d89aba0f739cde,neural stimulation,neurological stimulation,H04,1.0
+46d1e96f5505ac52,neural stimulation,neuroscience,H04,0.0
+d60cc886efad9890,neural stimulation,quantum simulation,H04,0.0
+28501c0820eba8fb,neural stimulation,reinforced neural network,H04,0.0
+4aa804d58c6deae1,neural stimulation,simulation hypothesis,H04,0.0
+677afc6fe4e08053,neural stimulation,stimulation,H04,0.25
+7e897f9e9d27ba46,neural stimulation,stimulation signal,H04,0.25
+77413f297bfcf041,neural stimulation,stimulation sites,H04,0.25
+b30688496db8abb9,neural stimulation,tissue stimulation,H04,0.5
+893d1b4d02fdc5c1,noncollinear,axes,G02,0.0
+64165658432fd2a6,noncollinear,coincident,G02,0.75
+66cc313f927a037f,noncollinear,collinear,G02,0.25
+771f261eada1553d,noncollinear,coplanar lines,G02,0.25
+3aa9bb5c1ee4b6a7,noncollinear,coplanar points,G02,0.25
+81221b95418e6a4a,noncollinear,display,G02,0.0
+3e1d0d20b975c3e1,noncollinear,generally coincident,G02,0.75
+e7bc95e651cd9925,noncollinear,generally parallel,G02,0.25
+8123637d339a5795,noncollinear,laser,G02,0.25
+ac6df160bc2f438c,noncollinear,light,G02,0.25
+832a70be93101aed,noncollinear,lines on a notebook,G02,0.25
+1c8d327c0bc5f3ab,noncollinear,modes,G02,0.0
+87d057e2ac9ad002,noncollinear,new,G02,0.0
+34717e593dc00bfd,noncollinear,non collinear lines,G02,0.75
+2389f3cf6fd9225a,noncollinear,non coplanar,G02,0.5
+8e046a57b631718c,noncollinear,non increasing sequence,G02,0.0
+54e39fdc2f882fac,noncollinear,non negative,G02,0.0
+b03fb8104b215a23,noncollinear,non real numbers,G02,0.0
+31925e3fcf65ae7c,noncollinear,noncollinear points,G02,0.75
+4fc90867fe567a7e,noncollinear,nonlinear,G02,0.25
+c6d6e80eb50a4768,noncollinear,orthogonal principal axes,G02,0.5
+511e52dec221bb39,noncollinear,parallel,G02,0.25
+a363b85ce30ba623,noncollinear,perpendicular modes,G02,0.5
+1a8262fe8ad008df,noncollinear,perpendicular polarization directions,G02,0.5
+211cf1ff6362f199,noncollinear,poynting vectors,G02,0.5
+5b8a4e711b6a3bbc,noncollinear,radially non collinear,G02,0.75
+ae369ce80a6279e3,noncollinear,substantially coincident,G02,0.5
+91a2d782bf8f9162,noncollinear,substantially parallel,G02,0.25
+1ee01ddcc190ca19,offset table,bias current table,H04,0.25
+aa596a13f4ab1309,offset table,billiard table,H04,0.0
+1e599f7013f4ba9b,offset table,color conversion table,H04,0.25
+a900d8e1f62aea49,offset table,correction memory,H04,0.25
+58648430117abae7,offset table,correction storage section,H04,0.5
+d61bad70f40fc5bd,offset table,correction storage unit,H04,0.25
+a3fe047fa6834724,offset table,correction storing section,H04,0.25
+c03a4de4cb01c6ff,offset table,correction storing unit,H04,0.25
+f520cfe259298344,offset table,correction table,H04,0.5
+b9127693340cbf0b,offset table,current offset matrix,H04,0.5
+cfcbed35054f21b7,offset table,database,H04,0.25
+cae783d73569c2c4,offset table,exemplary offset,H04,0.0
+aa1a0b7bce2d1fea,offset table,exemplary offset table,H04,0.75
+cbaf72cb02da14ab,offset table,exemplary table,H04,0.25
+d12683f553556a4d,offset table,gain image,H04,0.0
+5149f14eea34246a,offset table,gain matrix,H04,0.5
+0919b6d2501b9571,offset table,gain table,H04,0.5
+69a2234fbf22d95e,offset table,game table,H04,0.0
+82e93b2786726da0,offset table,lut,H04,0.5
+3c92b497cfbe6922,offset table,offset,H04,0.5
+57112205f1b2a4cc,offset table,offset cancellation voltage,H04,0.25
+174e1bf7b68d3566,offset table,offset correction table,H04,0.75
+8f330ed42101dba3,offset table,offset image,H04,0.0
+9cb8961d472be828,offset table,offset map,H04,0.75
+e3ec03e784b8f671,offset table,offset matrix,H04,0.5
+5a10efdafd9ff85b,offset table,offset memory,H04,0.5
+0a88d55d013533c3,offset table,offset storage section,H04,0.75
+73e37e26d80f01dc,offset table,offset storage unit,H04,0.5
+e8f7ad87c40e2f6e,offset table,offset storing section,H04,0.5
+9761d29cbc6eea5f,offset table,offset storing unit,H04,0.5
+e6d56d9ab7c3f8f5,offset table,offset table address,H04,0.5
+8bb6de8cbc17c465,offset table,offset value,H04,0.5
+e4c39b50028522ee,offset table,offsets matrix,H04,0.5
+67a2ed66fe0ef894,offset table,offsets table,H04,1.0
+31c646ddf4bbda34,offset table,palette table,H04,0.25
+a19c671837d6bff3,offset table,periodic table,H04,0.0
+d8d907ef719a9627,offset table,program specific information tables,H04,0.25
+cbd002cf6ca28aba,offset table,table fan,H04,0.0
+1e54071b30ddc298,offset table,table glass,H04,0.0
+524305d74e4fed0d,offset table,table of offsets,H04,1.0
+a10e44dfed53ce4c,offset table,table value,H04,0.25
+21a226e5a5858b73,offset table,tea table,H04,0.0
+e728b52d5beb5341,offset table,time offset table,H04,0.5
+c6f4c2c171fa3dbe,offset table,voltage offset table,H04,0.5
+03ad4e11885c94f8,opc drum,body,G02,0.0
+4942e1487176aa51,opc drum,carbon based photoconductor drum,G02,0.75
+ab8c0d1ea902ea0e,opc drum,color image creator,G02,0.5
+7441c8d8aeafb1e8,opc drum,copier device part,G02,0.5
+786f753ba5e9b755,opc drum,copier opc drum,G02,0.75
+518134e7fde9c87a,opc drum,drum,G02,0.5
+9f71e7d781c5ba5a,opc drum,drum brake,G02,0.0
+7a0feefdb6ba311f,opc drum,drum kit,G02,0.0
+e6de7e2e3092e753,opc drum,drum set,G02,0.0
+06468f55004c8ee3,opc drum,electrolytic bath,G02,0.5
+78e2d693487cdec6,opc drum,electrostatic bearing body,G02,0.5
+b4dfc2c29f5d4a2c,opc drum,electrostatic bearing drum,G02,0.5
+e592be021670b0c8,opc drum,electrostatic photosensitive body,G02,0.5
+8c5fc6f98a3bf1e0,opc drum,electrostatic photosensitive drum,G02,0.5
+7e613b4155bed89e,opc drum,exposed,G02,0.25
+7737e4c63603240e,opc drum,exposed media,G02,0.25
+0a246a50d980af6b,opc drum,first washing drum,G02,0.25
+e88f4eac87a53b0a,opc drum,image,G02,0.25
+bba29dcc32e01e53,opc drum,image bearing body,G02,0.5
+a7c0b86937d713a0,opc drum,image bearing drum,G02,0.5
+0fee2e87cd3761bc,opc drum,image maker,G02,0.5
+8c15e8c66148f7eb,opc drum,image media,G02,0.5
+01cc98fc2360d214,opc drum,image photosensitive body,G02,0.5
+2f0de1992de5c7ca,opc drum,image photosensitive drum,G02,0.5
+872af1b774cb1283,opc drum,imager,G02,0.5
+4112d61851461f60,opc drum,inorganic photoconductor drum,G02,0.25
+3f732b027e4918f5,opc drum,integrated tub,G02,0.25
+34cd6644c58eb2c2,opc drum,laundry machine,G02,0.25
+fb60c5bd90e21bbc,opc drum,material drum,G02,0.5
+3a226613347c28b4,opc drum,media viewer,G02,0.0
+054b98f0a3a48d22,opc drum,opc server,G02,0.0
+93ae8b5a261eae57,opc drum,organic photoconductor drum,G02,0.75
+c0eb51ca205e8261,opc drum,photoconductive drum,G02,0.5
+85980cfff648821b,opc drum,photoconductive medium,G02,0.5
+725bccbd7a470ca3,opc drum,photoconductive member,G02,0.5
+b7f53776b72c4435,opc drum,photoconductive photosensitive drum,G02,0.5
+23564dc3cd38efee,opc drum,photoconductive photosensitive member,G02,0.5
+a37d992712c584de,opc drum,photoconductive roller,G02,0.5
+8780f309bfe9ead9,opc drum,photoconductor,G02,0.5
+cbde48d907451a4b,opc drum,photoreceptor,G02,0.25
+8aa9f0a6cdce25f5,opc drum,photosensitive drum,G02,0.75
+14f6c27303b7c07d,opc drum,photosensitive medium,G02,0.5
+09f3c94d3def1c3b,opc drum,photosensitive member,G02,0.5
+a8ddeb946cba6e93,opc drum,photosensitive photoconductive drum,G02,0.5
+f14e831cff3ea15c,opc drum,photosensitive photoconductive member,G02,0.5
+67fd52f107af2764,opc drum,photosensitive roller,G02,0.5
+c419875bbfa7bbfa,opc drum,printer,G02,0.25
+063aeb325334aa36,opc drum,toner cartridges,G02,0.25
+1840a7c0d0a380d1,operating channel,access being configured,H04,0.5
+ca1b86d264f1289b,operating channel,access being operable,H04,0.5
+2dff960b31549c85,operating channel,access configured,H04,0.5
+3beed1e0587658a5,operating channel,access operable,H04,0.5
+e25fea05f2931e49,operating channel,active frequency,H04,0.5
+855890bb36da45f0,operating channel,active rat,H04,0.5
+302c8fafeb7840bc,operating channel,ap being configured,H04,0.5
+59c0fec6842cc184,operating channel,ap being operable,H04,0.5
+d7817176684283fd,operating channel,ap configured,H04,0.5
+85724b2ec097902c,operating channel,ap operable,H04,0.5
+116926e237e2a346,operating channel,band,H04,0.5
+a021a6b27347954c,operating channel,carrier,H04,0.25
+bd306c37e9ba4029,operating channel,channel,H04,0.5
+8fbbc37324d49ed7,operating channel,channel of operation,H04,1.0
+9b386a96c57be0b6,operating channel,communication channel,H04,0.25
+35a72fb8b1129d60,operating channel,communication channels,H04,0.5
+3f9488f042c17705,operating channel,current channel list,H04,0.25
+54625917a4c069e4,operating channel,dedicated carrier,H04,0.5
+8623008b9c6e6f1b,operating channel,dedicated channel,H04,0.5
+51fd9617f36d1ff4,operating channel,dedicated discovery,H04,0.25
+015c5c03ea10c562,operating channel,dedicated discovery channel,H04,0.5
+8f5155fca53c3a4f,operating channel,existing channel,H04,0.5
+16e10f6e7cad22cc,operating channel,frequency,H04,0.5
+73391e711f1edecb,operating channel,general channel,H04,0.5
+d4dd9f32ad82d4dc,operating channel,inactive channel selecting resource,H04,0.25
+cd2f0dafe62bc50a,operating channel,new bandwidth,H04,0.5
+676267e95902a4f3,operating channel,news channel,H04,0.0
+fec45aa852e18e50,operating channel,non operating channel,H04,0.25
+be986455532b80d2,operating channel,operating channels,H04,1.0
+1f72c6529bcd8cc0,operating channel,operating discovery,H04,0.0
+47cd3ec2151b3372,operating channel,operating discovery channel,H04,0.75
+c7d6bed780867a68,operating channel,operating expenses,H04,0.0
+42684352b3c2255f,operating channel,operating system,H04,0.0
+90d74b25186454c1,operating channel,operation channel,H04,1.0
+2369d2e51ffca72c,operating channel,operation channels,H04,1.0
+8cb05d2f40fc6d2f,operating channel,operational status,H04,0.25
+7884857d8953aa92,operating channel,rat,H04,0.5
+2eb2cc1cf3e8d01e,operating channel,serving carrier,H04,0.5
+5e077e7f73770be3,operating channel,serving channel,H04,0.5
+1eee1f678fe50cca,operating channel,trans receiving operating channel,H04,0.75
+a2cee2ffe6d28963,operating channel,tv channel,H04,0.0
+c25790c3506cebd7,operating channel,water channel,H04,0.0
+68d9215d96dee55b,operating channel,wlan channel,H04,0.5
+cf056935791e85c8,operating channel,working channel,H04,0.75
+bb5dfaee44bf0a1c,operator identification information,addition operator,H04,0.0
+1f78f4f5e53f67ee,operator identification information,availability information,H04,0.0
+6861f8a29dfbbdbc,operator identification information,customer card number,H04,0.25
+3628a8dd4a28c385,operator identification information,division operator,H04,0.0
+0e2846f791962310,operator identification information,entering user identification,H04,0.25
+191e7b1f18b6be98,operator identification information,identification document,H04,0.25
+b947c96609706e65,operator identification information,identifying the operator of the terminal,H04,0.5
+96cfb9e1753459a9,operator identification information,include operator identification,H04,0.5
+2213fe59b53bcca5,operator identification information,information,H04,0.25
+71905192b01d589b,operator identification information,information identification,H04,0.0
+05045dcbc699169d,operator identification information,land information,H04,0.0
+e4461af1fe9f26c4,operator identification information,mobile operator identification information,H04,0.5
+4abbc26073d8ab1e,operator identification information,multiplication operator,H04,0.0
+6d73d13bdd80c927,operator identification information,object identification device,H04,0.25
+f33027206fc5a2c0,operator identification information,operation id,H04,0.25
+16e01f9ed5b3b9a0,operator identification information,operation information,H04,0.5
+c670d715ccd059aa,operator identification information,operator,H04,0.25
+59e0492f52c37252,operator identification information,operator configuration information,H04,0.5
+3085142b41b04a32,operator identification information,operator id,H04,0.75
+166865f221e5dd31,operator identification information,operator id card,H04,0.5
+8e5532eaa3effac8,operator identification information,operator identification,H04,0.5
+c40fc45f42d8a115,operator identification information,operator identification data,H04,0.75
+361b56511d70abb1,operator identification information,operator identifier input,H04,0.5
+56e17540d7b32b71,operator identification information,operator information,H04,0.5
+4db3fdba96f8dc4b,operator identification information,operator of the image reading apparatus,H04,0.5
+aa6c8b884d08ad3a,operator identification information,operator session configuration information,H04,0.5
+838d9b4b767c7481,operator identification information,operator session information,H04,0.5
+efeaddc94434a512,operator identification information,operator terminal configuration information,H04,0.5
+a004a3f71906b767,operator identification information,operator terminal session information,H04,0.5
+4128fbaa3bd79edc,operator identification information,person identification code,H04,0.5
+063e67d59876e127,operator identification information,risk identification,H04,0.0
+b7503bef5bf9290a,operator identification information,session configuration information,H04,0.25
+88a352e479b7e3d8,operator identification information,session data,H04,0.0
+0b9b61e666c963ec,operator identification information,session information,H04,0.25
+34a80a4527a1e24a,operator identification information,session terminal configuration information,H04,0.0
+10b9918113b88be2,operator identification information,ternary operator,H04,0.0
+a028775c8a6a7735,operator identification information,user identifying data,H04,0.75
+f9c16fc4addc48cb,operator identification information,user identity code,H04,0.25
+256ab9562a7ecf75,operator identification information,user information,H04,0.25
+8c2667fb5148fe0a,operator identification information,video identification network,H04,0.25
+9a626aba47d67b01,optical glasses,colored glasses,G02,0.0
+9ebcacc7bea845ae,optical glasses,commercial materials,G02,0.5
+be81526b04fe451c,optical glasses,commercial plastics,G02,0.5
+7020d6ec9a1192d8,optical glasses,eye protector,G02,0.25
+21ee8bad74554675,optical glasses,glasses,G02,0.5
+dbbf914e02fb3ab4,optical glasses,house of glasses,G02,0.0
+77d7c99f4f99dd61,optical glasses,lens materials,G02,0.5
+245799ec4ba1fd0f,optical glasses,materials,G02,0.25
+ac8191967e195e19,optical glasses,medical equipment,G02,0.25
+0cebcab2f02cb219,optical glasses,metals,G02,0.25
+9e99c319cb010abd,optical glasses,non optical glass,G02,0.25
+a7cffe893886738e,optical glasses,opaque shielding,G02,0.25
+ac52ebb498567aea,optical glasses,optical fibre bundling,G02,0.5
+125500f6d6e40e90,optical glasses,optical lenses,G02,0.75
+bb126aa8bd5b45c0,optical glasses,optical materials,G02,0.5
+6671e06c6c0f4d07,optical glasses,optical mirrors,G02,0.75
+595bea1273288225,optical glasses,optical mouse,G02,0.0
+416fdbaf5a597b40,optical glasses,optical plastics,G02,0.5
+7e80e2077eab3571,optical glasses,optical sensor,G02,0.0
+3ed0b0afc66e0dda,optical glasses,optical shop,G02,0.0
+c932a324d5d96a33,optical glasses,organic resins,G02,0.5
+6d89d20101e5e518,optical glasses,polymeric compounds,G02,0.5
+b9e0981913363f3b,optical glasses,polymers,G02,0.5
+e2cae89b542e8b36,optical glasses,refractive thin glasses,G02,0.5
+39d81bc2c63658f2,optical glasses,substrate materials,G02,0.5
+7395e1b57dcb07a4,optical glasses,substrates,G02,0.25
+155b6bd320f3249d,optical glasses,suitable materials,G02,0.25
+b5900c19814c172b,optical glasses,suitable substrates,G02,0.5
+10aee927535fa9be,optical glasses,temperatures,G02,0.0
+531f089ae41b2799,optical glasses,transparent electrode,G02,0.25
+f447cc60dbf48e0b,optical glasses,transparent glasses,G02,0.5
+ea8911392ba8aac6,optical glasses,transparent reading of the encoded value,G02,0.25
+427b84a7ca1e7cf5,optical glasses,water glasses,G02,0.0
+160175d54de8af27,optical glasses,wavelengths,G02,0.5
+696af932bbe69121,page file,confidential file,H04,0.0
+5b7e88a510fcd914,page file,document file,H04,0.5
+72873ac0e47cc688,page file,document image,H04,0.25
+4b571a96ece09956,page file,file,H04,0.5
+61b2b2268a820796,page file,file table,H04,0.0
+f687a583c88317b7,page file,first page,H04,0.0
+3211892a84fc2df8,page file,hidden system file,H04,0.75
+6357cd27364ec408,page file,master file,H04,0.0
+1413241e2e81756f,page file,memory paging,H04,0.5
+207bbc3802a5f591,page file,page,H04,0.5
+01e95c7ff4038ebe,page file,page data,H04,0.5
+b30d58e6f42acb19,page file,page description file,H04,0.5
+e3c949709a28b1fc,page file,page document file,H04,0.75
+b35c7bba255e86eb,page file,page document image,H04,0.25
+2b4258f2227bff6f,page file,page element,H04,0.0
+1c6758f2f30fa897,page file,page file suitable,H04,0.75
+a2a635e2d984d23a,page file,page id,H04,0.25
+e05d922a36be2f64,page file,page image,H04,0.25
+2f821236e81ec421,page file,page monitoring,H04,0.25
+baa3bcf84e01c622,page file,page number,H04,0.0
+34b53819ab54954d,page file,page suitable,H04,0.25
+5d23e97a3a4dfe5e,page file,paging correction,H04,0.25
+23e07ad5ab2821b4,page file,paging file,H04,1.0
+571e1bdae5928506,page file,paging file size,H04,0.5
+03eedffe02b1365f,page file,paging frequency,H04,0.25
+95f1a2ed0f38a618,page file,paging message,H04,0.25
+8bb469dc9e2c4317,page file,ram,H04,0.25
+d43236c352ef7b53,page file,sds page,H04,0.25
+9759c0038c827e97,page file,server,H04,0.25
+5132891c2a8ecb1b,page file,swap file,H04,0.5
+9502a9800d4a2430,page file,virtual memory,H04,0.25
+f387096da1c436a0,page file,web page file,H04,0.5
+f0f17005f3fd7414,page file,yellowed pages,H04,0.0
+115592bb0446799b,panel frame,solar panel frame,H04,0.5
+57f4f57cd9df25c9,pen based computer,camera based computer,H04,0.25
+96191a03b05c779b,pen based computer,camera computer,H04,0.25
+cd2765bef9bd9b92,pen based computer,camera pen based computer,H04,0.5
+2aee45378556fdf8,pen based computer,camera pen computer,H04,0.5
+cf06e6647b8637ae,pen based computer,computer,H04,0.5
+c48c466a287045b9,pen based computer,computer device,H04,0.5
+f4e9715b1d8a5ab6,pen based computer,computer graphics,H04,0.0
+7370cb29f2e9ba99,pen based computer,computer module,H04,0.25
+9cd26d9da4e108fc,pen based computer,computer software,H04,0.0
+cd57281d52190e27,pen based computer,computer tablet with stylus,H04,0.5
+9cdab03eb9305ff7,pen based computer,computer user interface,H04,0.5
+b7fdb36863848ddf,pen based computer,computer user interface using a pen,H04,0.75
+f86671c71e4874bf,pen based computer,fountain pen,H04,0.25
+9c4dcb4118592146,pen based computer,hen pen,H04,0.0
+08fcdd62abd4b9b5,pen based computer,infrared mouse,H04,0.25
+d881765d19d80f37,pen based computer,ink pen,H04,0.0
+99b95a935d61a84b,pen based computer,joystick device,H04,0.25
+be416e6c6e3f61c2,pen based computer,mobile,H04,0.25
+a5cd733db78a39e6,pen based computer,mobile receiver module,H04,0.25
+6074126e96909ca8,pen based computer,notebook,H04,0.0
+bc5312a2386ec488,pen based computer,notebook computer,H04,0.5
+bb5485a9cf76e4e7,pen based computer,notebook phone,H04,0.5
+ed70940e1fe5d46d,pen based computer,palm computer,H04,0.75
+ecb17f7a1acfc841,pen based computer,palm phone,H04,0.75
+8ca0d474a5d69120,pen based computer,pattern recognition software,H04,0.5
+2c7278669984d45b,pen based computer,pen based computer system,H04,0.75
+fd17b37bdf615743,pen based computer,pen based device,H04,0.75
+7d6594f7801742c9,pen based computer,pen based pc,H04,0.75
+b3bd673542e0c730,pen based computer,pen based tablet computer,H04,0.75
+f60ad3d57851e8cf,pen based computer,pen computer,H04,0.75
+b21c50b6b98e4657,pen based computer,pen computer device,H04,0.75
+ea46551d39ba322f,pen based computer,pen computing,H04,0.5
+a2abeaa9698535be,pen based computer,pen device,H04,0.25
+da2ee03258bfae3f,pen based computer,pen drive,H04,0.0
+b36122ac9ae2c5f3,pen based computer,pen stand,H04,0.0
+b64e41265cc835c9,pen based computer,pen tablet,H04,0.5
+d39c5c047d48b9fa,pen based computer,personal computer,H04,0.5
+36495441d9162bcc,pen based computer,remote device,H04,0.25
+530d61e7757db06e,pen based computer,remote display module,H04,0.25
+9a31216e7ac24514,pen based computer,remote module,H04,0.0
+7bc7c26dce2fe95e,pen based computer,remote receiver device,H04,0.25
+9a1ff4e47de03a11,pen based computer,remote receiver module,H04,0.25
+f29572486651b569,pen based computer,stylus computer,H04,0.5
+aee3d0cc1a20d491,pen based computer,stylus writing,H04,0.25
+9b7de2b82c47d8b9,pen based computer,tablet,H04,0.25
+56ed2e7ee39cb1a7,pen based computer,touchpad,H04,0.25
+7b7708b67f08da88,physical transport medium,air transport,H04,0.0
+6396554ea90a3a26,physical transport medium,coax cable,H04,0.5
+e1cd00edde332d1b,physical transport medium,collection media,H04,0.25
+8d46a049580037f4,physical transport medium,data communication,H04,0.5
+d555ddc02c052733,physical transport medium,media player,H04,0.0
+390398130a3efbdc,physical transport medium,mediumless homogenizer,H04,0.25
+970e27204bb74b22,physical transport medium,physical carrier media,H04,0.5
+640a28a75044b268,physical transport medium,physical communication,H04,0.5
+f9f7878ffa74b8b8,physical transport medium,physical medium,H04,0.5
+2fb510817478791b,physical transport medium,physical receiving media,H04,0.75
+58badcd95035b744,physical transport medium,physical science,H04,0.0
+622cf9470df619a4,physical transport medium,physical storage medium,H04,0.5
+ede4e092e5a338d7,physical transport medium,physical transmission medium,H04,0.75
+e7af14008785c90f,physical transport medium,physical transport,H04,0.25
+b46b2cd2fdf3b356,physical transport medium,road transport,H04,0.0
+18808e32af97b805,physical transport medium,sea transport,H04,0.0
+a728c8b6e9870a50,physical transport medium,serial transport,H04,0.25
+7024dff49b707a71,physical transport medium,signal propagation,H04,0.5
+6c8d2a61f131d87d,physical transport medium,signalling medium,H04,0.5
+1cfa0e412478bac0,physical transport medium,transmission medium,H04,0.5
+9c48af5f0500a873,physical transport medium,transport allowance,H04,0.0
+0cf77f5e9f6a39a3,physical transport medium,virtual medium,H04,0.25
+38fdd938789bcc67,physical transport medium,virtual medium gateway,H04,0.25
+60b1b47b943ae9f3,physical transport medium,virtual transportation,H04,0.25
+2b85a85a205e4397,place to set,crowded place,H04,0.0
+612d2dee12a768f0,place to set,drum set,H04,0.0
+a4800ddfc238f566,place to set,group communication,H04,0.25
+44a6eb12c4eea2cc,place to set,location to set,H04,0.75
+96d96b199f63c3dd,place to set,locationless node,H04,0.25
+34153fec3b629c23,place to set,lonely place,H04,0.0
+f69f2242735800ba,place to set,map display,H04,0.25
+92131eaff28e8977,place to set,map grids,H04,0.25
+01291b22e5001f27,place to set,market place,H04,0.0
+a9a03135d1a2af6b,place to set,place for setting power,H04,0.5
+30117f4a39f86caa,place to set,place of interest,H04,0.0
+d98e3f013531e545,place to set,place set,H04,0.75
+ea4d18003dfde349,place to set,place to set out,H04,0.5
+e5b4710021604f62,place to set,place to set up,H04,0.5
+9736a629bca8f184,place to set,point of operation,H04,0.5
+aba645e5cce294ba,place to set,set alarm,H04,0.0
+789a853504e26c5a,place to set,set in place,H04,1.0
+1f8a2b8b4c16ca01,place to set,set of instructional signals,H04,0.25
+0b1cfa3ce854a1b5,place to set,set place,H04,0.75
+3196817774cbc661,place to set,setting in place,H04,0.75
+bbbe883f27cb1195,place to set,setting place,H04,0.75
+549ddb60163c9bf9,place to set,voltage setting location,H04,0.5
+5dc8078c769d2bee,place to set,wireless communication,H04,0.25
+8750c837421040a3,polls,conduct polls,H04,0.5
+8aa9eefcdac52e74,polls,station polls,H04,0.5
+a0970a098bb54d72,portable radio communication,cable communication,H04,0.25
+8e92df28a3eaf383,portable radio communication,communication equipment,H04,0.25
+0bb5200ceda67498,portable radio communication,communication protocol,H04,0.25
+6777c9e13229aa75,portable radio communication,ethernet cable,H04,0.25
+d45ed65eaf5e9ba7,portable radio communication,foldable display,H04,0.0
+18d341908e4be360,portable radio communication,foldable processing,H04,0.0
+7821c9a241d61ce8,portable radio communication,liquid crystal display,H04,0.0
+10fbcb0f479e7cab,portable radio communication,liquid crystal processing,H04,0.0
+77575f284c67c443,portable radio communication,liquid image display,H04,0.0
+f677e0bcafee78eb,portable radio communication,long range radio communication,H04,0.5
+1d9576cc5e81c34c,portable radio communication,mobile communication,H04,0.75
+ca4ecac6250fb961,portable radio communication,mobile display,H04,0.0
+f9320a5722f6e5b0,portable radio communication,mobile processing,H04,0.0
+df6f4bc565e7f6d8,portable radio communication,mobile telephone,H04,0.5
+da9d3b1c7bfda5af,portable radio communication,portable communication,H04,0.5
+79e129d64823c4e8,portable radio communication,portable communication devices,H04,0.5
+8d437b50129978ac,portable radio communication,portable crystal display,H04,0.0
+945ba68d0d7fb9b5,portable radio communication,portable display,H04,0.0
+552a8f79701c9c40,portable radio communication,portable electronic communication,H04,0.75
+9415f448834e3573,portable radio communication,portable image display,H04,0.0
+0a87b607383df7a8,portable radio communication,portable kettle,H04,0.0
+629e53b3158cdf6d,portable radio communication,portable light,H04,0.0
+da6b09f7127ff3e8,portable radio communication,portable machine,H04,0.0
+d9ee7a8f54fd09be,portable radio communication,portable processing,H04,0.0
+2ed91153d32832d8,portable radio communication,portable rf communication,H04,0.75
+1bdae48b7a251a70,portable radio communication,portable shaver,H04,0.0
+48a4720108d674c8,portable radio communication,portable telephone,H04,0.5
+9f836877a5a30a3e,portable radio communication,portable turntable,H04,0.0
+e7aa150e2b536abf,portable radio communication,portable user radio device,H04,0.75
+cce34caae1a02de5,portable radio communication,portable wave communication,H04,0.75
+46761957da0dc310,portable radio communication,portable wireless communication device,H04,0.5
+516410b86fb6ff5f,portable radio communication,radio communication link,H04,0.5
+74edceb0a1256549,portable radio communication,radio frequency communication,H04,0.5
+67b8a9833cb9ff7f,portable radio communication,radio garden,H04,0.0
+06f0dff8df61a296,portable radio communication,radio signal,H04,0.25
+69de9bf42d098ef2,portable radio communication,receive from portable communication device,H04,0.5
+e029e2c018d2c9d0,portable radio communication,wired telephone set,H04,0.25
+55211883cac0e95a,portable radio communication,wireless communication,H04,0.5
+2ee7c4ec8c9bf78c,portable radio communication,wireless communication device,H04,0.75
+addd634f6b7700c2,previously captured image,automatic picture,H04,0.25
+ac990a7f92b08971,previously captured image,capture archival image,H04,0.5
+53e9462932ec71ac,previously captured image,capture card,H04,0.0
+ce6f14e52a6f3c20,previously captured image,captured digital image,H04,0.5
+e6656cbddc764fb0,previously captured image,captured image,H04,0.5
+5d5a009e1a648f7a,previously captured image,captured person,H04,0.25
+49c1eee835852d80,previously captured image,captured tiger,H04,0.0
+058d34be51f48bca,previously captured image,color image,H04,0.25
+cc8bb2c9a3fc92c7,previously captured image,data capture,H04,0.0
+992cbb08667b86f8,previously captured image,digital photographing apparatus,H04,0.25
+5a71c3200562f33c,previously captured image,digital photographing camera,H04,0.25
+cf94a42f7425a0df,previously captured image,feedback image,H04,0.25
+35271783297f3c33,previously captured image,formerly captured image,H04,0.75
+1c861db0ef8d4d0e,previously captured image,image captured previously,H04,1.0
+ccc74c0c5b1cc0cb,previously captured image,mirror image,H04,0.0
+9e556f860845c67b,previously captured image,older images,H04,0.5
+b092def69fe3dd55,previously captured image,photographed camera,H04,0.0
+5da5e9ad410efcc3,previously captured image,photographed image,H04,0.5
+571d233a85903ec9,previously captured image,photographing camera,H04,0.25
+8bafabf304f4fdcb,previously captured image,photographing image,H04,0.5
+5aacd9496d963cd8,previously captured image,plurality of apparatus,H04,0.0
+468ff9dc36f7b9ca,previously captured image,plurality of camera,H04,0.25
+6635657c44671de1,previously captured image,preceding image,H04,0.5
+a613d6ae0ae6bc7b,previously captured image,previous captured picture,H04,0.75
+03a672536044d3fd,previously captured image,previous image,H04,0.75
+b90f0e8ffc2177de,previously captured image,previous picture,H04,0.75
+529ffb0fcec844c6,previously captured image,previous remotely captured image,H04,0.5
+4fd60ed2b3c6f2a3,previously captured image,previous year,H04,0.0
+c26b7f2b0f920f79,previously captured image,previously boiled water,H04,0.0
+a411b1fb4522c583,previously captured image,previously captured,H04,0.0
+707f07d82eb51bc5,previously captured image,previously captured by image device,H04,0.75
+18dfa0923db63386,previously captured image,previously stored image,H04,0.75
+758994600dbfc60b,previously captured image,send captured image,H04,0.25
+8b8d8c6497e69970,previously captured image,static image,H04,0.25
+e84c69c072200703,previously captured image,subject,H04,0.0
+d5fb3fcb286891c0,previously captured image,title image,H04,0.25
+6ad48744f9ada775,previously captured image,transmit captured image,H04,0.25
+53a5422f50d4078c,previously captured image,two dimensional image,H04,0.25
+81440b01898d4964,previously captured image,user,H04,0.0
+e9c186b9ddf4d10a,previously captured image,video file,H04,0.25
+4176f8e19375d9c0,proper order,appropriate arrangement,H04,0.75
+1a649ff5f7e04644,proper order,appropriate order,H04,0.75
+879b0eaa59d999ef,proper order,aptly positioned,H04,0.5
+9907a8b9d868440e,proper order,buffer,H04,0.25
+7883eaf6b8d34f07,proper order,correct order,H04,0.75
+c6e001037b560747,proper order,court order,H04,0.0
+ddc10c42f15f3c45,proper order,disarranged data,H04,0.25
+fbabf36efcce76be,proper order,disarranged fibers,H04,0.25
+a5b613f6062a70d1,proper order,disarranged winding,H04,0.25
+3c8b7393934c2888,proper order,good condition,H04,0.0
+78554e0b2d8ec2c4,proper order,good mode,H04,0.0
+22ba56752e6753d1,proper order,improper order,H04,0.25
+b9ca06cb4c00f2d6,proper order,memory,H04,0.0
+012b01c8b41187a2,proper order,order,H04,0.5
+012471c4fe337c46,proper order,order please,H04,0.0
+42ee81d9bca5f470,proper order,original sequence order,H04,0.5
+0ce0e9ce6520973a,proper order,proper conduct,H04,0.0
+28f43732996e8230,proper order,proper sequence,H04,0.75
+ce0c9dc70336be48,proper order,proper subset,H04,0.0
+6e33c210dd31b168,proper order,proper working order,H04,0.75
+7bea60fc2aead91a,proper order,queue,H04,0.75
+9a77f02f5abb890e,proper order,re order,H04,0.25
+0b5a362dbdcebc37,proper order,re sequence,H04,0.5
+b8efa7e812635176,proper order,right order,H04,0.75
+b334cf1eae325d9b,proper order,sequence,H04,0.75
+6bff174dec4cf419,proper order,sequence order,H04,0.5
+58cb2130f67fb2de,proper order,time ordering,H04,0.0
+99e6b13834c6b1e7,proper order,timestamp order,H04,0.0
+91118fa67a162e6b,proper order,trouble,H04,0.25
+65716eb030d0771d,proper order,unchanged order,H04,0.25
+868275b14fe65ab7,proper order,wrong order,H04,0.25
+5e9b171b5eb8d6e8,protocol component,assessment data editor,H04,0.5
+5a6f6a1ebe967d56,protocol component,assessment year,H04,0.0
+7f7d07c139bc1cba,protocol component,automatically defend networks,H04,0.25
+0e24e9936cb2b072,protocol component,component,H04,0.25
+16a4189b43d0263a,protocol component,component testing,H04,0.0
+b557d818a4d254cf,protocol component,components of protocol,H04,1.0
+195547d444f2c3bf,protocol component,different component,H04,0.25
+893ff3c24cd88973,protocol component,different components,H04,0.25
+332c61c4d353ceff,protocol component,emergency protocol,H04,0.0
+c9115036c9b56b3e,protocol component,food components,H04,0.0
+b696b15562e50fbc,protocol component,friday protocol,H04,0.0
+02d566e8d8e4678b,protocol component,gateway host,H04,0.25
+d96399dd3b9e49a1,protocol component,header,H04,0.5
+5fd7e23f3f77f43f,protocol component,interface,H04,0.5
+d4eccb8c12de7685,protocol component,interface component,H04,0.75
+11458e03959f0eb9,protocol component,marginal gateway protocol,H04,0.5
+45b19354c536a77f,protocol component,messaging product,H04,0.25
+333b216b600f6bee,protocol component,network,H04,0.25
+99b2547246e91534,protocol component,network interface,H04,0.75
+cc03e8e497094543,protocol component,network node,H04,0.5
+01ecf38ad58e5a0e,protocol component,network protocol,H04,0.5
+e53b561fd6bd2f59,protocol component,network station,H04,0.5
+3537875e779d1465,protocol component,network without rules,H04,0.25
+225e12148299c041,protocol component,no rules for the receivers,H04,0.25
+ae8b6be89f80ab3c,protocol component,protocol,H04,0.5
+a4fda3babc6c3558,protocol component,protocol component based,H04,0.75
+b07240735ffbaaf9,protocol component,protocol components,H04,1.0
+527c0abda8c1a59d,protocol component,protocol deviation,H04,0.0
+8ee3a5437bfa5d53,protocol component,protocol handler,H04,0.5
+88f44e69fabf973e,protocol component,protocol module,H04,0.75
+927a3dc01c9d1436,protocol component,routing protocol component,H04,0.75
+f4872ecc87c9c4d9,protocol component,timing,H04,0.25
+bbfab97ddc92ad3b,protocol component,wireless interface,H04,0.25
+0081745a9083c9ef,provide by terminals,airport terminal,H04,0.0
+110f6fff64ed8753,provide by terminals,arm without connector,H04,0.25
+4ccf6d212234505d,provide by terminals,beam without connector,H04,0.25
+2463aea2d8c18b9c,provide by terminals,cabinet framed without connector,H04,0.25
+e01ee508f0a4a477,provide by terminals,data providing terminal,H04,0.5
+73941c11199661e6,provide by terminals,device terminal,H04,0.25
+5abcbc88ec48d075,provide by terminals,electric terminal,H04,0.25
+2eea706eb121d91f,provide by terminals,mobile phone,H04,0.5
+d1e5e6bd0844a6be,provide by terminals,provide by return,H04,0.0
+f80c8f9685c13dc6,provide by terminals,provide by user terminals,H04,0.5
+3b87e6529f944405,provide by terminals,provide food,H04,0.0
+cda260299bb4ae89,provide by terminals,provide shelter,H04,0.0
+6a6d0d2ec5b94968,provide by terminals,provide to input terminals,H04,0.5
+0224929f196702f5,provide by terminals,provide using terminal,H04,0.75
+09af27646ec2ee2f,provide by terminals,provide via terminals,H04,0.75
+3480df3ad129cf8b,provide by terminals,provide with terminals,H04,0.75
+fc23ac37c085ef06,provide by terminals,provided by device,H04,0.5
+0a1e1b1c50f7c0e3,provide by terminals,provided to terminal,H04,0.75
+9aa08dec7715dbad,provide by terminals,provides a delivery terminal,H04,0.5
+dfd61ddb1af99ba5,provide by terminals,provision by terminals,H04,0.75
+6511f3e991575707,provide by terminals,reference voltage,H04,0.5
+2614012072e99ef8,provide by terminals,refuse by terminals,H04,0.25
+d76f3fa2d17bdefa,provide by terminals,terminal velocity,H04,0.0
+09b9f5482693933d,provide by terminals,window terminal,H04,0.0
+2e1ef75b851d4e87,provider networks,broadband access network,H04,0.5
+1a7fd1a6e67faa32,provider networks,business network,H04,0.0
+0b8afd683bfbf93c,provider networks,centers,H04,0.25
+c81a4621827c8f9f,provider networks,client network,H04,0.5
+8f816685147dde3d,provider networks,client router,H04,0.25
+fbfe66e8764dcc03,provider networks,data delivery network,H04,0.25
+070d468846332e03,provider networks,food network,H04,0.0
+6798e23f2a36de21,provider networks,global network performance,H04,0.25
+5e1409e3b829e953,provider networks,health provider,H04,0.0
+7ce7110e8f560637,provider networks,internet provider,H04,0.0
+9d8b419aae36f7f4,provider networks,internet service provider,H04,0.75
+98cc805d29405935,provider networks,ip provider networks,H04,0.75
+6cb24a7992369fc3,provider networks,locations,H04,0.25
+85db3e0a6c31cd90,provider networks,media network,H04,0.0
+ec0407576da6b24a,provider networks,mtc capillary networks,H04,0.25
+37e2c0b1f7618dd9,provider networks,networks,H04,0.5
+26d4c7242b1cb7fb,provider networks,provider,H04,0.5
+cb61c4a5265a999e,provider networks,provider configured,H04,0.0
+40ed546bd17786ce,provider networks,provider network,H04,1.0
+53018c52aa378be5,provider networks,provider network management,H04,0.5
+a87c4328a7e5ae15,provider networks,provider network ns,H04,0.0
+12c80fbb6e25c55f,provider networks,provider ns,H04,0.0
+325382b959b1f42e,provider networks,provider system,H04,0.5
+ae0912bbe27ab71b,provider networks,providers,H04,0.25
+78b5838d049157d7,provider networks,providers configured,H04,0.0
+354fc9c2a0056460,provider networks,providers network,H04,1.0
+29aa21e1a2ad1bdb,provider networks,providers network ns,H04,0.75
+dc6b084850b568ad,provider networks,providers networks,H04,1.0
+a7bc3e17af936240,provider networks,server network,H04,0.5
+dab5724f6832c7af,provider networks,service provider,H04,0.25
+87ec43705b9b7796,provider networks,service provider networks,H04,0.75
+2b14523923fd6a30,provider networks,social network,H04,0.0
+8a3cc99d2ad52c16,provider networks,third party network,H04,0.25
+07bd60a4df1af1e4,pulse width modulated control,analog modulation circuit,G02,0.25
+6d85d98ee9790c70,pulse width modulated control,clock,G02,0.25
+5ec4355aa4f78221,pulse width modulated control,control,G02,0.25
+7a93e24f1946c1e4,pulse width modulated control,control signal pulse,G02,0.5
+9d93278d8b75f5c9,pulse width modulated control,controller module,G02,0.25
+23e375af4a648115,pulse width modulated control,digital modulation control signal,G02,0.25
+fb2fd9aa11803efa,pulse width modulated control,generate control pulse,G02,0.5
+2a33dd363a6a14e0,pulse width modulated control,gesture control,G02,0.0
+8bf5b97950c98156,pulse width modulated control,input,G02,0.0
+3fb77c7b621f6067,pulse width modulated control,modulation controller,G02,0.5
+90b08f14fa35e128,pulse width modulated control,pulse control,G02,0.25
+ccaa9787748a8275,pulse width modulated control,pulse control signals,G02,0.5
+62b019dc4de6e553,pulse width modulated control,pulse duration modulation,G02,0.5
+d0e5e0ba2d8927dd,pulse width modulated control,pulse oximeter,G02,0.0
+27712c4bee155488,pulse width modulated control,pulse rate,G02,0.0
+e1c509924d86076c,pulse width modulated control,pulse wave measuring,G02,0.25
+892aa063ba44ee38,pulse width modulated control,pulse width control,G02,0.5
+5d18136022e32472,pulse width modulated control,pulse width control circuit,G02,0.5
+789f2f83510a2be1,pulse width modulated control,pulse width control signal,G02,0.5
+de3b35bc4c09e102,pulse width modulated control,pulse width demodulation,G02,0.25
+b6ac7d8f7e5fa234,pulse width modulated control,pulse width modulation,G02,0.5
+80d274275430b618,pulse width modulated control,pulse width modulation control,G02,1.0
+5fece477bcef0123,pulse width modulated control,pulse width modulation controller,G02,1.0
+6626d97519afbe1b,pulse width modulated control,pulse width modulation speed control,G02,0.75
+8bffcdc1616486f6,pulse width modulated control,pulses,G02,0.25
+9a4b29b3102609a8,pulse width modulated control,variable width pulses,G02,0.5
+44bbad33a49987a9,pulse width modulated control,variable width pulses controller,G02,0.5
+cac2663147f1293c,pulse width modulated control,voice control,G02,0.0
+3a2dc09da8da244f,pulse width modulated control,wall width,G02,0.0
+4f1acd4cb4ca70d0,pulse width modulated control,width control circuit,G02,0.5
+e329157a87562817,pulse width modulated control,width of table,G02,0.0
+969352bbe256f411,radio wave transmission,transmission wave,H04,0.5
+b53eee057ea0962c,radio wave transmission,ultrasonic wave transmission,H04,0.5
+58c3bc019f30c0df,receiver shaft,brush,H04,0.25
+666384fe50469f05,receiver shaft,channel receiver shaft,H04,0.5
+76491602982eba5f,receiver shaft,drive shaft,H04,0.5
+f3a85d213879232d,receiver shaft,master shaft,H04,0.25
+a07467d4e13265ca,receiver shaft,motor,H04,0.25
+c0f4543219bde0cb,receiver shaft,motor shaft,H04,0.5
+d2a11a888cc1df50,receiver shaft,receiver brush,H04,0.5
+16628c387cb7c2ea,receiver shaft,receiver motor,H04,0.75
+4fd17735ff623122,receiver shaft,receiver rotor,H04,0.5
+0a47c0614a3bcbba,receiver shaft,receiver tank,H04,0.0
+76e45b477bdf47f7,receiver shaft,receiving shaft,H04,1.0
+ce8385cebe702c35,receiver shaft,replaceable shaft assembly,H04,0.25
+66bfaea95f9e407e,receiver shaft,rigid shaft,H04,0.25
+6da822292a1e4281,receiver shaft,rotary receiver shaft,H04,0.5
+1bfca93f0b8cefb6,receiver shaft,rotor,H04,0.25
+c2df3797b281ea83,receiver shaft,shaft,H04,0.25
+7e0aa6b7b6e7a542,receiver shaft,shaft collar,H04,0.0
+2549333d986a6bee,receiver shaft,shaft coupling,H04,0.0
+8194eed25960d9fe,receiver shaft,shaft receiver,H04,1.0
+aac595e92818f159,receiver shaft,shaft ring,H04,0.0
+f54a6df9905d814f,receiver shaft,shaft seal,H04,0.0
+9efc1d2ad6502304,receiver shaft,steering shaft,H04,0.25
+360919e7533099bb,receiver shaft,synchro receiver shaft member,H04,0.5
+6c307d9437d4bafc,receiver shaft,telephone receiver,H04,0.0
+9e195c033220382a,reduction factor,allocation factor,H04,0.25
+8739382b87b3ceda,reduction factor,allocation value,H04,0.25
+e7be9a616d5f0576,reduction factor,arbitrary factor,H04,0.5
+2941ad5495a536cb,reduction factor,beauty factor,H04,0.0
+9ab6e2bcff8dd3c0,reduction factor,capacity reduction factor,H04,0.5
+156e4928c8990d30,reduction factor,crest factor reduction,H04,0.25
+8a4f3c9792547488,reduction factor,efficiency reduction factor,H04,0.5
+8705fe60cc138a7b,reduction factor,enlargement factor,H04,0.25
+bf29db3d04ade065,reduction factor,enlargement factors,H04,0.25
+66bbb966e004ba05,reduction factor,factor,H04,0.25
+5b4fa42514ab12ab,reduction factor,factor reduction,H04,0.25
+aaba24f8cabb35ed,reduction factor,factor tree,H04,0.0
+d5712f21490900e2,reduction factor,fraction,H04,0.0
+19ad0339da501f7d,reduction factor,image reduction,H04,0.0
+c9bcf9a2c40b47a5,reduction factor,increasing by factor of,H04,0.25
+e88bbfe72f2ebb19,reduction factor,magnification factor,H04,0.25
+c0ec1a1b8dd24b5a,reduction factor,maximum reduction factor,H04,0.75
+ee9aeb3ac9334780,reduction factor,metabolic factor,H04,0.0
+310d968f24d9528e,reduction factor,parameter,H04,0.25
+23bf2f44a066c60b,reduction factor,predefined factor,H04,0.25
+a8ae43f3a3acbc32,reduction factor,predetermined enlargement factors,H04,0.25
+037c11550aa88844,reduction factor,reduction,H04,0.25
+12bc19aa8a53e5ee,reduction factor,reduction factors,H04,1.0
+6c84806db4b05119,reduction factor,reduction function,H04,0.75
+9b261a38b2dae17e,reduction factor,scaling factor,H04,0.5
+b38122c5630fe989,reduction factor,scaling portion,H04,0.25
+88cf63e7e8a34264,reduction factor,shift,H04,0.0
+bd6ad86a960d4bad,reduction factor,shift values,H04,0.0
+64f7dca22f80428d,reduction factor,shifting,H04,0.0
+d0b8c88e2a2c43e3,reduction factor,shifts,H04,0.0
+221e2d05481dfffd,reduction factor,strength reduction factor,H04,0.5
+150a83b1db2fc057,reduction factor,sugar reduction,H04,0.0
+adac987093181098,reduction factor,third scaling factor,H04,0.5
+56820be235b8dbb7,reduction factor,value,H04,0.25
+0a397d8d2df13eb9,reduction factor,zoom factor,H04,0.0
+99aaf891bfd03cf1,reflection type liquid crystal display,bright crystal device,G02,0.25
+36ef4ef87ae63605,reflection type liquid crystal display,bright crystal display,G02,0.5
+b9c5930787def77e,reflection type liquid crystal display,bright type device,G02,0.0
+96da6ad87e55c2de,reflection type liquid crystal display,bright type display,G02,0.25
+db77ab38fce401c7,reflection type liquid crystal display,camouflaged circuit structure,G02,0.25
+dec9bf9c479c31ab,reflection type liquid crystal display,camouflaged lamp housing,G02,0.25
+8822b980ccceb495,reflection type liquid crystal display,camouflaged structure,G02,0.25
+b48c3786ceac77d6,reflection type liquid crystal display,color liquid crystal display device,G02,0.5
+b35cfc5f8de4d14a,reflection type liquid crystal display,crystal ball,G02,0.0
+fa89d02b9f0577ec,reflection type liquid crystal display,display cabinet,G02,0.0
+2972e338810a343a,reflection type liquid crystal display,display flex,G02,0.0
+e5032dbef5263cc1,reflection type liquid crystal display,display reflection types,G02,0.5
+570daa56e9d149a3,reflection type liquid crystal display,firework display,G02,0.0
+9421eef20f638807,reflection type liquid crystal display,lcd displays reflection,G02,0.5
+bebfaee132e353c6,reflection type liquid crystal display,liquid crystal,G02,0.5
+722fbf83a2054afa,reflection type liquid crystal display,liquid crystal device,G02,0.5
+82757bcde086c113,reflection type liquid crystal display,liquid crystal display,G02,0.5
+cc836b2f81e3ded4,reflection type liquid crystal display,liquid crystal layers,G02,0.5
+07d46ee660b7817c,reflection type liquid crystal display,liquid display,G02,0.25
+e8e9b9c10517ace2,reflection type liquid crystal display,liquid matrix crystal,G02,0.5
+eaf98c143b1cd4f9,reflection type liquid crystal display,liquid matrix crystal display,G02,0.5
+958188ed1a638f42,reflection type liquid crystal display,liquid matrix type crystal,G02,0.5
+56e9a42a7cb283fb,reflection type liquid crystal display,liquid matrix type crystal display,G02,0.5
+b795be125de54c93,reflection type liquid crystal display,liquid matrix type liquid crystal,G02,0.5
+10719f2290595806,reflection type liquid crystal display,liquid meter,G02,0.0
+f707a9c8f0a94d8b,reflection type liquid crystal display,liquid type crystal,G02,0.25
+419d60028f275a2c,reflection type liquid crystal display,liquid type crystal display,G02,0.5
+0ddef06aa1faab54,reflection type liquid crystal display,liquid type device,G02,0.25
+366c356ae39e07b0,reflection type liquid crystal display,liquid type display,G02,0.5
+668eb746e5b96f9e,reflection type liquid crystal display,mobile,G02,0.25
+69d336930d7a89bc,reflection type liquid crystal display,non reflective type liquid crystal display,G02,0.25
+edbb437c886e065e,reflection type liquid crystal display,reflection crystal,G02,0.25
+fca36a1f6a263d83,reflection type liquid crystal display,reflection crystal display,G02,0.5
+ce11cf538c80766c,reflection type liquid crystal display,reflection liquid,G02,0.5
+78c64a6188273d7c,reflection type liquid crystal display,reflection liquid crystal,G02,0.5
+2acf154ed1ed2626,reflection type liquid crystal display,reflection liquid crystal display,G02,0.75
+030854fc7b18b42c,reflection type liquid crystal display,reflection liquid display,G02,0.5
+55cdeac4fd587e9b,reflection type liquid crystal display,reflection matrix crystal,G02,0.5
+2824eb4dfbc21169,reflection type liquid crystal display,reflection matrix crystal display,G02,0.5
+eef55d0568ca5dee,reflection type liquid crystal display,reflection matrix liquid crystal,G02,0.5
+236d32c250440bf3,reflection type liquid crystal display,reflection matrix liquid crystal display,G02,0.5
+6707c6a82288007f,reflection type liquid crystal display,reflection matrix liquid display,G02,0.25
+608f3013a28798df,reflection type liquid crystal display,reflection matrix type crystal,G02,0.5
+b914e293003ae773,reflection type liquid crystal display,reflection matrix type crystal display,G02,0.5
+be65c85331883c12,reflection type liquid crystal display,reflection matrix type liquid crystal,G02,0.5
+0e992d327401165b,reflection type liquid crystal display,reflection matrix type liquid display,G02,0.5
+d583a6c02fed7b2a,reflection type liquid crystal display,reflection mode lcd crystal,G02,0.5
+1449c87539605c88,reflection type liquid crystal display,reflection mode lcd display,G02,0.75
+15ce6d4c55d9a3cb,reflection type liquid crystal display,reflection mode liquid crystal,G02,0.5
+4cfa800d43275c67,reflection type liquid crystal display,reflection mode liquid crystal display,G02,0.75
+3dbece3b6a0dfabb,reflection type liquid crystal display,reflection mode liquid display,G02,0.25
+02bc82bd8a2ed4e7,reflection type liquid crystal display,reflection type colored liquid crystal display,G02,0.5
+56c3343a02de068a,reflection type liquid crystal display,reflection type crystal,G02,0.5
+b0e707f934a27619,reflection type liquid crystal display,reflection type crystal display,G02,0.5
+36d6eb34ede3c45d,reflection type liquid crystal display,reflection type display,G02,0.5
+f3917e6cedc53f18,reflection type liquid crystal display,reflection type display device,G02,0.5
+2969a48dba1e4197,reflection type liquid crystal display,reflection type lcd,G02,0.75
+07753cc6295f171d,reflection type liquid crystal display,reflection type lcd crystal,G02,0.5
+cf9d37c4a5543919,reflection type liquid crystal display,reflection type lcd display,G02,1.0
+af9ff9ad04958e84,reflection type liquid crystal display,reflection type liquid,G02,0.0
+8795e0cc9c635a32,reflection type liquid crystal display,reflection type liquid crystal,G02,0.5
+4c9f5222a14c07a5,reflection type liquid crystal display,reflection type liquid display,G02,0.25
+d850b7c30c439772,reflection type liquid crystal display,reflective liquid,G02,0.5
+6eb9ca146d9e751e,reflection type liquid crystal display,reflective liquid crystal,G02,0.5
+dffa3d9eb96b9920,reflection type liquid crystal display,reflective liquid crystal display,G02,0.5
+8d91518caaadac7d,reflection type liquid crystal display,reflective liquid display,G02,0.5
+7b2ef20f3f8a7c08,reflection type liquid crystal display,reflective mode lcd crystal,G02,0.5
+d3337c1393efa512,reflection type liquid crystal display,reflective mode lcd crystal display,G02,0.75
+42a6d42ff1fdabf9,reflection type liquid crystal display,reflective mode lcd display,G02,0.75
+cebf9ee6c4040e0d,reflection type liquid crystal display,reflective mode liquid crystal,G02,0.5
+b30ea39bcb4f502d,reflection type liquid crystal display,reflective mode liquid crystal display,G02,0.75
+426b5d4ee52dfbba,reflection type liquid crystal display,reflective mode liquid display,G02,0.5
+d23dfede6bfa1de4,reflection type liquid crystal display,reflective panel,G02,0.5
+9abe559f5d2e7370,reflection type liquid crystal display,reflective type crystal,G02,0.5
+69e1546ccc94d0f6,reflection type liquid crystal display,reflective type crystal display,G02,0.5
+ac72ee179e50fa84,reflection type liquid crystal display,reflective type lcd crystal,G02,0.5
+6779f30c1a35c164,reflection type liquid crystal display,reflective type lcd display,G02,0.75
+dfaffa0afa34f62a,reflection type liquid crystal display,reflective type liquid,G02,0.5
+2102d25f36c50f50,reflection type liquid crystal display,reflective type liquid crystal,G02,0.5
+f2b10c289f55f38f,reflection type liquid crystal display,reflective type liquid crystal display,G02,1.0
+e2c8b118edcfcb84,reflection type liquid crystal display,reflective type liquid display,G02,0.0
+4b6e7138c56d7a99,reflection type liquid crystal display,total reflection type liquid crystal display panel,G02,1.0
+2a440ca0e1bb93f5,reflection type liquid crystal display,tv,G02,0.25
+029ae95544a23d78,reflection type liquid crystal display,type of leaf,G02,0.0
+b85a13161b25017f,request buffer,access request,H04,0.25
+b0bedef7419dc0ae,request buffer,buffer,H04,0.5
+6badb39a0f261e40,request buffer,buffer image,H04,0.0
+a6032794cf48e536,request buffer,buffer media,H04,0.0
+657c0243182c46b1,request buffer,buffer zone,H04,0.0
+f78c081d0061abb3,request buffer,cache,H04,0.5
+18c512a35c76aaae,request buffer,cache buffer,H04,0.25
+e509bfa4c408d5aa,request buffer,cache table,H04,0.25
+576922e1234a5cf3,request buffer,data buffer,H04,0.5
+d3d95b108c3d3266,request buffer,data queue,H04,0.5
+e0d32e776f1b56a1,request buffer,data request buffer,H04,0.75
+892376555983f14d,request buffer,database,H04,0.25
+978473e0a6ed7190,request buffer,database in order,H04,0.5
+b0d24f5684bc7225,request buffer,database order,H04,0.25
+3fb81054915173cf,request buffer,deny request,H04,0.0
+2edad17b0dc61630,request buffer,ingress buffer,H04,0.25
+71e67f0c1db1eca1,request buffer,memory request buffer,H04,0.75
+022b7995fe3ad9bd,request buffer,network data buffer,H04,0.5
+ce331f3044faaba6,request buffer,network request buffer,H04,0.5
+44e45a5a3bce6145,request buffer,outgoing buffer,H04,0.25
+2ea6683f88ced16a,request buffer,queue,H04,0.5
+0f3386f6766a358b,request buffer,read request queue,H04,0.5
+7c548aed5ecb3659,request buffer,receive request,H04,0.25
+dac2bb7e21db49d4,request buffer,repeat request buffer,H04,0.5
+17d292c917d23c8b,request buffer,request,H04,0.25
+a8a83b817c715795,request buffer,request buffer memory,H04,0.75
+c572c9494468fcbf,request buffer,request buffer pool,H04,0.5
+c55c09c511cb86c1,request buffer,request buffer queue,H04,0.75
+71d891c79c1a89cd,request buffer,request database,H04,0.5
+b9a946f272c36c67,request buffer,request for leave,H04,0.0
+cb687f535276a5aa,request buffer,request in list,H04,0.25
+8252fd0df1e22e7d,request buffer,request in table,H04,0.25
+aee050f9381dfc57,request buffer,request letter,H04,0.0
+750e69231cd30f66,request buffer,request memory,H04,0.75
+cdcff55197fa1e63,request buffer,request queue,H04,0.25
+36ea32cc0913d003,request buffer,request remote authorization,H04,0.25
+c8f95567de2ce587,request buffer,request storage list,H04,0.25
+c4f9c33dd79b0ab7,request buffer,request storage table,H04,0.25
+f33c7c097091abf6,request buffer,request table,H04,0.25
+402262c58683ad80,request buffer,response buffer,H04,0.25
+d487b70d09b3f64d,request buffer,storage,H04,0.5
+fe0cfa8a9848e3ee,request buffer,storage database,H04,0.25
+33236696b509860f,request buffer,storage database order,H04,0.25
+f480ae48e7958f77,request buffer,storage in order,H04,0.25
+7b2828a8c7b2a621,request buffer,translation request buffer,H04,0.5
+78b96b8455278d56,select unit,3 to 1 multiplexer,H04,0.25
+5242d8a8dd21d094,select unit,bistable digit select unit,H04,0.5
+997e4a080fb7518b,select unit,bit selector,H04,0.5
+b2082db4663128b2,select unit,cell selection circuit,H04,0.5
+3ba2d757a023924d,select unit,compare select unit,H04,0.5
+fac60ae3879f233b,select unit,data input multiplexer,H04,0.25
+78371b13cd00a523,select unit,developer collection unit,H04,0.25
+808a28b46c178e5c,select unit,drive signal,H04,0.5
+c6cf1721eb036845,select unit,dust collection hose,H04,0.25
+b3d0e6d262e6e1cc,select unit,ejection modules,H04,0.5
+4d36905be03dd173,select unit,machine selection,H04,0.0
+1fb4242ec251fab0,select unit,mobile unit,H04,0.0
+f67ca59a098755b6,select unit,output counter,H04,0.5
+bb122e9791f3d9ab,select unit,output select circuit,H04,0.5
+515837c80f58ed99,select unit,power unit,H04,0.0
+65df430a39e0fd0c,select unit,row select decoder,H04,0.25
+5cb7986f40c54e74,select unit,select brands,H04,0.0
+681b41f9f128bac2,select unit,select locations,H04,0.0
+bb93cb1eb168a916,select unit,selection device,H04,0.75
+c583f5b72eaef09b,select unit,slip ring mechanism,H04,0.25
+88eee502cba369cb,select unit,storage unit,H04,0.0
+5f51cee2018edd29,selected operation,image operation,H04,0.5
+259842c9789dc514,selected operation,imaging,H04,0.25
+6346194674d4b86b,selected operation,individual operating mode,H04,0.5
+d55b0b3a78d95974,selected operation,lens shooting,H04,0.0
+6b7a7dbe8b2d7805,selected operation,modification,H04,0.5
+230faecb1571bc5f,selected operation,operation mode,H04,0.25
+72b07ced80c9d3f1,selected operation,operation selected,H04,1.0
+1a011d052f06e14b,selected operation,operation theatre,H04,0.0
+03aab0d40f879b6f,selected operation,performing selected operation,H04,0.75
+8b8d8889be0facf2,selected operation,plant selection,H04,0.0
+2e03aed3ab5e9313,selected operation,preprocessing step,H04,0.5
+939c9243c2b137a6,selected operation,processing,H04,0.25
+986d9830f1fd4b64,selected operation,processing operation,H04,0.5
+657756e88d813d7c,selected operation,processing step,H04,0.5
+33bbce5f4ec167c7,selected operation,selected function,H04,0.5
+89a03b1dcbebf386,selected operation,selected logic operation,H04,0.75
+8dd9451e6083960b,selected operation,selected mechanism,H04,0.75
+a8ddcf168387e3c8,selected operation,selected memory cell,H04,0.25
+a390e20d6b9d6214,selected operation,selected menu,H04,0.0
+f0186b9e7a3a198d,selected operation,selected operation mode,H04,0.75
+1993610eaaf93efb,selected operation,selected operation state,H04,0.75
+116a2bd7d6ed96f9,selected operation,selected original content,H04,0.25
+c28a515b69b3fd94,selected operation,selected output,H04,0.25
+0b013e5a980688d1,selected operation,selected recipe,H04,0.0
+22dd8a0f1499ee7a,selected operation,selected single strategy,H04,0.25
+74b7d64633b1c9c7,selected operation,selected species,H04,0.0
+2b795f5cf7de5c91,selected operation,shift operation,H04,0.25
+0d61fef440a29f33,selected operation,shooting,H04,0.0
+6f4652db7dab4bcf,selected operation,surgical operation,H04,0.0
+fd9c7f8147807c2d,selected operation,transformation,H04,0.5
+6d2ea48ba8faaf0b,selected operation,user selection control,H04,0.5
+017ea40743199855,send to control node,control anger,H04,0.0
+46342a464f59a433,send to control node,controlling mechanism operator,H04,0.5
+57151d854472ba8a,send to control node,forward market,H04,0.0
+21809bdbf6037284,send to control node,forward to node,H04,0.5
+50cd3c1af416fac6,send to control node,lymph node,H04,0.0
+86edb06c57603b70,send to control node,receive control signals,H04,0.25
+e3e9cf97c8e72236,send to control node,receive from the control unit,H04,0.25
+f89686cca84d7b56,send to control node,receiving data,H04,0.25
+340b530bc03f37db,send to control node,response from control system,H04,0.25
+3ba4268dea7bfad6,send to control node,send by node,H04,0.25
+70be233eebd485b7,send to control node,send control signals,H04,0.5
+383aa1651d5d99a9,send to control node,send flowers,H04,0.0
+8e5ac2e09166141f,send to control node,send from node,H04,0.25
+5371413668d35ac8,send to control node,send mail,H04,0.0
+ed2668900a99542c,send to control node,send node,H04,0.0
+2856d93f6e06b76e,send to control node,send to control,H04,0.5
+f7bdbcf9a64c8a7b,send to control node,send to control center,H04,0.75
+368c4b5a590a1fec,send to control node,send to control circuit,H04,0.5
+1b653f2d2299f15c,send to control node,send to destination node,H04,0.5
+833ef329d2eebfb6,send to control node,sending message,H04,0.5
+4ca26843a906c5f4,send to control node,sending response,H04,0.25
+90bd2d08bdd12cd4,send to control node,sending to control node,H04,1.0
+95a4286812c9d51f,send to control node,sent to smartphone,H04,0.25
+297229869cc98430,send to control node,to control node send,H04,1.0
+b40d82f877ad5362,send to control node,transfer to control node,H04,0.75
+86861ed1a03b58ec,send to control node,transmit to control node,H04,0.75
+f0fe717ac3704820,send to control node,vehicle control,H04,0.0
+66aa1781318b04c2,service processing unit,bike service,H04,0.0
+b0a3710c45c5fe8c,service processing unit,central processing unit,H04,0.25
+347ba6bb515a431e,service processing unit,connection control unit,H04,0.25
+324e3cf35e9364f4,service processing unit,cp information requesting program,H04,0.0
+698b73a37b0582ff,service processing unit,cp information requesting unit,H04,0.0
+7e30897a935f34b1,service processing unit,cp ns requesting program,H04,0.0
+8530c0a7920ea9bd,service processing unit,cp ns requesting unit,H04,0.0
+d9405a158806210f,service processing unit,cp request unit,H04,0.0
+ce46aef69f68ea5b,service processing unit,cp requesting method,H04,0.0
+f285689c13becbd6,service processing unit,cp requesting unit,H04,0.0
+02a166cd58b29a96,service processing unit,data processing service,H04,0.5
+5007411f698f29c6,service processing unit,food processing,H04,0.0
+130434247b28f4b4,service processing unit,interface processing unit,H04,0.5
+6b892b1b5514f4c7,service processing unit,iq generator,H04,0.0
+2ab382333aceb2c6,service processing unit,key service unit,H04,0.25
+d3a4d2539a115a59,service processing unit,management device,H04,0.25
+a7b752042e5c824b,service processing unit,management server,H04,0.25
+f592aa77b9b2b620,service processing unit,media pipeline,H04,0.5
+a05800729584bc30,service processing unit,media server,H04,0.5
+ab6a2a51bc82b9a1,service processing unit,network,H04,0.25
+6c537130f4891483,service processing unit,passenger service unit,H04,0.0
+2960da2e1eb3788f,service processing unit,payment processing service,H04,0.25
+8c57fb7aed280d81,service processing unit,prediction processing unit,H04,0.25
+8ae4d4bb241f8744,service processing unit,processing service,H04,0.5
+11f65c1b05eaae9c,service processing unit,protocol processing,H04,0.25
+bb9e7039fdf33e2c,service processing unit,request module,H04,0.25
+e98dd223aec4726e,service processing unit,request unit,H04,0.25
+102b44ea2bedd014,service processing unit,requesting module,H04,0.25
+514710f9cf2519d1,service processing unit,requesting unit,H04,0.25
+48c8456a1e871f50,service processing unit,rna processing,H04,0.0
+15e7c0b3a3c20167,service processing unit,server,H04,0.25
+b94724a59eea10d6,service processing unit,service control unit,H04,0.75
+461e650972770118,service processing unit,service data unit,H04,0.25
+af526fa2fe6906d8,service processing unit,service device,H04,0.5
+d1cbd2d6ce89811f,service processing unit,service dispatching module,H04,0.5
+28bf5a48be96a4ca,service processing unit,service processing,H04,0.5
+63a61281232ce303,service processing unit,service processing board,H04,0.75
+b81c68c0969a6f5c,service processing unit,service processing device,H04,0.75
+31cefc00c595fc11,service processing unit,service request device,H04,0.5
+dd4b1b1d42971d78,service processing unit,service request unit,H04,0.5
+e0d22431a44fef2d,service processing unit,service server,H04,0.25
+73227eb5b0fb8b32,service processing unit,service storage device,H04,0.25
+8f76474375eab4a2,service processing unit,service storage unit,H04,0.25
+bdc1297263d238c4,service processing unit,service subsystem,H04,0.25
+73a62d895b848375,service processing unit,signaling processing unit,H04,0.5
+4906075b045cc89c,service processing unit,sound processing unit,H04,0.25
+15aa58b9f4b97752,service processing unit,standard unit of current,H04,0.0
+4ca70e82e6121de2,service processing unit,tv service processing unit,H04,0.5
+7c7c3467da3efb24,service processing unit,word processing,H04,0.0
+484475c226d95b67,sheet supply roller,balance sheet,H04,0.0
+e2781de12f42339c,sheet supply roller,conveying belt,H04,0.5
+31aa2556ef0d4ac4,sheet supply roller,conveying roller,H04,0.5
+0dcbf64c0539f04b,sheet supply roller,cover sheet,H04,0.0
+1ac5db86d7694a58,sheet supply roller,electricity supply,H04,0.0
+04d81874a1a529fc,sheet supply roller,feed roller,H04,0.25
+722b8bf1f926c8ac,sheet supply roller,idle roller,H04,0.75
+1f1cc4b472d39e36,sheet supply roller,metal sheet,H04,0.25
+3bb62f1ec51ce18e,sheet supply roller,milk supply,H04,0.0
+197006bb280cfb0c,sheet supply roller,multi cutter paper tube,H04,0.25
+e329ff425fe52152,sheet supply roller,narrow belt,H04,0.0
+b515232ad61d051d,sheet supply roller,paper cutter,H04,0.25
+e2402427f1589d5b,sheet supply roller,paper drawing portion,H04,0.5
+3d5a777ab47b8f39,sheet supply roller,paper drawing roller,H04,0.75
+7cb760fe88afaa4d,sheet supply roller,paper feed portion,H04,0.5
+fbd70b57096a7397,sheet supply roller,paper feed roller,H04,0.75
+56aa31baa5daee37,sheet supply roller,paper feed rollers,H04,0.75
+6cf9d729f638365b,sheet supply roller,paper roller,H04,0.5
+aeb0e7ac4b000312,sheet supply roller,paper supply roller,H04,0.75
+cedb084a41d2f78c,sheet supply roller,paper transport,H04,0.0
+244d001224275f99,sheet supply roller,paper transport roller,H04,0.25
+6dedcda5d8c1d25f,sheet supply roller,paper transport rollers,H04,0.0
+39e7446a098a1c04,sheet supply roller,roller coaster,H04,0.0
+9450e2bc3bf8cfcf,sheet supply roller,rolling machine,H04,0.25
+bee5bbeddc6a7d52,sheet supply roller,rotatable sheet supply roller,H04,0.75
+91f13ea97a585d1a,sheet supply roller,self sealing ability,H04,0.25
+e9eb5b7585e0933a,sheet supply roller,sheet collection roller,H04,0.5
+4cfa0af5c5b016f9,sheet supply roller,sheet discharge roller pair,H04,0.0
+c96f6f3ae9f50ba2,sheet supply roller,sheet drawing portion,H04,0.5
+b76a87fa324bebfd,sheet supply roller,sheet drawing roller,H04,0.75
+12f5c01f448a22a3,sheet supply roller,sheet feed portion,H04,0.75
+63c50e1be1dc97e4,sheet supply roller,sheet feed roller,H04,0.75
+3ced908565efaf03,sheet supply roller,sheet feed rollers,H04,0.75
+3406bd540f96557c,sheet supply roller,sheet feed transport roller,H04,0.75
+888621feb65ba3a4,sheet supply roller,sheet feed transport rollers,H04,0.25
+75f637bbb15540c9,sheet supply roller,sheet feeder,H04,0.5
+23e2ecaf1c8a8343,sheet supply roller,sheet feeding roller,H04,0.75
+7b8c6daabc494c3d,sheet supply roller,sheet roller,H04,0.5
+7bf578e583e36dd3,sheet supply roller,sheet supply machine,H04,0.5
+94e22051d3c099e7,sheet supply roller,sheet supply roller device,H04,0.75
+346274e30837de69,sheet supply roller,sheet supplying roller,H04,1.0
+8713ab46fd1d3a51,sheet supply roller,sheet transport,H04,0.0
+84521cabcb583f89,sheet supply roller,sheet transport feed roller,H04,0.75
+b59ed1427f38cdb2,sheet supply roller,sheet transport feed rollers,H04,0.75
+88964b5793576487,sheet supply roller,sheet transport roller,H04,0.25
+881a780d99f2d87d,sheet supply roller,sheet transport rollers,H04,0.25
+ee58eac12537dc54,sheet supply roller,sheets transport feed roller,H04,0.75
+06866acf3c5be989,sheet supply roller,sheets transport feed rollers,H04,0.75
+3d993788452d087e,sheet supply roller,sheets transport roller,H04,0.25
+4e0ac596393e3189,sheet supply roller,sheets transport rollers,H04,0.25
+0fafe1d47e8ed396,sheet supply roller,supply chain,H04,0.0
+91a849c252ea0e12,soft polymeric,compressible polymeric,H04,0.75
+a90f30274db0d823,soft polymeric,flexible polymer,H04,0.75
+9073b3ec3622e5f0,soft polymeric,hard plastic,H04,0.25
+6f74040011cb4c5b,soft polymeric,hard polymer,H04,0.25
+2e69f83920bdaef2,soft polymeric,hard polymeric backing,H04,0.25
+89eefbd5f5c4399a,soft polymeric,hard polymeric constituent,H04,0.25
+be94b45ed6565f28,soft polymeric,hearing aid,H04,0.0
+cf85e6b544fa01d4,soft polymeric,organic material,H04,0.25
+1d1200704c4d1938,soft polymeric,pliable polymeric,H04,0.75
+5c48cb130eb08658,soft polymeric,polimer body,H04,0.5
+a3b9ce73f2c5ffd7,soft polymeric,soft as a feather,H04,0.0
+e5e939b07c0ed584,soft polymeric,soft cakes,H04,0.0
+dd8c8ae8beb549c7,soft polymeric,soft clay,H04,0.0
+33bec780e6128e38,soft polymeric,soft cloth,H04,0.0
+f4124f194596df16,soft polymeric,soft magnetic powder polymer,H04,0.5
+d409098b12866d51,soft polymeric,soft polymer lense,H04,0.5
+8a686c284c3444ec,soft polymeric,soft polymeric body,H04,0.5
+8477a020134e208b,soft polymeric,soft polymeric material,H04,0.75
+dad701fbb9247b13,soft polymeric,soft polymeric sheet,H04,0.5
+65754b7d0ef59257,soft polymeric,soft skills,H04,0.0
+5a115a5edff58109,soft polymeric,soft water,H04,0.0
+2297def28296b3ce,soft polymeric,thermoplastic,H04,0.25
+1339ea650315b489,source channel,channel,H04,0.5
+025ab14f1028f584,source channel,systematic channel,H04,0.0
+3ded7bd449de63db,source channel,systematic linear,H04,0.0
+912f794c3edf57d9,source channel,turbo,H04,0.0
+d4f5cd38f17f2fe0,source channel,turbo linear,H04,0.0
+cfbee4232febe009,split into flows,current flow,H04,0.25
+c877b1a9f2c8d028,split into flows,disparate flows,H04,0.5
+5c0a482d185773bc,split into flows,divide into flows,H04,0.75
+5130b1ef2bd4f7bb,split into flows,divide into separate flows,H04,0.75
+d5dca85d58d0fd91,split into flows,divide into signal,H04,0.5
+dfd2ff59427b3f56,split into flows,flow meter,H04,0.0
+950a86f297963df1,split into flows,fusing images,H04,0.25
+b9d1a2c63c1a37cd,split into flows,fusing operators,H04,0.25
+c2226ea935fbbbde,split into flows,fusing several lengths,H04,0.25
+0e36ca6426aa5ff6,split into flows,partition into flows,H04,0.75
+faf98a71106279ac,split into flows,river flows,H04,0.0
+8144419227205ae5,split into flows,signal flow,H04,0.25
+99febc9781be5cd3,split into flows,split case pump,H04,0.0
+fa422e629bd431c7,split into flows,split flow arrangement,H04,0.5
+32538aeafdd91d85,split into flows,split flow communications,H04,0.5
+c75eb63fe2799f3d,split into flows,split second,H04,0.0
+790fed1a74cf3ac7,split into flows,split share,H04,0.0
+10d73a7ed66da2c8,split into flows,split tcp flow control,H04,0.5
+a2a65437afa037f6,split into flows,splitting flows,H04,0.75
+fae16b4fb012d6d5,split into flows,splitting into flows,H04,1.0
+a70e50ea53b87165,split into flows,stock split,H04,0.0
+3a34ae8e1785dec2,split into flows,voltage flow,H04,0.25
+f843e423de9497d0,steering matrices,antenna array matrices,H04,0.25
+77fc241c49a964ea,steering matrices,antennas,H04,0.5
+2be7fa343a2d4ece,steering matrices,beam former,H04,0.5
+b208fc638155d168,steering matrices,beam steering,H04,0.75
+bdd14360e231909a,steering matrices,beamforming steering matrices,H04,0.75
+61a94795887f6489,steering matrices,convergent divergent handles,H04,0.25
+b9bd7a2630725402,steering matrices,divergent beams,H04,0.25
+dd87d60ab9d0671f,steering matrices,divergent portion,H04,0.25
+54e33b1795fc0023,steering matrices,energy direct matrices,H04,0.25
+cb7ae288ddbeefac,steering matrices,matrices calculator,H04,0.0
+10073934c9ec99c0,steering matrices,matrices multiplication,H04,0.0
+423c8ee70feab904,steering matrices,matrix of steering,H04,1.0
+f7db93e39b499a9d,steering matrices,multiple input multiple output,H04,0.5
+95d702db5b72f4b8,steering matrices,plurality of steering matrices,H04,1.0
+958e907fe6b80b7d,steering matrices,preceding matrix,H04,0.0
+6fe121c1f611106a,steering matrices,spans,H04,0.25
+24604a83d8c62bdb,steering matrices,spatial matrix,H04,0.5
+09eae2ee6f5726ef,steering matrices,spreading matrix,H04,0.25
+dfefa76f0330e244,steering matrices,spreading sequence,H04,0.25
+48d42fd137813a63,steering matrices,steering a vehicle,H04,0.0
+963b2e9d48bdf7c8,steering matrices,steering spans,H04,0.5
+a9e6c5b10e86fc41,steering matrices,steering vector,H04,0.25
+1f06ca23e7e31c9e,steering matrices,steering vector matrix,H04,0.75
+c33d0ac4a214986a,steering matrices,steering wheel,H04,0.0
+e623cb2a9e9becf7,steering matrices,transmission matrices,H04,0.75
+7f320d5ea0c726de,steering matrices,transmission spans,H04,0.5
+a535be4a3ebba123,steering matrices,transmit beam,H04,0.5
+1cd8accc4bb68558,switch swm,device termination,G02,0.0
+28d9c9b4d5aa4f09,switch swm,double wire multi switch,G02,0.25
+ce9817b9f2453b47,switch swm,electronics,G02,0.25
+8b478a6f6cf3a349,switch swm,mode,G02,0.0
+4f32d42fcf4c514c,switch swm,multi methods,G02,0.0
+f6aa7a2bd7a86a0a,switch swm,on off device,G02,0.5
+586e100e2600067d,switch swm,optical switch swm,G02,0.75
+8cde7d48f6960ac3,switch swm,reset switch,G02,0.5
+8f5d169fdd3ca1cf,switch swm,selection switch swm,G02,0.75
+28bb91b3c1932ade,switch swm,shallow water model,G02,0.0
+d0b833593c9d3971,switch swm,single wire multi,G02,0.5
+7c75962a752a512c,switch swm,single wire multi switch,G02,0.75
+5a184cb9731bf5b8,switch swm,single wire multiswitch,G02,0.75
+c24c030fc4caf969,switch swm,solid waste management,G02,0.0
+f134fa123521fbc8,switch swm,swim suit,G02,0.0
+a1f54ce0df2f2d89,switch swm,switch,G02,0.5
+8fb9ce202c5b350f,switch swm,switch again,G02,0.0
+c0695163710c4a0a,switch swm,switch matrix interface,G02,0.5
+0cc775e1197216e9,switch swm,switch network,G02,0.0
+63eca6ff52e49d62,switch swm,switchless combiner,G02,0.25
+511ae2e7f683bfed,switch swm,switchless network,G02,0.25
+209e6ba288020d27,switch swm,switchless sensing,G02,0.25
+253162c115e2e85a,switch swm,swm,G02,0.5
+dcc5f1c15d9265e2,switch swm,wire,G02,0.25
+06c99aa3aac0b277,transmit over interface,air interface,H04,0.25
+327bb9d6f60192c9,transmit over interface,audio interface,H04,0.0
+63ada0f833d967c8,transmit over interface,communicate over interface,H04,0.5
+7877227f98903084,transmit over interface,communication interface,H04,0.5
+a74d14933ee3b1de,transmit over interface,disease transmission,H04,0.0
+c46f0eb18eaf6cd4,transmit over interface,interface module,H04,0.25
+8db0820e1e2e09b0,transmit over interface,network interface layer,H04,0.25
+25dd8bb9da86d36c,transmit over interface,over cooked,H04,0.0
+374bbc0fbf1f09fe,transmit over interface,over fed,H04,0.0
+ea7ab1b7a8fe013c,transmit over interface,receive over interface,H04,0.75
+0dec2e1af0c696f9,transmit over interface,receive via interface,H04,0.25
+6fd863e185f0725b,transmit over interface,receiver device,H04,0.25
+1d6c5d8386ded55f,transmit over interface,reception angle,H04,0.25
+2f7e91395d34d3c9,transmit over interface,send over interface,H04,0.75
+f940c8756bf7405d,transmit over interface,stay over,H04,0.0
+8030d2122bfe59fe,transmit over interface,tcpip network interfaces,H04,0.5
+1b00b01ef965bd95,transmit over interface,transmission over interface,H04,1.0
+a075654bd2fa2288,transmit over interface,transmit from interface,H04,0.5
+28c390632e1356f3,transmit over interface,transmit from network interface,H04,0.5
+aae32619085c84b8,transmit over interface,transmit interface,H04,0.5
+a7526da35562a20a,transmit over interface,transmit over bus,H04,0.5
+fa0ab8848a8c37b5,transmit over interface,transmit over network,H04,0.5
+a9a449e9d3eab361,transmit over interface,transmit over path,H04,0.5
+902f7b5d036d7e9f,transmit over interface,transmit over system,H04,0.25
+9b7f0d6e378e3b00,transmit over interface,transmit through interface,H04,0.75
+16b2dc9b5384c2b4,transmit over interface,transmit to lan interface,H04,0.5
+122cbb23d3b1258c,transmit over interface,transmit using an interface,H04,0.75
+0d764182574765be,transmit over interface,transmit using interface,H04,0.75
+b6ecd9b2f2029274,transmit over interface,transmit via interface,H04,0.75
+c1a9a5555a7face5,transmit over interface,user interface,H04,0.0
+2aebfc092c47379c,transmit to platform,additional reception,H04,0.25
+1104f09f03d783fd,transmit to platform,close reception timing,H04,0.25
+f5aadbf3bfecca44,transmit to platform,closure signal,H04,0.25
+b90fcbd1fcd57a01,transmit to platform,cross platform game,H04,0.0
+4ed624b16b4f4320,transmit to platform,datalink transceiver,H04,0.5
+16ae4b99d3601e60,transmit to platform,direct receiving,H04,0.25
+c5331107244a1d1c,transmit to platform,downlink control information,H04,0.25
+2eca4fd694c60043,transmit to platform,platform ladder,H04,0.0
+7eaf1ae254413e8d,transmit to platform,platform number,H04,0.0
+c32db9b9749f95a2,transmit to platform,platform ticket,H04,0.0
+d5dbe9b1c8b8942f,transmit to platform,railway platform,H04,0.0
+30e20fec69cc62f3,transmit to platform,receiving from platform,H04,0.25
+d56f70e3022dfd17,transmit to platform,send to platform,H04,0.75
+3fb8c0a63504c383,transmit to platform,sending to computer,H04,0.5
+efff42495799c657,transmit to platform,sending to platform,H04,0.75
+4cd567bda223312a,transmit to platform,transfer to platform,H04,0.75
+abe93f95f8560035,transmit to platform,transmit from platform,H04,0.5
+657d3f9a46f2a61e,transmit to platform,transmit security,H04,0.0
+7a1f3fcbd42a6fd3,transmit to platform,transmit to node,H04,0.5
+d938798b2a981004,transmit to platform,transmit to system,H04,0.75
+fc8bd22742585327,transmit to platform,upload to platform,H04,0.75
+5c5ae8e45626c5ed,type parameter,associated parameter,H04,0.5
+e6096d22211a7e4b,type parameter,attribution type,H04,0.75
+0cc22702a9caec06,type parameter,configuration parameter,H04,0.5
+3e8aa567e008000d,type parameter,control information,H04,0.5
+9cf81c274a0551a1,type parameter,control message,H04,0.25
+23ed6e32e1588c92,type parameter,data type parameter,H04,0.5
+fa6672d21748b740,type parameter,generic label,H04,0.75
+123e459c4f2c80a2,type parameter,group of parameters,H04,0.25
+030e5ba52e864838,type parameter,identifier,H04,0.5
+883ba14c72ec30ed,type parameter,indication,H04,0.25
+f9f574ca53c7d765,type parameter,indication field,H04,0.5
+a599c2933f275372,type parameter,indication information,H04,0.5
+148046b70f4779f5,type parameter,indicator,H04,0.25
+689fb167aecc8047,type parameter,information,H04,0.25
+27e8366b53d5a775,type parameter,instance type,H04,0.75
+cda88bddddaa9a2b,type parameter,message,H04,0.25
+370dd286d667033c,type parameter,normal,H04,0.0
+f45ebf5358d4a6e8,type parameter,normal data,H04,0.25
+e9288d1ffe59df51,type parameter,normal reflection,H04,0.0
+c96b59d396f23d17,type parameter,normals,H04,0.0
+d3c14ba2033cea01,type parameter,operating parameters,H04,0.25
+dabd80b715966d76,type parameter,parameter list,H04,0.25
+ce3e81c4dfd6718b,type parameter,parameter tag,H04,0.25
+ca4aa26b4fa00d12,type parameter,parameter type,H04,1.0
+6cbf9a101ee04f6e,type parameter,placeholder for a type,H04,0.75
+a3cc2de3511bb310,type parameter,quantization parameter,H04,0.25
+1b756abbf372bd77,type parameter,reflection,H04,0.0
+1fc5825900208179,type parameter,restricted access further,H04,0.0
+241666f3133fa88d,type parameter,restricted access window,H04,0.25
+d10aa81e4ebe5c1a,type parameter,restricted information further,H04,0.25
+ce828ac9a3c652b9,type parameter,restricted information window,H04,0.25
+ff9564af9555e1a0,type parameter,subsequent access further,H04,0.25
+c9e2cf2d702d0a07,type parameter,subsequent access window,H04,0.25
+6acdc94151f64d55,type parameter,type,H04,0.25
+fd8fa62fcf004da8,type parameter,type argument,H04,0.5
+4fbb199b6ee5db96,type parameter,type identifier,H04,0.5
+d432355cdab522ad,type parameter,type of clothing,H04,0.0
+6bb47b78482b2e7e,type parameter,type of food,H04,0.0
+94685c492cd4503c,type parameter,type of games,H04,0.0
+7df7e4fb7cdfdff6,type parameter,type record,H04,0.0
+0b80b8aeae537ed9,type parameter,types of soil,H04,0.0
+766ac72fe47ac61a,type parameter,variable parameter,H04,0.25
+cf513f5eaceaab16,type parameter,water parameters,H04,0.0
+8e8f01c46c80320a,use physically unclonable functions,authentication function,H04,0.5
+6e2826b97b7fc084,use physically unclonable functions,avoid cloning of the circuit,H04,0.5
+7902e81b4de33a3c,use physically unclonable functions,biometrics,H04,0.25
+4bc8456d097499ad,use physically unclonable functions,core network functions,H04,0.25
+a35761d0025c12c2,use physically unclonable functions,cryptographic authentication,H04,0.5
+2d4baae3ddeb056c,use physically unclonable functions,cyber security,H04,0.25
+94157d0e20a231eb,use physically unclonable functions,differential states,H04,0.5
+52e6e52e23845815,use physically unclonable functions,function of heart,H04,0.0
+2aab75a61480c7af,use physically unclonable functions,load functions,H04,0.25
+126d85465e4b3a6e,use physically unclonable functions,physical fitness,H04,0.0
+48b2bc0664c8c36b,use physically unclonable functions,physical layer functions,H04,0.25
+e052634b68750b85,use physically unclonable functions,physical one way functions,H04,0.75
+930da6252b65bc71,use physically unclonable functions,physical security primitives,H04,0.5
+5a6a2a8ee9a41f8e,use physically unclonable functions,physically challenged,H04,0.0
+2334bd3af4c04334,use physically unclonable functions,physically fit,H04,0.0
+8f567de1265ad93d,use physically unclonable functions,physically unclonable,H04,0.25
+3b5cd57be0c4b50a,use physically unclonable functions,physically unclonable function,H04,0.75
+cf2145622f1bd098,use physically unclonable functions,physically unclonable functions,H04,0.75
+553638ceb079d328,use physically unclonable functions,puf,H04,0.75
+33514c45a4c7b84f,use physically unclonable functions,puf panel,H04,0.25
+93ecd5846c13f019,use physically unclonable functions,template protection systems,H04,0.5
+cd5cf8799941e753,use physically unclonable functions,unclonable blood,H04,0.0
+e87163b3137862e4,use physically unclonable functions,unclonable functions,H04,0.5
+05457eb507b8c602,use physically unclonable functions,use dustbin,H04,0.0
+f2e7d9df7b04390a,use physically unclonable functions,use unclonable functions,H04,0.75
+407ca82998351285,verifiable,able to verify,H04,0.75
+5150e797ed85cb1d,verifiable,accessible,H04,0.25
+64db6199a040ae57,verifiable,available,H04,0.0
+0cd19b3b4da895e3,verifiable,backflow preventer,H04,0.0
+dc8de6f3ad4130fe,verifiable,being verified,H04,0.75
+24496ce9c7166e57,verifiable,can be checked,H04,0.75
+096f5e9ba452663d,verifiable,car theft prevention,H04,0.0
+f311d8f16df780df,verifiable,confirmable,H04,0.5
+0096d0f44883ad4e,verifiable,confirmable password,H04,0.5
+090a607045d0221c,verifiable,created,H04,0.0
+c9d7fb5993edeb6b,verifiable,cryptographic identity,H04,0.25
+dca58346c83f614a,verifiable,easily verifiable,H04,0.75
+e4328b2471ba06c3,verifiable,fall prevention,H04,0.0
+f23340907df6e714,verifiable,further accessible,H04,0.5
+fb09c2e440e75c07,verifiable,generated,H04,0.25
+c4ebccd309d1276c,verifiable,invalid claim,H04,0.25
+c54c596f37a77113,verifiable,message authenticity,H04,0.25
+199d6d6cddd98726,verifiable,non verifiable,H04,0.25
+8a7faf2eb6a8eeef,verifiable,non verifiable program,H04,0.25
+40618b8588aa3abf,verifiable,non verifiable statements,H04,0.25
+f06bcac4603c2a90,verifiable,official,H04,0.0
+cd76823cb1e424d2,verifiable,police verification,H04,0.0
+78ca06730bf3b6b3,verifiable,stored,H04,0.25
+22190ee1a430fd32,verifiable,trusted,H04,0.5
+4351e613bfeca57d,verifiable,valid number,H04,0.5
+e6820862ff62ab02,verifiable,validatable,H04,0.5
+0bb61b10a1ab773b,verifiable,verified,H04,0.75
+1e8035e76c32108b,verifiable,verifying address,H04,0.0
+179d98218c1c63a8,verifiable,verifying documents,H04,0.0
+614fc430b070209c,vibratory actuator,diaphragm,H04,0.5
+0f4abebe7ae22c2d,vibratory actuator,piezoelectric diaphragm,H04,0.5
+6530be27203aae7e,vibratory actuator,piezoelectric transducer,H04,0.5
+a8d898d152c77b27,vibratory actuator,transducer,H04,0.5
+55ccd572ff282605,video lines,active picture lines,H04,0.25
+bdc45ed9cd569cf0,video lines,active video,H04,0.25
+412608e0ff1217a3,video lines,active video lines,H04,0.5
+f65390f02dc05c39,video lines,analog video signal,H04,0.5
+3e1c5927fd341404,video lines,circuits,H04,0.25
+4043a122da1398bf,video lines,data,H04,0.25
+b2f1830d54086bc9,video lines,data sections,H04,0.25
+54fab50e96459cc5,video lines,fields,H04,0.0
+47ca58a487d33530,video lines,fields sections,H04,0.25
+40acef1f9515cdbb,video lines,line graph,H04,0.0
+6843ba4cd937514c,video lines,line of control,H04,0.0
+e298050cb7c3bce1,video lines,line segment,H04,0.0
+eaa5c63b023ff754,video lines,line video,H04,1.0
+608e7298106064cc,video lines,lines,H04,0.5
+f082b01a53a1e13f,video lines,lines of video,H04,1.0
+08d02163dc9c2c62,video lines,poetry lines,H04,0.0
+aeaaa19e1688fc10,video lines,received signals,H04,0.25
+874cebbc1dce195e,video lines,resection line guide,H04,0.25
+296e052ccbeb7c30,video lines,sections,H04,0.25
+d0d2d0698763c620,video lines,signal transmission line,H04,0.25
+7da08d22e0dd9370,video lines,signals,H04,0.25
+b58b3e36e1b03e3e,video lines,signature signals,H04,0.25
+0aa6c01f66bae3c3,video lines,song lines,H04,0.0
+31e35201500f9c29,video lines,television lines,H04,0.25
+dde4fec58f88ecd8,video lines,video call,H04,0.0
+c9b2e4e1d6a56f56,video lines,video field,H04,0.5
+0817b96f405e6cf9,video lines,video line selector,H04,0.5
+3d00365ed43561f6,video lines,video lines extracting,H04,0.5
+c4f63808c19374d5,video lines,video signal,H04,0.5
+61a15345bac85ee9,video lines,video signal lines,H04,0.75
+c1f6b03fee191f37,video lines,word lines,H04,0.25
+8140412b5ccc1921,wedge device,device surface,G02,0.5
+a2ad250bebc85e6b,wedge device,lens,G02,0.25
+55cab63e6221860c,wedge device,output,G02,0.25
+f7dbc6da4d6ee0b3,wedge device,prism device,G02,0.5
+c3a262fa739102ab,wedge device,wedge,G02,0.5
+b69eec9062befe0e,wedge device,wedge layer,G02,0.5
+e9a2b17581a5904c,wire grid polarization,collection event,G02,0.25
+57d17eb48a4e3f8e,wire grid polarization,conductive wiring,G02,0.5
+828f84119fc00ac2,wire grid polarization,grating polarization,G02,0.5
+f3709ee840148325,wire grid polarization,grid ceiling,G02,0.0
+04c806c48de07483,wire grid polarization,grid paper,G02,0.0
+727f34f8b3ae16f4,wire grid polarization,grid polarization,G02,0.5
+f7021541ee77c00e,wire grid polarization,grid polarizer,G02,0.5
+4c45828f556a4fb0,wire grid polarization,grid station,G02,0.0
+66860377e6258680,wire grid polarization,infrared wire grid polarizers,G02,0.5
+833987a1c326ba37,wire grid polarization,inorganic dielectric material,G02,0.5
+5d7e9a59746c2195,wire grid polarization,inorganic polarization,G02,0.5
+0ee01760fe89897b,wire grid polarization,live wire,G02,0.0
+778b07b23797c6dc,wire grid polarization,non dielectric material,G02,0.5
+e1a306fd3c2e058d,wire grid polarization,non polarized wire grid,G02,0.25
+62423c318e9a8621,wire grid polarization,optics,G02,0.25
+bdab535d5967efa6,wire grid polarization,organic polarization,G02,0.5
+9890baee36af69eb,wire grid polarization,polarization,G02,0.5
+f5293bce9a21e8c3,wire grid polarization,polarized capacitor,G02,0.0
+62fe101316963024,wire grid polarization,polymer organic polarization,G02,0.5
+349a8bd8fe9fa225,wire grid polarization,polymer polarization,G02,0.5
+8276ed0275004ef6,wire grid polarization,polymer polarizing,G02,0.5
+1f15bdaef554afe6,wire grid polarization,projection display systems,G02,0.25
+52b4d509b32f1cd9,wire grid polarization,reflect polarizer,G02,0.5
+35ed44ce61aa98a2,wire grid polarization,reflection suppression layer,G02,0.5
+f130a3c9fcc2e0b0,wire grid polarization,reflective polarizers,G02,0.75
+4e52758a608922a2,wire grid polarization,threaded union nut,G02,0.25
+5944392abe028b82,wire grid polarization,transparent organic polarization,G02,0.5
+b91d12654640bae2,wire grid polarization,transparent polarization,G02,0.5
+1a8ca914093533e8,wire grid polarization,wgp,G02,0.75
+c233e27cecf30b60,wire grid polarization,wire,G02,0.25
+9f745ee4f326ba06,wire grid polarization,wire crystal polarization,G02,0.5
+f705181a6c6e8284,wire grid polarization,wire grating polarization,G02,0.5
+3aaa9d723a2dd5e1,wire grid polarization,wire grid polarizer,G02,1.0
+fbfafbde1941af72,wire grid polarization,wire grid polarizing,G02,1.0
+ffd9bdfba2bee3b3,wire grid polarization,wire stem,G02,0.0
+7dd7bb19b82bf361,wire grid polarization,consist of wire grid,H04,0.25
+b448a0c5c4bef1d1,wire grid polarization,grid polarizing,H04,0.5
+c737ae677491e625,wire grid polarization,pbs polarization,H04,0.5
+d9229a2d00f31399,wire grid polarization,pbs polarizing,H04,0.5
+61350d231d52c186,wire grid polarization,polarization,H04,0.5
+59c0d33ccfb4f873,wire grid polarization,polarizing,H04,0.5
+46017862b2545572,wire grid polarization,wire grid,H04,0.25
+b4b17a1795a5ecc6,wire grid polarization,wire grid polarizers,H04,1.0
+f1e1395c3c62f2ab,wire grid polarization,wire grid polarizing,H04,1.0
